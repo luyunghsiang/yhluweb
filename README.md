@@ -1,4 +1,4 @@
-# University Entrepreneurs
+# Yung-Hsiang Lu
 
 
 copy .travis.yml
@@ -9,7 +9,7 @@ copy get-current-version.sh
 
 
 after_success:
-- travis-sphinx deploy --cname universityentrepreneurs.net
+- travis-sphinx deploy --cname yhlu.net
 
 How to set up
 
@@ -32,7 +32,7 @@ Either, you use a directory "_build" within the root path, or you separate
 > Separate source and build directories (y/n) [n]: y
 
 The project name will occur in several places in the built documentation.
-> Project name: University Entrepreneurs
+> Project name: Yung-Hsiang Lu
 > Author name(s): Yung-Hsiang Lu
 > Project release []: 1.0
 
@@ -63,11 +63,11 @@ $ make latexpdf
 .travis.yml
 
   file:
-    - ./**/universityentrepreneurs.pdf
-    - ./**/universityentrepreneurs.epub
+    - ./**/yhlu.pdf
+    - ./**/yhlu.epub
 
   on:
-    repo: PurdueCAM2Project/universityentrepreneurs
+    repo: yhluweb
     tags: true
 
 copy .gitignore

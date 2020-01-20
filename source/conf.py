@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'University Entrepreneurs'
+project = 'Yung-Hsiang Lu'
 copyright = '2019-2020, Yung-Hsiang Lu'
 author = 'Yung-Hsiang Lu'
 
