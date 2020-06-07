@@ -30,8 +30,8 @@ deploy:
   api_key: $GH_TOKEN
   file_glob: true
   file:
-    - ./**/yhlu.pdf
-    - ./**/yhlu.epub
+    - ./**/*.pdf
+    - ./**/*.epub
   skip_cleanup: true
   on:
     repo: luyunghsiang/yhluweb
