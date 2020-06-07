@@ -22,7 +22,7 @@ script:
 - BOOK_VERSION=$(./get-current-version.sh) make latexpdf
 - make epub
 after_success:
-- travis-sphinx deploy --cname universityentrepreneurs.net
+- travis-sphinx deploy --cname yhlu.net
 before_deploy:
 - cd $TRAVIS_BUILD_DIR
 deploy:
@@ -30,9 +30,9 @@ deploy:
   api_key: $GH_TOKEN
   file_glob: true
   file:
-    - ./**/universityentrepreneurs.pdf
-    - ./**/universityentrepreneurs.epub
+    - ./**/yhlu.pdf
+    - ./**/yhlu.epub
   skip_cleanup: true
   on:
-    repo: PurdueCAM2Project/universityentrepreneurs
+    repo: luyunghsiang/yhluweb
     tags: true
