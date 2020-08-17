@@ -34,8 +34,4 @@ Leadership Positions
        contributions promoting entrepreneurship in VIP teams.  He
        obtained the 
 
-News
-----
-       
-News Coverage: New ScientistTech "Guessing" robots navigate faster. BBC News "Guessing" robots find their way. IDG Pesquisadores dos EUA desenvolvem robô que "não se perde".
 

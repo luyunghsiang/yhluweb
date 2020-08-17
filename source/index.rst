@@ -12,7 +12,6 @@ Yung-Hsiang Lu
 
 	     
    education
-   awards
    research
    publications
    patents
