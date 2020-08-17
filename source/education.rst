@@ -1,32 +1,31 @@
+Education and Positions
+=======================
+
 Education
-=========
+---------
+
+     - 2002, Ph.D.,  Electrical Engineering, Stanford University, California, USA
+
+     - 1997, M.S.,  Electrical Engineering, Stanford University, California, USA
+
+     - 1992, B.S.,  Electrical Engineering, National Taiwan University, Taipei, Taiwan
+
+   
+Positions
+---------
+
+- 2017 to Present, Professor, Electrical and Computer Engineering, Purdue University, Indiana, USA
 
 
-.. list-table::
-   :widths: 10 30
+- 2011/08-2011/12, Visiting Associate Professor, School of Computing, National Singapore University, Singapore
 
 
-   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image109726
+- 2008 - 2017, Associate  Professor, Electrical and Computer Engineering, Purdue University, Indiana, USA
 
-     - Yung-Hsiang Lu is a professor in the School of Electrical and
-       Computer Engineering at Purdue University, West Lafayette,
-       Indiana, USA.  He is a Distinguished Scientist and
-       Distinguished Speaker of the ACM (Association for Computing
-       Machinery).  He led a team that received an Innovation Corps
-       (I-Corps) grant from the National Science Foundation
-       (IIP-1530914 "Business Analytics for Large Scale
-       Intelligence"). In 2015, Dr. Lu and three Purdue students
-       started a technology company using video analytics in physical
-       stores to improve customer experience. This company received
-       Small Business Innovation Research (SBIR) from the National
-       Science Foundation Phase I (IIP-1622082) and Phase II
-       (IIP-1738492). In December 2018, the company received a Black
-       Award from Elevate Purdue Foundry Fund. In 2019-2021, Dr. Lu is
-       the Engineering Dean's Fellow in Entrepreneurship coordinating
-       the entrepreneurship programs on Purdue campus.  In 2019, he
-       obtained the Outstanding VIP-Based Entrepreneurship Award from
-       the VIP (Vertically Integrated Project) Consortium for his
-       contributions promoting entrepreneurship in VIP teams.  He
-       obtained the Ph.D. degree in Electrical Engineering from
-       Stanford University. 
+- 2002 - 2008, Assistant  Professor, Electrical and Computer Engineering, Purdue University, Indiana, USA
 
+- 2000/06 - 2000 / 09, Summer Intern Researcher, Compaq, California, USA
+
+- 1998/06 - 1998 / 09, Summer Intern Researcher, IBM Almaden Research Center, California, USA
+
+- 1996/06 - 1996 / 09, Summer Intern Researcher, Silicon Graphics Incorporate, California, USA  

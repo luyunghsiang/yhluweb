@@ -3,6 +3,9 @@
 Yung-Hsiang Lu
 ====================================================
 
+  .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image109726
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -10,6 +13,12 @@ Yung-Hsiang Lu
 	     
    education
    awards
+   research
+   publications
+   patents
+   entrepreneurship
+   
+   
 
 Indices and tables
 ==================
