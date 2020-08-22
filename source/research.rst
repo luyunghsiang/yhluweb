@@ -25,13 +25,96 @@ Current Topics
 Research Funding
 ----------------
 
+National Science Foundation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 2020, PI, Collaborative:RAPID:Leveraging New Data Sources to Analyze the Risk of COVID-19 in Crowded Locations
+
+- 2019, PI, CCRI: Planning: Collaborative Research: Planning to
+    Develop a Low-Power Computer Vision Platform to Enhance Research
+    in Computing Systems
+
+- 2017, PI, Summit of Software Infrastructure for Managing and
+  Processing Big Multimedia Data at the Internet Scale
+
+- 2015, PI, SI2-SSE: Analyze Visual Data from Worldwide Network
+  Cameras
+
+- 2015, PI, I-Corps: Business Analytics for Large Scale Intelligence
+
+- 2014, PI, US-Singapore Workshop: Collaborative Research: Understand
+  the World by Analyzing Many Video Streams
+
+- 2013, Co-PI, Planning Grant: I/UCRC for Net-Centric Software and
+  Systems Center Research Center
+
+- 2010, Co-PI, CI-ADDO-NEW: Collaborative Research: Development of
+  DARwIn Humanoid Robots for Research, Education and Outreach
+
+- 2009, Co-PI, CRI: II-NEW: Adaptive Robotic Testbed for Wireless
+  Sensor Networks and Autonomous Systems
+
+- 2008, Co-PI, CRI: Planning - A Testbed for Compiler-supported
+  Scalable Error Monitoring and Diagnosis for Reliable and Secure
+  Sensor Networks
+
+- 2007, Co-PI, NeTS-NOSS: AIDA: Autonomous Information Dissemination
+  in RAndomly Deployed Sensor Networks
+
+- 2007, Co-PI, CPATH EAE: Extending a Bottom-Up Education Model to
+  Support Concurrency from the First Year
+
+- 2007, Co-PI, CT-ISG: Compiler-Enabled Adaptive Security Monitoring
+  on Networked Embedded Systems
+
+- 2006, PI, CPA: Cross-Layer Energy Management by Architectures,
+  Operating Systems, and Application Programs
+
+- 2005, Co-PI, CSR-EHS: Resource-Efficient Monitoring, Diagnosis, and
+  Programming Support for Reliable Networked Embedded Systems
+
+- 2004, PI, CAREER: A Unified Approach for Energy Management by
+  Operating Systems
+
+- 2003, Co-PI, IIS: Distributed Energy-Efficient Mobile Robots
+
+
+Facebook
+^^^^^^^^
+
+- 2019, Low-Power Computer Vision Challenge
+
+- 2017, Computer Vision using Contextual Information  
+
+Google
+^^^^^^
+
+- 2020, Open-Source TensorFlow Model Garden
+
+- 2018, Low-Power Computer Vision Challenge
+
+
+
+Xilinx
+^^^^^^
+
+- Low-Power Computer Vision Challenge
+
 
 Current Graduate Students
 -------------------------
 
-- Doctoral: Caleb Tung and Abhinav Goel
+- Doctoral:
 
-- MS: Xiao Hu and Haobo Wang
+  * Abhinav Goel. Topic: Efficient Computer Vision using Hierarchical Neural Network
+  
+  * Caleb Tung. Topic: Efficient Computer Vision using Contextual Information
+
+- MS:
+
+  * Xiao Hu. Topic: Fairness of Computer Vision
+
+    * Haobo Wang. Topic: Simulation of Large Computer Networks
 
 
 Past Graduate Students
