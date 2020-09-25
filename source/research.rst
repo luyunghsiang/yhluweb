@@ -31,8 +31,8 @@ National Science Foundation
 - 2020, PI, Collaborative:RAPID:Leveraging New Data Sources to Analyze the Risk of COVID-19 in Crowded Locations
 
 - 2019, PI, CCRI: Planning: Collaborative Research: Planning to
-    Develop a Low-Power Computer Vision Platform to Enhance Research
-    in Computing Systems
+  Develop a Low-Power Computer Vision Platform to Enhance Research
+  in Computing Systems
 
 - 2017, PI, Summit of Software Infrastructure for Managing and
   Processing Big Multimedia Data at the Internet Scale
