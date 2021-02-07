@@ -3,7 +3,11 @@
 Yung-Hsiang Lu
 ==============
 
-  .. image:: https://engineering.purdue.edu/HELPS/Images/20201129LuPurdue.jpg
+
+.. image:: https://engineering.purdue.edu/HELPS/Images/20201129LuPurdue.jpg
+   :width: 35%
+   :alt: alternate text
+   :align: right
 
 Yung-Hsiang Lu is a professor of Electrical and Computer Engineering
 at Purdue University. His research areas include computer vision,

@@ -17,9 +17,7 @@ Current Topics
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Open-Source TensorFlow Garden   | Google                      | Create open-source implementation of computer vision        |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Image Processing for Solar Sail |                             | Estiamate the optical force from the shape of solar Sail    |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Fairness of Computer Vision     |                             | Identify bias in training data used in maching learning     |
+| Image Processing for Solar Sail | NASA                        | Estiamate the optical force from the shape of solar Sail    |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 
 Research Funding
