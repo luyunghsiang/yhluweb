@@ -27,7 +27,6 @@ Projects) Consortium.
    research
    publications
    patents
-   entrepreneurship
    
    
 
