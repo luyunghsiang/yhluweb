@@ -1,7 +1,8 @@
 Research 
 ========
 
-Dr. Lu's research focuses on improving efficiency of computer systems.
+Dr. Lu's research focuses on improving efficiency of computer systems
+and analyze large amounts of data from distributed sources.
 
 Current Topics
 --------------
