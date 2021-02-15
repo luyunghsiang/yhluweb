@@ -11,7 +11,7 @@ Current Topics
 +=================================+=============================+=============================================================+
 | Low-Power Computer Vision       | Google, Facebook, Xilinx    | Create efficient computer vision running on embedded sysems |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Drone Video Dataset             | National Science Foundation | Create video datasets captured by drone                     |
+| Drone Video                     | National Science Foundation | Create video datasets captured by drone                     |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Observe Crowd Size in COVID-19  | National Science Foundation | Estimate crowd sizes worldwide during COVID-19              |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
@@ -80,7 +80,7 @@ National Science Foundation
 Facebook
 ^^^^^^^^
 
-- 2019, Low-Power Computer Vision Challenge
+- 2019 and 2020, Low-Power Computer Vision Challenge
 
 - 2017, Computer Vision using Contextual Information  
 
@@ -102,74 +102,106 @@ Xilinx
 Current Graduate Students
 -------------------------
 
-- Doctoral:
-
-  * Abhinav Goel. Topic: Efficient Computer Vision using Hierarchical Neural Network
+- Abhinav Goel. Topic: Efficient Computer Vision using Hierarchical Neural Network
   
-  * Caleb Tung. Topic: Efficient Computer Vision using Contextual Information
+- Caleb Tung. Topic: Efficient Computer Vision using Contextual Information
 
-- MS:
+- Xiao Hu. Topic: Efficient Object Tracking on Embedded Systems
 
-  * Xiao Hu. Topic: Fairness of Computer Vision
-
-    * Haobo Wang. Topic: Simulation of Large Computer Networks
+- Haobo Wang. Topic: Network Management for Surveillance Video
 
 
 Past Graduate Students
 ----------------------
 
-- 2020, Sara Aghajanzadeh, M.S., Thesis: "Camera Placement Meeting
-  Restrictions of Computer Vision".
+- Ph.D.
 
-- 2019 Ryan Dailey, M.S., Thesis: "Automated Discovery of Network
-  Cameras in Heterogeneous Web Pages".
+  * 2017 `Anup Mohan <https://www.linkedin.com/in/anupmohan560/>`_,
+    Ph.D., Thesis: "Cloud Resource Management for Big Visual Data
+    Analysis from Globally Distributed Network Cameras".
 
-- 2019 Aniesh Chawla, M.S., Thesis: "Automated System for Identifying
-  Usable Sensors in a Large Scale Sensor Network for Computer Vision
-  Applications".
+  * 2016 `Ahmed Kaseb <https://www.linkedin.com/in/akaseb/>`_, Ph.D.,
+    Thesis: "A Cost-Effective Cloud-Based System for Analyzing Big
+    Real-Time Visual Data From Thousands of Network Cameras".
 
-- 2018 Yifan Li, M.S., Thesis: "Study of Pedestrian Jaywalking in
-  Campus Area by Analyzing Network Camera Data".
+  * 2012 `Jing (Jackie) Feng
+    <https://www.linkedin.com/in/jing-feng-70507225/>`_, Ph.D.,
+    Thesis: "Energy-Efficient Collaborative Data Transmission in
+    Wireless Sensor Networks".
 
-- 2018 Fengjian Pan, M.S., Thesis: "Faster CNN-based Object Detection
-  with Adaptive Network Selection on Embedded System".
+  * 2011 `Karthik Kumar
+    <https://www.linkedin.com/in/karthikkumar2/>`_, Ph.D.  Thesis:
+    "Application-Based Energy Efficient Mobile and Server Computing",
+    Bilsland Dissertation Fellowship.
 
-- 2017 Anup Mohan, Ph.D., Thesis: "Cloud Resource Management for Big
-  Visual Data Analysis from Globally Distributed Network Cameras".
+  * 2010 `Yamini Nimmagadda
+    <https://www.linkedin.com/in/yamini-nimmagadda-6677a08/>`_, Ph.D.,
+    Thesis: "Resource-Driven Transmission, Display, and Processing of
+    Multimedia in Mobile Devices".
 
-- 2016 Ahmed Kaseb, Ph.D., Thesis: "A Cost-Effective Cloud-Based
-  System for Analyzing Big Real-Time Visual Data From Thousands of
-  Network Cameras".
+  * 2008 Changjiu Xian, Ph.D., Thesis: "Collaborative Power Management between Operating Systems and Applications".
 
-- 2016 Youngsol Koh, M.S., Thesis: "Efficient Data Processing from
-  Network Camera and its Application".
+  * 2008 `Nathaniel (Eddie) Pettis
+    <https://www.linkedin.com/in/eddiepettis/>`_, Ph.D., Thesis:
+    "Automatic Configuration and Selection of {Power} Management
+    Policies".  Bilsland Dissertation Fellowship and a finalist of
+    Chorafas Top Doctoral Award.
 
-- 2015 Ganesh Prahlad Rao Gingade, M.S., Thesis: "Hybrid Power
-  Management for Office Equipment".
+  * 2007 `Yongguo Mei
+    <https://www.linkedin.com/in/yongguo-mei-45613416/>`_, Ph.D.,
+    Thesis: "Energy-Efficient Mobile Robots".
 
-- 2015 Wenyi Chen, M.S., Thesis: "Dynamic Resource Allocation for
-  Large-Scale Streaming Data".
+  * 2006 `Le Cai <https://www.linkedin.com/in/le-cai-8119725/>`_,
+    Ph.D., Thesis: "Joint Power Management of Memory and Hard Disks"
+
+
+- MS
   
-- 2012 Jing (Jackie) Feng, Ph.D., Thesis: "Energy-Efficient
-  Collaborative Data Transmission in Wireless Sensor Networks".
+  * 2020 `Sara Aghajanzadeh
+    <https://www.linkedin.com/in/sara-aghajanzadeh-524317107/>`_,
+    M.S., Thesis: "Camera Placement Meeting Restrictions of Computer
+    Vision".
 
-- 2011 Karthik Kumar, Ph.D.  Thesis: "Application-Based Energy
-  Efficient Mobile and Server Computing", Bilsland Dissertation
-  Fellowship.
+  * 2019 `Ryan Dailey <https://www.linkedin.com/in/rmdailey/>`_, M.S.,
+    Thesis: "Automated Discovery of Network Cameras in Heterogeneous
+    Web Pages".
 
-- 2010 Yamini Nimmagadda, Ph.D., Thesis: "Resource-Driven
-  Transmission, Display, and Processing of Multimedia in Mobile
-  Devices".
+  * 2019 `Aniesh Chawla <https://www.linkedin.com/in/anieshchawla/>`_,
+    M.S., Thesis: "Automated System for Identifying Usable Sensors in
+    a Large Scale Sensor Network for Computer Vision Applications".
 
-- 2008 Changjiu Xian, Ph.D., Thesis: "Collaborative Power Management
-  between Operating Systems and Applications".
+  * 2018 `Yifan Li <https://www.linkedin.com/in/yifanli8086/>`_, M.S.,
+    Thesis: "Study of Pedestrian Jaywalking in Campus Area by
+    Analyzing Network Camera Data".
 
-- 2008 Nathaniel (Eddie) Pettis, Ph.D., Thesis: "Automatic
-  Configuration and Selection of {Power} Management Policies".
-  Bilsland Dissertation Fellowship and a finalist of Chorafas Top
-  Doctoral Award.
+  * 2018 `Fengjian Pan <https://www.linkedin.com/in/fengjian-pan/>`_,
+    M.S., Thesis: "Faster CNN-based Object Detection with Adaptive
+    Network Selection on Embedded System".
 
-- 2007 Yongguo Mei, Ph.D.,  Thesis: "Energy-Efficient Mobile Robots".
+  * 2016 `Youngsol Koh
+    <https://www.linkedin.com/in/youngsol-koh-953a96ba/>`_, M.S.,
+    Thesis: "Efficient Data Processing from Network Camera and its
+    Application".
 
-- 2006 Le Cai, Ph.D., Thesis: "Joint Power Management of Memory and
-  Hard Disks"
+  * 2015 `Ganesh Prahlad Rao Gingade
+    <https://www.linkedin.com/in/ganeshgp/>`_, M.S., Thesis: "Hybrid
+    Power Management for Office Equipment".
+
+  * 2015 `Wenyi Chen
+    <https://www.linkedin.com/in/wenyi-chen-4273ba42/>`_, M.S.,
+    Thesis: "Dynamic Resource Allocation for Large-Scale Streaming
+    Data".
+
+  * 2008 `Karthik Kumar
+    <https://www.linkedin.com/in/karthikkumar2/>`_, M.S.,
+    Thesis: “Energy Conservation for Content-Based Image Retrieval on
+    Mobile Devices”. 
+
+  * 2007 `Douglas Herbert
+    <https://www.linkedin.com/in/doug-herbert-11b1957/>`_, M.S.,
+    Thesis: “Wireless Sensor Network Debugging Using Invariant
+    Insertion”.
+
+  * 2006 `Jeffrey Brateman <https://www.linkedin.com/in/brateman/>`_,
+    M.S., Thesis: “Frequency and Speed Setting for Energy Conservation
+    in Autonomous Mobile Robots”.

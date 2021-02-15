@@ -4,29 +4,41 @@ Publications
 Book
 ----
 
-Yung-Hsiang Lu, "Intermediate C Programming", CRC Press, ISBN
-978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations, Published June
-16, 2015
+Yung-Hsiang Lu, "`Intermediate C Programming
+<https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",
+CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,
+Published June 16, 2015
 
 
 Journal Papers
 --------------
 
+- Ryan Dailey, Aniesh Chawla, Andrew Liu, Sripath Mishra, Ling Zhang,
+  Josh Majors Yung-Hsiang Lu, George Thiruvathukal, "Automated
+  Discovery of Network Cameras in Heterogeneous Web Pages", accepted
+  by ACM Transactions on Internet Technology.
+
 - Abhinav Goel, Sara Aghajanzadeh, Caleb Tung, Shuo-Han Chen,
-  George K. Thiruvathukal, Yung-Hsiang Lu, "Modular Neural Networks
-  for Low-Power Image Classification on Embedded Devices", ACM
-  Transactions on Design Automation of Electronic Systems (accepted)
+  George K. Thiruvathukal, Yung-Hsiang Lu, "`Modular Neural Networks
+  for Low-Power Image Classification on Embedded Devices
+  <https://dl.acm.org/doi/abs/10.1145/3408062>`_", ACM Transactions on
+  Design Automation of Electronic Systems, October 2020. DOI:
+  https://doi.org/10.1145/3408062
     
 - Nicholas John Eliopoulos, Yezhi Shen, Minh Luong Nguyen, Vaastav
   Arora, Yuxin Zhang, Yung-Hsiang Lu, Guofan Shao, and Keith Woeste,
-  "Rapid Tree Diameter Computation with Terrestrial Stereoscopic
-  Photogrammetry", Journal of Forestry, March 2020.
-
+  "`Rapid Tree Diameter Computation with Terrestrial Stereoscopic
+  Photogrammetry
+  <https://academic.oup.com/jof/article-abstract/118/4/355/5811312?redirectedFrom=fulltext>`_",
+  Journal of Forestry, Pages 355–361, March 2020. DOI:
+  https://doi.org/10.1093/jofore/fvaa009
 
 - Yung-Hsiang Lu, George K. Thiruvathukal, Ahmed S. Kaseb, Kent Gauen,
   Damini Rijhwani, Ryan Dailey, Deeptanshu Malik, Yutong Huang, Sarah
-  Aghajanzadeh, Minghao Guo, "See the World through Network Cameras",
-  IEEE Computer pages 30-40, Volume 52, Issue 10, October 2019
+  Aghajanzadeh, Minghao Guo, "`See the World through Network Cameras
+  <https://www.computer.org/csdl/magazine/co/2019/10/08848161/1dAq0gqBbP2>`_",
+  IEEE Computer pages 30-40, Vol. 52, Issue 10, October 2019. DOI:
+  https://doi.org/10.1109/MC.2019.2906841
 
 - Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton,
   Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan, Chen Feng, Bo Fu,
@@ -37,41 +49,54 @@ Journal Papers
   Yung-Hsiang Lu (Corresponding Author), Deeptanshu Malik, Hong Hanh
   Nguyen, Eunbyung Park, Denis Repin, Liang Shen, Tao Sheng, Fei~Sun,
   David~Svitov, George K. Thiruvathukal, Baiwu Zhang, Jingchi Zhang,
-  Xiaopeng Zhang, Shaojie Zhuo, "Low-Power Computer Vision: Status,
-  Challenges, Opportunities", IEEE Journal on Emerging and Selected
-  Topics in Circuits and Systems, Pages 411-421, Volume 9, Issue 2,
-  June 2019
+  Xiaopeng Zhang, Shaojie Zhuo, "`Low-Power Computer Vision: Status,
+  Challenges, Opportunities
+  <https://ieeexplore.ieee.org/document/8693826>`_", IEEE Journal on
+  Emerging and Selected Topics in Circuits and Systems, Pages 411-421,
+  Vol. 9, Issue 2, June 2019. DOI:
+  https://doi.org/10.1109/JETCAS.2019.2911899
 
-- Yung-Hsiang Lu, "Low-power image recognition (Challenge Accepted)",
-  Nature Machine Learning Vol 1, April 2019, [online]
+- Yung-Hsiang Lu, "`Low-power image recognition (Challenge Accepted)
+  <https://www.nature.com/articles/s42256-019-0041-4>`_", Nature
+  Machine Learning Vol 1, April 2019. DOI:
+  https://doi.org/10.1038/s42256-019-0041-4
 
 - Zohar Ronel Kapach, Andrew Ulmer,Daniel Merrick,Arshad Alikhan,
   Yung-Hsiang Lu, Anup Mohan, Ahmed S. Kaseb, George Thiruvathukal,
-  "Cloud Resource Optimization for Processing Multiple Streams of
-  Visual Data", IEEE Multimedia, Pages 31-41, Volume 26, Issue 3,
-  July-September 2019.
+  "`Cloud Resource Optimization for Processing Multiple Streams of
+  Visual Data <https://ieeexplore.ieee.org/document/8594612>`_", IEEE
+  Multimedia, Pages 31-41, Vol. 26, Issue 3, July-September 2019.
+  DOI: https://doi.org/10.1109/MMUL.2018.2890255
 
-- Yung-Hsiang Lu, Alexander C. Berg, Yiran Chen, "Low-Power Image
-  Recognition Challenge", AI Magazine Vol 39 No 2, Summer 2018
+- Yung-Hsiang Lu, Alexander C. Berg, Yiran Chen, "`Low-Power Image
+  Recognition Challenge
+  <https://ojs.aaai.org//index.php/aimagazine/article/view/2782>`_",
+  AI Magazine, Pages 87-88, Vol 39, No 2, Summer 2018. DOI:
+  https://doi.org/10.1609/aimag.v39i2.2782
 
-- Anup Mohan,Ahmed S. Kaseb, Yung-Hsiang Lu, Tom Hacker, "Adaptive
+- Anup Mohan,Ahmed S. Kaseb, Yung-Hsiang Lu, Tom Hacker, "`Adaptive
   Resource Management for Analyzing Video Streams from Globally
-  Distributed Network Cameras", IEEE Transactions on Cloud Computing
-  May 2018
+  Distributed Network Cameras
+  <https://ieeexplore.ieee.org/document/8359122>`_", IEEE Transactions
+  on Cloud Computing May 2018 (early access). DOI:
+  https://doi.org/10.1109/TCC.2018.2836907
 
-- Ahmed S. Kaseb, Anup Mohan, Youngsol Koh, Yung-Hsiang Lu, "Cloud
+- Ahmed S. Kaseb, Anup Mohan, Youngsol Koh, Yung-Hsiang Lu, "`Cloud
   Resource Management for Analyzing Big Real-Time Visual Data from
-  Network Cameras", IEEE Transactions on Cloud Computing June 2017
+  Network Cameras <https://ieeexplore.ieee.org/document/7959647>`_",
+  IEEE Transactions on Cloud Computing, Pages 935-948, Vol. 7, Issue
+  4, October-December 2019. DOI:
+  https://doi.org/10.1109/TCC.2017.2720665
 
 - Ganesh Gingade, Wenyi Chen, Yung-Hsiang Lu, Jan Allebach, and Hernan
   Ildefonso Gutierrez-Vazquez, "Hybrid Power Management for Office
   Equipment", ACM Transactions on Design Automation of Electronic
-  Systems, Volume 22 Issue 1, December 2016 Article No. 14
+  Systems, Vol. 22 Issue 1, December 2016 Article No. 14
 
 - Line C. Pouchard, Megan Sapp Nelson, and Yung-Hsiang Lu, "Data
   Sharing and Re-Use Policies for Webcam Video Feeds from
   International Sources", International Association for Social Science
-  Information Services & Technology Quarterly, Volume 39, Number 4,
+  Information Services & Technology Quarterly, Vol. 39, Number 4,
   2015
 
 - Wenyi Chen, Anup Mohan, Yung-Hsiang Lu, Thomas Hacker, Wei Tsang
@@ -225,9 +250,11 @@ Conference Papers
   International Conference on Image Processing 2020.
 
 - Abhinav Goel, Caleb Tung, Sara Aghajanzadeh, Isha Ghodgaonkar,
-  Shreya Ghosh, George K. Thiruvathukal, Yung-Hsiang Lu, "Low-Power
-  Object Counting with Hierarchical Neural Networks", ACM/IEEE
+  Shreya Ghosh, George K. Thiruvathukal, Yung-Hsiang Lu, "`Low-Power
+  Object Counting with Hierarchical Neural Networks
+  <https://dl.acm.org/doi/10.1145/3370748.3406569>`_", ACM/IEEE
   International Symposium on Low Power Electronics and Design 2020.
+  Pages 163-168. DOI: https://doi.org/10.1145/3370748.3406569
 
 - Xiao Hu, Haobo Wang, Anirudh Vegesana, Gore Kao, Somesh Dube,Kaiwen
   Yu, Shuo-han Chen, Yung-Hsiang Lu, Ming Yin. "Crowdsourcing

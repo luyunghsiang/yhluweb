@@ -24,11 +24,11 @@ Positions
 Education
 ---------
 
-     - 2002, Ph.D.,  Electrical Engineering, Stanford University, California, USA
+- 2002, Ph.D.,  Electrical Engineering, Stanford University, California, USA
 
-     - 1997, M.S.,  Electrical Engineering, Stanford University, California, USA
+- 1997, M.S.,  Electrical Engineering, Stanford University, California, USA
 
-     - 1992, B.S.,  Electrical Engineering, National Taiwan University, Taipei, Taiwan
+- 1992, B.S.,  Electrical Engineering, National Taiwan University, Taipei, Taiwan
 
 
 
@@ -44,7 +44,6 @@ Awards and Recognition
 
 - 2015, Best Paper Award, International Conference on Cloud Computing and Big Data
 
-
 - 2013, ACM Distinguished Scientist and ACM Distinguished Speaker
 
 
@@ -57,10 +56,10 @@ Awards and Recognition
 Media Coverage
 --------------
 
-- 2020/09/04, Chris Stokel-Walker, NewScientist, Public webcams are telling us whether people are social distancing, 
+- 2020/09/04, Chris Stokel-Walker, NewScientist, "`Public webcams are telling us whether people are social distancing <https://www.newscientist.com/article/2253696-public-webcams-are-telling-us-whether-people-are-social-distancing/>`_"
 
-- 2016/09/12, Eyragon Eidam, Government Technology, The Role of Data Analytics in Predictive Policing
+- 2016/09/12, Eyragon Eidam, Government Technology, "`The Role of Data Analytics in Predictive Policing <https://www.govtech.com/data/Role-of-Data-Analytics-in-Predictive-Policing.html>`_"
 
-- 2016/05/10, Emil Venere, ACM TechNews, System Harnesses Thousands of Network Cameras for Public Safety
+- 2016/05/10, Emil Venere, ACM TechNews, "`System Harnesses Thousands of Network Cameras for Public Safety <https://cacm.acm.org/news/202347-system-harnesses-thousands-of-network-cameras-for-public-safety/fulltext>`_"
 
-- 2011/07/27, Evan Ackerman, IEEE Spectrum, Darwin-OP Learns To Play Dance Dance Revolution
+- 2011/07/27, Evan Ackerman, IEEE Spectrum, "`Darwin-OP Learns To Play Dance Dance Revolution <https://spectrum.ieee.org/automaton/robotics/diy/darwinop-learning-to-play-ddr>`_"

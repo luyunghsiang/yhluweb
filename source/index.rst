@@ -14,7 +14,7 @@ at Purdue University. His research areas include computer vision,
 embedded systems, cloud computing, and big data. He is a fellow of the
 IEEE (Institute of Electrical and Electronics Engineers),
 distinguished scientist and distinguished speaker of the ACM
-(Association for Computing Machinery). He helped two team of students
+(Association for Computing Machinery). He helped two teams of students
 start technology companies and the companies raised more than
 $1.5M. Dr. Lu is the inaugural director of Purdue's John Martinson
 Engineering Entrepreneurial Center. In 2019, he received Outstanding
@@ -31,6 +31,7 @@ Projects) Consortium.
    research
    publications
    patents
+   teach
    
    
 
