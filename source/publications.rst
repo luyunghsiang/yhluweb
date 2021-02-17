@@ -89,9 +89,10 @@ Journal Papers
   https://doi.org/10.1109/TCC.2017.2720665
 
 - Ganesh Gingade, Wenyi Chen, Yung-Hsiang Lu, Jan Allebach, and Hernan
-  Ildefonso Gutierrez-Vazquez, "Hybrid Power Management for Office
-  Equipment", ACM Transactions on Design Automation of Electronic
-  Systems, Vol. 22 Issue 1, December 2016 Article No. 14
+  Ildefonso Gutierrez-Vazquez, "`Hybrid Power Management for Office
+  Equipment <https://dl.acm.org/doi/abs/10.1145/2910582>`_", ACM
+  Transactions on Design Automation of Electronic Systems, Vol. 22
+  Issue 1, December 2016 Article No. 14. DOI: https://doi.org/10.1145/2910582
 
 - Line C. Pouchard, Megan Sapp Nelson, and Yung-Hsiang Lu, "Data
   Sharing and Re-Use Policies for Webcam Video Feeds from
