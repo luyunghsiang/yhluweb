@@ -1,9 +1,8 @@
 sudo: false
-language: python
+dist: focal
 addons:
   apt:
     packages:
-    - latex-xcolor
     - texlive-base
     - texlive-latex-base
     - texlive-latex-recommended
@@ -16,6 +15,8 @@ addons:
     - texinfo
     - texlive-science
     - latexmk
+    - lmodern
+    - biber
 script:
 - pip install -r requirements.txt
 - BOOK_VERSION=$(./get-current-version.sh) travis-sphinx build -n -s source
