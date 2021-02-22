@@ -15,7 +15,8 @@ Book
 Yung-Hsiang Lu, "`Intermediate C Programming
 <https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",
 CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,
-Published June 16, 2015. `中文翻译 <https://developer.aliyun.com/article/214499>`_.
+Published June 16, 2015. `Chinese Version
+<https://developer.aliyun.com/article/214499>`_.
 
 
 
