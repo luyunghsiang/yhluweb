@@ -1,13 +1,23 @@
 Publications
 ============
 
+|CRCBOOK| |CNBOOK|
+
+.. |CRCBOOK| image:: https://images.routledge.com/common/jackets/amazon/978149871/9781498711630.jpg
+   :width: 45%
+
+.. |CNBOOK| image:: https://yqfile.alicdn.com/ab4969a35cf457a82587a0ab84b26bede3ec9a0a.png
+   :width: 45%
+
 Book
 ----
 
 Yung-Hsiang Lu, "`Intermediate C Programming
 <https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",
 CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,
-Published June 16, 2015
+Published June 16, 2015. `中文翻译 <https://developer.aliyun.com/article/214499>`_.
+
+
 
 
 Journal Papers
@@ -94,106 +104,140 @@ Journal Papers
   Transactions on Design Automation of Electronic Systems, Vol. 22
   Issue 1, December 2016 Article No. 14. DOI: https://doi.org/10.1145/2910582
 
-- Line C. Pouchard, Megan Sapp Nelson, and Yung-Hsiang Lu, "Data
+- Line C. Pouchard, Megan Sapp Nelson, and Yung-Hsiang Lu, "`Data
   Sharing and Re-Use Policies for Webcam Video Feeds from
-  International Sources", International Association for Social Science
-  Information Services & Technology Quarterly, Vol. 39, Number 4,
-  2015
+  International Sources
+  <https://iassistquarterly.com/index.php/iassist/article/view/903>`_",
+  International Association for Social Science Information Services &
+  Technology Quarterly, Vol. 39, Number 4, 2015. DOI:
+  https://doi.org/10.29173/iq903
 
 - Wenyi Chen, Anup Mohan, Yung-Hsiang Lu, Thomas Hacker, Wei Tsang
-  Ooi, Edward J Delp, "Analysis of Large-Scale Distributed Cameras
-  Using Cloud", IEEE Cloud Computing, featured article in September /
-  October 2015.
+  Ooi, Edward J Delp, "`Analysis of Large-Scale Distributed Cameras
+  Using Cloud <https://ieeexplore.ieee.org/document/7331200>`_", IEEE
+  Cloud Computing, Pages 54-62, featured article in September / October 2015.
+  DOI: https://doi.org/10.1109/MCC.2015.103
 
-- Srikar Bhagavatula, Byunghoo Jung, and Yung-Hsiang Lu, "Real-Time
-  Power Sensors for Intelligent Power Management and Beyond", IEEE
-  Design and Test, July/August 2014, pages 27-35.
+- Srikar Bhagavatula, Byunghoo Jung, and Yung-Hsiang Lu, "`Real-Time
+  Power Sensors for Intelligent Power Management and Beyond
+  <https://ieeexplore.ieee.org/document/6818363>`_", IEEE Design and
+  Test, July/August 2014, pages 27-35. DOI:
+  https://doi.org/10.1109/MDAT.2014.2325534
 
-
-- Martin Dimitrov, Yung-Hsiang Lu, Chia-Lin Yang, "Guest Editors’
-  Introduction: Cloud Computing for Embedded Systems", IEEE Design and
-  Test, May/June 2014, pages 6-7. 
+- Martin Dimitrov, Yung-Hsiang Lu, Chia-Lin Yang, "`Guest Editors’
+  Introduction: Cloud Computing for Embedded Systems
+  <https://www.computer.org/csdl/magazine/dt/2014/03/06862957/13rRUIM2VxM>`_",
+  IEEE Design and Test, May/June 2014, pages 6-7.  DOI:
+  https://doi.org/10.1109/MDAT.2014.2329242
   
 - Jing Feng, Yung-Hsiang Lu, Byunghoo Jung, Dimitrios Peroulis,
-  and Y. Charlie Hu, "Energy-Efficient Data Dissemination Using
-  Beamforming in Wireless Sensor Networks'', ACMTransactions on Sensor
-  Networks, May 2013.
+  and Y. Charlie Hu, "`Energy-Efficient Data Dissemination Using
+  Beamforming in Wireless Sensor Networks
+  <https://dl.acm.org/doi/10.1145/2480730.2480734>`_", ACMTransactions
+  on Sensor Networks, May 2013. Article 31.  DOI:
+  https://doi.org/10.1145/2480730.2480734
 
-- Karthik Kumar, Yamini Nimmagadda, and Yung-Hsiang Lu, "Energy
-  Conservation for Image Retrieval on Mobile Systems", Transactions on
-  Embedded Computing Systems, September 2012.
+- Karthik Kumar, Yamini Nimmagadda, and Yung-Hsiang Lu, "`Energy
+  Conservation for Image Retrieval on Mobile Systems
+  <https://dl.acm.org/doi/10.1145/2345770.2345779>`_", Transactions on
+  Embedded Computing Systems, September 2012. Artile 66.  DOI:
+  https://doi.org/10.1145/2345770.2345779
 
-
-- Ayse Kivilcim Coskun, Yung-Hsiang Lu, and Qinru Qiu, "Introduction
+- Ayse Kivilcim Coskun, Yung-Hsiang Lu, and Qinru Qiu, "`Introduction
   to the Special Section on Adaptive Power Management for Energy and
-  Temperature-Aware Computing Systems", Guest Editors' Introduction
-  for the Special section on adaptive power management for energy and
-  temperature-aware computing systems in ACM Transactions on Design
-  Automation of Electronic Systems, Vol. 18, No. 1, Article 1,
-  December 2012. 
-
+  Temperature-Aware Computing Systems
+  <https://dl.acm.org/doi/10.1145/2390191.2390192>`_", Guest Editors'
+  Introduction for the Special section on adaptive power management
+  for energy and temperature-aware computing systems in ACM
+  Transactions on Design Automation of Electronic Systems, Vol. 18,
+  No.  1, Article 1, January 2013. DOI:
+  https://doi.org/10.1145/2390191.2390192
   
-- Karthik Kumar, Jibang Liu, Yung-Hsiang Lu, and Bharat Bhargava, "A
-  Survey of Computation Offloading for Mobile Systems", Mobile
-  Networks and Applications, April 2012. (invited)
+- Karthik Kumar, Jibang Liu, Yung-Hsiang Lu, and Bharat Bhargava, "`A
+  Survey of Computation Offloading for Mobile Systems
+  <https://link.springer.com/article/10.1007/s11036-012-0368-0>`_",
+  Mobile Networks and Applications, Pages 129-140, Vol. 18,
+  February 2013. DOI: https://doi.org/10.1007/s11036-012-0368-0
 
 - Yung-Hsiang Lu, Qinru Qiu, Ali R. Butt, and Kirk W. Cameron,
-  "End-to-End Energy Management", Computer, 44 (11), November 2011.
+  "`End-to-End Energy Management
+  <https://ieeexplore.ieee.org/document/6072567>`_", Computer,
+  Vol. 44, Issue 11, pages75-77, November 2011. DOI:
+  https://doi.org/10.1109/MC.2011.342
 
-- Yamini Nimmagadda, Karthik Kumar and Yung-Hsiang Lu, "Adaptation of
+- Yamini Nimmagadda, Karthik Kumar and Yung-Hsiang Lu, "`Adaptation of
   Multimedia Presentations for Different Display Sizes in the Presence
-  of Preferences and Temporal Constraints", IEEE Transactions on
-  Multimedia, 12 (7), November 2010, pages 650-664.
+  of Preferences and Temporal Constraints
+  <https://ieeexplore.ieee.org/document/5482154>`_", IEEE Transactions
+  on Multimedia, Vol. 12, Issue 7, pages 650-664, November 2010.
+  DOI: https://doi.org/10.1109/TMM.2010.2052024
 
-- Karthik Kumar and Yung-Hsiang Lu, "Cloud Computing for Mobile Users:
-  Can Offloading Computation Save Energy?", IEEE Computer, 43(4),
-  April 2010, pages 51-56.  No.1 "Top Accessed Articles August 2010''
-  in Computer.
+- Karthik Kumar and Yung-Hsiang Lu, "`Cloud Computing for Mobile
+  Users: Can Offloading Computation Save Energy?
+  <https://ieeexplore.ieee.org/document/5445167>`_", IEEE Computer,
+  Vol. 43, Issue 4, April 2010, pages 51-56.  No.1 "Top Accessed
+  Articles August 2010'' in Computer. DOI:
+  https://doi.org/10.1109/MC.2010.98
 
-- Nathaniel Pettis and Yung-Hsiang Lu, "A Homogeneous Architecture for
-  Power Policy Integration in Operating Systems", IEEE Transactions on
-  Computers, 58(7), July 2009, pages 945-955.
+- Nathaniel Pettis and Yung-Hsiang Lu, "`A Homogeneous Architecture
+  for Power Policy Integration in Operating Systems
+  <https://ieeexplore.ieee.org/document/4633348>`_", IEEE Transactions
+  on Computers, Vol. 58, Issue 7, July 2009, pages 945-955.
+  DOI: https://doi.org/10.1109/TC.2008.180
 
+- Wei Zhang, Yung-Hsing Lu, and Jianghai Hu, "`Optimal Solutions to a
+  Class of Power Management Problems in Mobile Robots
+  <https://www.sciencedirect.com/science/article/pii/S0005109808005463>`_",
+  Automatica, Vol. 45, No. 4, April 2009, pages
+  989-996. DOI: https://doi.org/10.1016/j.automatica.2008.11.004
 
-- Wei Zhang, Yung-Hsing Lu, and Jianghai Hu, "Optimal Solutions to a
-  Class of Power Management Problems in Mobile Robots", Automatica,
-  Vol. 45, No. 4, April 2009, pages 989-996.
-  
-  
-- Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "Dynamic Voltage
+- Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "`Dynamic Voltage
   Scaling for Multitasking Real-Time Systems with Uncertain Execution
-  Time", IEEE Transactions on Computer-Aided Design of Integrated
-  Circuits, 27(8), August 2008, pages 1467-1478.
+  Time <https://ieeexplore.ieee.org/document/4527112>`_", IEEE
+  Transactions on Computer-Aided Design of Integrated Circuits,
+  Vol. 27, Issue 8, August 2008, pages 1467-1478. DOI:
+  https://doi.org/10.1109/TCAD.2008.925778
 
-- Changjiu Xian, Le Cai, and Yung-Hsiang Lu, "Power Measurement of
-  Software Programs on Computers with Multiple I/O Components", IEEE
-  Transactions on Instrumentation and Measurement, 56(5), October
-  2007, pages 2079-2086.
+- Changjiu Xian, Le Cai, and Yung-Hsiang Lu, "`Power Measurement of
+  Software Programs on Computers with Multiple I/O Components
+  <https://ieeexplore.ieee.org/document/4303453>`_", IEEE Transactions
+  on Instrumentation and Measurement, Vol. 56, Issue 5, October 2007,
+  pages 2079-2086. DOI: https://doi.org/10.1109/TIM.2007.904487
 
 - Yongguo Mei, Changjiu Xian, Saumitra Das, Y. Charlie Hu and
-  Yung-Hsiang Lu, "Sensor Replacement using Mobile Robots", Computer
-  Communications, 30(13), September 2007, pages 2615-2626.
+  Yung-Hsiang Lu, "`Sensor Replacement using Mobile Robots
+  <https://www.sciencedirect.com/science/article/pii/S0140366407002460>`_",
+  Computer Communications, Vol. 30, Issue 13, September 2007, pages
+  2615-2626. DOI: https://doi.org/10.1016/j.comcom.2007.05.047
 
 - Douglas Herbert, Vinaitheerthan Sundaram, Yung-Hsiang Lu, Saurabh
-  Bagchi , and Zhiyuan Li, "Adaptive Correctness Monitoring for
+  Bagchi , and Zhiyuan Li, "`Adaptive Correctness Monitoring for
   Wireless Sensor Networks Using Hierarchical Distributed Run-Time
-  Invariant Checking", ACM Transactions on Autonomous and Adaptive
-  Systems, 2(3), September 2007, Article No. 8, 23 pages.
+  Invariant Checking
+  <https://dl.acm.org/doi/10.1145/1278460.1278462>`_", ACM
+  Transactions on Autonomous and Adaptive Systems, Vol. 2, Issue 3,
+  September 2007, Article No. 8, 23 pages.  DOI:
+  https://doi.org/10.1145/1278460.1278462
 
 - Saumitra M. Das, Y. Charlie Hu, C. S. George Lee, and Yung-Hsiang
-  Lu, "Mobility-Aware Ad Hoc Routing Protocols for Networking Mobile
-  Robot Teams", Journal of Communications and Networks, 9 (3),
-  September 2007, pages 296-311.
+  Lu, "`Mobility-Aware Ad Hoc Routing Protocols for Networking Mobile
+  Robot Teams <https://ieeexplore.ieee.org/document/6182857>`_",
+  Journal of Communications and Networks, Vol. 9, Issue 3, September
+  2007, pages 296-311. DOI: https://doi.org/10.1109/JCN.2007.6182857
 
 - H. Jacky Chang, C. S. George Lee, Yung-Hsiang Lu, and Y. Charlie Hu,
-  "P-SLAM: Simultaneous Localization and Mapping with Environmental
-  Structure Prediction", IEEE Transactions on Robotics, 23(2), April
-  2007, pages 281-293.
+  "`P-SLAM: Simultaneous Localization and Mapping with Environmental
+  Structure Prediction
+  <https://ieeexplore.ieee.org/document/4154821>`_", IEEE Transactions
+  on Robotics, Vol. 23, Issue 2, April 2007, pages 281-293.  DOI:
+  https://doi.org/10.1109/TRO.2007.892230
      
 - Jason Ridenour, Jianghai Hu, Nathaniel Pettis, and Yung-Hsiang Lu,
-  "Low-Power Buffer Management for Streaming Data", IEEE Transactions
-  on Circuits and Systems for Video Technology, 17(2), February 2007,
-  pages 143-157.
+  "`Low-Power Buffer Management for Streaming Data
+  <https://ieeexplore.ieee.org/document/4079663>`_", IEEE Transactions
+  on Circuits and Systems for Video Technology, Vol. 17, Issue 2,
+  February 2007, pages 143-157. DOI:
+  https://doi.org/10.1109/TCSVT.2006.888025
 
 - Nathaniel Pettis, Le Cai, and Yung-Hsiang Lu, "Statistically Optimal
   Dynamic Power Management for Streaming Data", IEEE Transactions on
@@ -734,9 +778,10 @@ Conference Papers
   361-366.  
 
 - H. Jacky Chang, C.S. George Lee, Yung-Hsiang Lu, and Y. Charlie Hu,
-  "Simultaneous Localization and Mapping with Environmental Structure
-  Prediction", IEEE International Conference on Robotics and
-  Automation 2006, pages 4069-4074.
+  "`Simultaneous Localization and Mapping with Environmental Structure
+  Prediction <https://ieeexplore.ieee.org/document/1642327>`_", IEEE
+  International Conference on Robotics and Automation 2006, pages
+  4069-4074. DOI: https://doi.org/10.1109/ROBOT.2006.1642327
   
 - Edward J Delp and Yung-Hsiang Lu, "The Use of Undergraduate Project
   Courses for Teaching Image and Signal Processing Techniques at

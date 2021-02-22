@@ -36,6 +36,16 @@ Education
 Awards and Recognition
 -----------------------------------
 
+|IEEEfellow| |ACMDistinguished|
+
+
+.. |ACMDistinguished| image:: https://engineering.purdue.edu/HELPS/Images/acmdistinguishedscientist.png
+   :width: 45%
+
+.. |IEEEfellow| image:: https://engineering.purdue.edu/HELPS/Images/IEEEFellowCertificate.jpg
+   :width: 45%
+
+
 - 2021, Fellow of the IEEE for contributions to energy efficiency of  computer systems
 
 - 2019, Outstanding VIP-Based Entrepreneur, VIP (Vertically Integrated Projects) Consortium
