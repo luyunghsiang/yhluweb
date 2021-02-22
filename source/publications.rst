@@ -240,49 +240,65 @@ Journal Papers
   February 2007, pages 143-157. DOI:
   https://doi.org/10.1109/TCSVT.2006.888025
 
-- Nathaniel Pettis, Le Cai, and Yung-Hsiang Lu, "Statistically Optimal
-  Dynamic Power Management for Streaming Data", IEEE Transactions on
-  Computers, 55 (7), July 2006, pages 800-814.
-
+- Nathaniel Pettis, Le Cai, and Yung-Hsiang Lu, "`Statistically
+  Optimal Dynamic Power Management for Streaming Data
+  <https://ieeexplore.ieee.org/document/1637397>`_", IEEE Transactions
+  on Computers, Vol. 55, Issue 7, July 2006, pages 800-814.
+  DOI: https://doi.org/10.1109/TC.2006.112
 
 - Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C. S. George Lee,
-  "Deployment of Mobile Robots with Energy and Timing Constraints",
-  IEEE Transactions on Robotics, 22 (3), June 2006, pages 507-522.
+  "`Deployment of Mobile Robots with Energy and Timing Constraints
+  <https://ieeexplore.ieee.org/document/1638342>`_", IEEE Transactions
+  on Robotics, Vol. 22, Issue 3, June 2006, pages 507-522.  DOI:
+  https://doi.org/10.1109/TRO.2006.875494
   
-
 - Chris Gniady, Ali R. Butt, Y. Charlie Hu, and Yung-Hsiang
-  Lu,"Program Counter-Based Prediction Techniques for Dynamic Power
-  Management", IEEE Transactions on Computers, 55 (6), June 2006,
-  pages 641-658.
+  Lu,"`Program Counter-Based Prediction Techniques for Dynamic Power
+  Management <https://ieeexplore.ieee.org/document/1628954>`_", IEEE
+  Transactions on Computers, Vol. 55, Issue 6, June 2006, pages
+  641-658. DOI: https://doi.org/10.1109/TC.2006.87
 
-- Le Cai, Nathaniel Pettis, and Yung-Hsiang Lu, "Joint Power
-  Management of Memory and Disk Under Performance Constraints", IEEE
-  Transactions on Computer-Aided Design of Integrated Circuits, 25
-  (12), December 2006, pages 2697-2711.
+- Le Cai, Nathaniel Pettis, and Yung-Hsiang Lu, "`Joint Power
+  Management of Memory and Disk Under Performance Constraints
+  <https://ieeexplore.ieee.org/document/4014538>`_", IEEE Transactions
+  on Computer-Aided Design of Integrated Circuits, Vol. 25, Issue 12,
+  December 2006, pages 2697-2711. DOI:
+  https://doi.org/10.1109/TCAD.2006.882587
 
-- Le Cai and Yung-Hsiang Lu, "Energy Management Using Buffer Memory
-  for Streaming Data", IEEE Transactions on Computer-Aided Design of
-  Integrated Circuits and Systems, February 2005, pages 141-152.
+- Le Cai and Yung-Hsiang Lu, "`Energy Management Using Buffer Memory
+  for Streaming Data
+  <https://ieeexplore.ieee.org/document/1386373>`_", IEEE Transactions
+  on Computer-Aided Design of Integrated Circuits and Systems,
+  Vol. 24, Issue 2, February 2005, pages 141-152. DOI:
+  https://doi.org/10.1109/TCAD.2004.837724
 
-- Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "Dynamic
-  Frequency Scaling with Buffer Insertion for Mixed Workloads", IEEE
-  Transactions on Computer-Aided Design of Integrated Circuits and
-  Systems, November 2002, pages 1284-1305.
+- Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "`Dynamic
+  Frequency Scaling with Buffer Insertion for Mixed Workloads
+  <https://ieeexplore.ieee.org/document/1047048>`_", IEEE Transactions
+  on Computer-Aided Design of Integrated Circuits and Systems,
+  Vol. 21, Issue 11, November 2002, pages 1284-1305.  DOI:
+  https://doi.org/10.1109/TCAD.2002.804087
 
 - Eui-Young Chung, Luca Benini, Alessadro Bogliolo, Yung-Hsiang Lu,
-  and Giovanni De Micheli, "Dynamic Power Management for Nonstationary
-  Service Requests", IEEE Transactions on Computers, November 2002,
-  pages 1345-1361.
+  and Giovanni De Micheli, "`Dynamic Power Management for
+  Nonstationary Service Requests
+  <https://ieeexplore.ieee.org/document/1047758>`_", IEEE Transactions
+  on Computers, Vol. 51, Issue 11, November 2002, pages 1345-1361.
+  DOI: https://doi.org/10.1109/TC.2002.1047758
 
-- Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "Power-Aware
-  Operating Systems for Interactive Systems", IEEE Transactions on
-  Very Large Scale Integration Systems, April 2002, pages
-  119-134. (special issue, acceptance rate: 25%, 12 out of 48)
+- Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "`Power-Aware
+  Operating Systems for Interactive Systems
+  <https://ieeexplore.ieee.org/document/994989>`_", IEEE Transactions
+  on Very Large Scale Integration Systems, Vol. 10, Issue 2, April
+  2002, pages 119-134. (special issue, acceptance rate: 25%, 12 out
+  of 48) DOI: https://doi.org/10.1109/92.994989
 
-- Yung-Hsiang Lu and Giovanni De Micheli, "Comparing System-Level
-  Power Management Policies", IEEE Design and Test of Computers
-  special issue on Dynamic Power Management of Electronic Systems,
-  March/April 2001, pages 10-19.
+- Yung-Hsiang Lu and Giovanni De Micheli, "`Comparing System-Level
+  Power Management Policies
+  <https://ieeexplore.ieee.org/document/914592>`_", IEEE Design and
+  Test of Computers special issue on Dynamic Power Management of
+  Electronic Systems, Vol. 18, Issue 2, March/April 2001, pages 10-19.
+  DOI: https://doi.org/10.1109/54.914592
 
 
 Conference Papers
@@ -291,9 +307,11 @@ Conference Papers
 2020
 ^^^^
 - Sara Aghajanzadeh, Roopasree Naidu, Shuo-Han Chen, Caleb Tung,
-  Abhinav Goel, Yung-Hsiang Lu, George Thiruvathukal, "Camera
-  Placement Meeting Restrictions Of Computer Vision", IEEE
-  International Conference on Image Processing 2020.
+  Abhinav Goel, Yung-Hsiang Lu, George Thiruvathukal, "`Camera
+  Placement Meeting Restrictions Of Computer Vision
+  <https://ieeexplore.ieee.org/document/9190851>`_", IEEE
+  International Conference on Image Processing 2020. DOI:
+  https://doi.org/10.1109/ICIP40778.2020.9190851
 
 - Abhinav Goel, Caleb Tung, Sara Aghajanzadeh, Isha Ghodgaonkar,
   Shreya Ghosh, George K. Thiruvathukal, Yung-Hsiang Lu, "`Low-Power
@@ -303,30 +321,37 @@ Conference Papers
   Pages 163-168. DOI: https://doi.org/10.1145/3370748.3406569
 
 - Xiao Hu, Haobo Wang, Anirudh Vegesana, Gore Kao, Somesh Dube,Kaiwen
-  Yu, Shuo-han Chen, Yung-Hsiang Lu, Ming Yin. "Crowdsourcing
-  Detection of Sampling Biases in Image Datasets". The Web Conference
-  2020
+  Yu, Shuo-han Chen, Yung-Hsiang Lu, Ming Yin. "`Crowdsourcing
+  Detection of Sampling Biases in Image Datasets
+  <https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380063>`_". The
+  Web Conference 2020. Pages 2955-2961.  DOI:
+  https://doi.org/10.1145/3366423.3380063
 
 
 2019
 ^^^^
 - Matthew Ardi, Alexander C Berg, Bo Chen, Yen-Kuang Chen, Yiran Chen,
   Donghyun Kang, Junhyeok Lee, Seungjae Lee, Yang Lu, Yung-Hsiang Lu,
-  Fei Sun, "Special Session: 2018 Low-Power Image Recognition
-  Challenge and Beyond", IEEE International Conference on Artificial
-  Intelligence Circuits and Systems 2019
+  Fei Sun, "`Special Session: 2018 Low-Power Image Recognition
+  Challenge and Beyond
+  <https://ieeexplore.ieee.org/document/8771606>`_", IEEE
+  International Conference on Artificial Intelligence Circuits and
+  Systems 2019. DOI: https://doi.org/10.1109/AICAS.2019.8771606
 
 - Xiao Hu, Haobo Wang, Somesh Dube, Anirudh Vegesana, Kaiwen Yu,
-  Yung-Hsiang Lu, Ming Yin, Discovering Biases in Image Datasets with
-  the Crowd. AAAI Conference on Human Computation and Crowdsourcing
-  2019 (Work in progress track)
+  Yung-Hsiang Lu, Ming Yin, "`Discovering Biases in Image Datasets
+  with the Crowd
+  <https://www.humancomputation.com/2019/papers.html#wip>`_. AAAI
+  Conference on Human Computation and Crowdsourcing 2019 (Work in
+  progress track)
   
 - Caleb Tung, Matthew R. Kelleher, Ryan J. Schlueter, Binhan Xu,
   Yung-Hsiang Lu, George K. Thiruvathukal, Yen-Kuang Chen, Yang Lu,
-  "Large-Scale Object Detection of Images from Network Cameras in
-  Variable Ambient Lighting Conditions", IEEE International Conference
-  on Multimedia Information Processing and Retrieval 2019
-
+  "`Large-Scale Object Detection of Images from Network Cameras in
+  Variable Ambient Lighting Conditions
+  <https://ieeexplore.ieee.org/document/8695375>`_", IEEE
+  International Conference on Multimedia Information Processing and
+  Retrieval 2019. DOI: https://doi.org/10.1109/MIPR.2019.00080
 
 - Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C. Berg,
   Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan, Chen Feng, Bo Fu,
@@ -336,8 +361,9 @@ Conference Papers
   Zhiyu Liang, Xin Liu, Juzheng Liu, Zichao Li, Yang Lu, Yung-Hsiang
   Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang
   Shen, Fei Sun, David Svitov, George K. Thiruvathukal, Baiwu Zhang,
-  Jingchi Zhang, Xiaopeng Zhang, Shaojie Zhuo, "2018 Low-Power Image
-  Recognition Challenge", arXiv:1810.01732  
+  Jingchi Zhang, Xiaopeng Zhang, Shaojie Zhuo, "`2018 Low-Power Image
+  Recognition Challenge <https://arxiv.org/abs/1810.01732>`_",
+  arXiv:1810.01732
 
 
 2018
@@ -345,30 +371,33 @@ Conference Papers
 
 - Chittayong Surakitbanharn, Calvin Yau, Guizhen Wang, Aniesh Chawla,
   Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu,
-  George K. Thiruvathukal, " Cross-referencing social media and public
-  surveillance camera data for disaster response", IEEE Symposium on
-  Technologies for Homeland Security 2018. 
+  George K. Thiruvathukal, "`Cross-referencing social media and public
+  surveillance camera data for disaster response
+  <https://ieeexplore.ieee.org/document/8574200>`_", IEEE Symposium on
+  Technologies for Homeland Security 2018. DOI:
+  https://doi.org/10.1109/THS.2018.8574200
 
 - Ahmed S. Kaseb, Bo Fu, Anup Mohan, Yung-Hsiang Lu, Amy Reibman,
-  George K. Thiruvathukal, "Analyzing Real-Time Multimedia Content
-  From Network Cameras Using CPUs and GPUs in the Cloud", IEEE
+  George K. Thiruvathukal, "`Analyzing Real-Time Multimedia Content
+  From Network Cameras Using CPUs and GPUs in the Cloud
+  <https://ieeexplore.ieee.org/document/8396976>`_", IEEE
   International Conference on Multimedia Information Processing and
-  Retrieval 2018 
+  Retrieval 2018. DOI: https://doi.org/10.1109/MIPR.2018.00020
 
 - Anup Mohan, Ahmed S. Kaseb, Kent W. Gauen, Yung-Hsiang Lu,
-  Amy R. Reibman, and Thomas J. Hacker, "Determining the Necessary
+  Amy R. Reibman, and Thomas J. Hacker, "`Determining the Necessary
   Frame Rate of Video Data for Object Tracking under Accuracy and Cost
-  Constraints", IEEE International Conference on Multimedia
-  Information Processing and Retrieval 2018 
+  Constraints <https://ieeexplore.ieee.org/document/8397037>`_", IEEE
+  International Conference on Multimedia Information Processing and
+  Retrieval 2018. DOI: https://doi.org/10.1109/MIPR.2018.00081
 
 - Samira Pouyanfar, Yudong Tao, Anup Mohan, Haiman Tian,
   Ahmed S. Kaseb, Kent Gauen Ryan Dailey, Sarah Aghajanzadeh,
-  Yung-Hsiang Lu, Shu-Ching Chen, Mei-Ling Shyu Dynamic Sampling in
-  Convolutional Neural Networks for Imbalanced Data Classification,
-  IEEE Conference on Multimedia Information Processing and Retrieval
-  2018
-
-
+  Yung-Hsiang Lu, Shu-Ching Chen, Mei-Ling Shyu, "`Dynamic Sampling in
+  Convolutional Neural Networks for Imbalanced Data Classification
+  <https://ieeexplore.ieee.org/document/8396983>`_", IEEE Conference on
+  Multimedia Information Processing and Retrieval 2018.
+  DOI: https://doi.org/10.1109/MIPR.2018.00027
 
 2017
 ^^^^
