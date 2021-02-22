@@ -988,17 +988,20 @@ Book Chapters
 -------------
 
 - Sara Aghajanzadeh, Andrew T. Jebb, Yifan Li, Yung-Hsiang Lu,
-  George K. Thiruvathukal, "Observing Human Behavior Through Worldwide
-  Network Cameras", Big Data in Psychological Research
-  (p. 109–123). American Psychological 
-  Association. https://doi.org/10.1037/0000193-006
-
+  George K. Thiruvathukal, "`Observing Human Behavior Through
+  Worldwide Network Cameras
+  <https://content.apa.org/record/2020-39681-006>`_", Big Data in
+  Psychological Research (p. 109–123). American Psychological
+  Association. DOI: https://doi.org/10.1037/0000193-006
 
 - Yung-Hsiang Lu, Eui-Young Chung, Tajana Simunic, Luca Benini, and
-  Giovanni De Micheli, "Quantitative Comparison of Power Management
-  Algorithms", The Most Influential Papers of 10 Years DATE, Editors:
-  Rudy Lauwereins and Jan Madsen. Springer, 2008, ISBN
-  978-1-4020-6487-6.
+  Giovanni De Micheli, "`Quantitative Comparison of Power Management
+  Algorithms
+  <https://link.springer.com/chapter/10.1007/978-1-4020-6488-3_16>`_",
+  The Most Influential Papers of 10 Years DATE, Editors: Rudy
+  Lauwereins and Jan Madsen. Springer, 2008, ISBN
+  978-1-4020-6487-6. Pages 207-219. DOI:
+  https://doi.org/10.1007/978-1-4020-6488-3_16
 
 - Jeff Brateman and Changjiu Xian and Yung-Hsiang Lu, "Frequency and
   Speed Setting for Energy Conservation in Autonomous Mobile Robots",
