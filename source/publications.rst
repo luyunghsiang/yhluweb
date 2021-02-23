@@ -1,26 +1,6 @@
 Publications
 ============
 
-|CRCBOOK| |CNBOOK|
-
-.. |CRCBOOK| image:: https://images.routledge.com/common/jackets/amazon/978149871/9781498711630.jpg
-   :width: 45%
-
-.. |CNBOOK| image:: https://yqfile.alicdn.com/ab4969a35cf457a82587a0ab84b26bede3ec9a0a.png
-   :width: 45%
-
-Book
-----
-
-Yung-Hsiang Lu, "`Intermediate C Programming
-<https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",
-CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,
-Published June 16, 2015. `Chinese Version
-<https://developer.aliyun.com/article/214499>`_.
-
-
-
-
 Journal Papers
 --------------
 
@@ -362,7 +342,7 @@ Conference Papers
   Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang
   Shen, Fei Sun, David Svitov, George K. Thiruvathukal, Baiwu Zhang,
   Jingchi Zhang, Xiaopeng Zhang, Shaojie Zhuo, "`2018 Low-Power Image
-  Recognition Challenge <https://arxiv.org/abs/1810.01732>`_",
+  Recognition Challenge (2018) <https://arxiv.org/abs/1810.01732>`_",
   arXiv:1810.01732
 
 
@@ -403,36 +383,50 @@ Conference Papers
 ^^^^
 
 - Kent Gauen, Rohit Rangan, Anup Mohan, Yung-Hsiang Lu Wei Liu,
-  Alexander C. Berg," Low-Power Image Recognition Challenge", Asia and
-  South Pacific Design Automation Conference 2017 
-
+  Alexander C. Berg,"`Low-Power Image Recognition Challenge (2017)
+  <https://ieeexplore.ieee.org/document/7858303>`_", Asia and South
+  Pacific Design Automation Conference 2017. Pages: 99-104. DOI:
+  https://doi.org/10.1109/ASPDAC.2017.7858303
   
 - Yung-Hsiang Lu, Andrea Cavallaro, Catherine Crump, Gerald Friedland,
-  Keith Winstein, "Panel: Privacy Protection in Online Multimedia",
-  ACM Multimedia 2017 
+  Keith Winstein, "`Panel: Privacy Protection in Online Multimedia
+  <https://dl.acm.org/doi/abs/10.1145/3123266.3133335>`_", ACM
+  Multimedia 2017. Pages: 457–459. DOI:
+  https://doi.org/10.1145/3123266.3133335
 
 - Kent Gauen, Ryan Dailey, John Laiman, Yuxiang Zi, Nirmal Asokan,
   Yung-Hsiang Lu, George Thiruvathukal, Mei-Ling Shyu, Shu-Ching Chen,
-  "Comparison of Visual Datasets for Machine Learning" 
-  IEEE International Conference on Information Reuse 2017 
+  "`Comparison of Visual Datasets for Machine Learning
+  <https://ieeexplore.ieee.org/document/8102956>`_" IEEE International
+  Conference on Information Reuse 2017. Pages: 346-355. DOI:
+  https://doi.org/10.1109/IRI.2017.59
 
 - Bo Fu, Anup Mohan, Yifan Li, Sanghyun Cho, Kent Gauen, Yung-Hsiang
-  Lu, "Parallel Video Processing using Embedded Computers", IEEE
-  Global Conference on Signal and Information Processing 2017 
+  Lu, "`Parallel Video Processing using Embedded Computers
+  <https://ieeexplore.ieee.org/document/8308597>`_", IEEE Global
+  Conference on Signal and Information Processing 2017. Pages: 26-30.
+  DOI: https://doi.org/10.1109/GlobalSIP.2017.8308597
 
 - Ryan Dailey, Ahmed S Kaseb, Chandler Brown, Sam Jenkins, Sam Yellin,
-  Fengjian Pan, Yung-Hsiang Lu, "Creating the World's Largest
-  Real-Time Camera Network", Imaging and Multimedia Analytics in a Web
-  and Mobile World 2017 
-
+  Fengjian Pan, Yung-Hsiang Lu, "`Creating the World's Largest
+  Real-Time Camera Network
+  <https://www.ingentaconnect.com/content/ist/ei/2017/00002017/00000010/art00002>`_",
+  Imaging and Multimedia Analytics in a Web and Mobile
+  World 2017. Pages: 5-12.  DOI:
+  https://doi.org/10.2352/ISSN.2470-1173.2017.10.IMAWM-160
+  
 - Anup Mohan, Kent Gauen, Yung-Hsiang Lu, Wei Wayne Li, Xuemin Chen,
-  "Internet of Video Things in 2030: a World with Many Cameras", IEEE
-  International Symposium of Circuits and Systems 2017. 
+  "`Internet of Video Things in 2030: a World with Many Cameras
+  <https://ieeexplore.ieee.org/document/8050296>`_", IEEE
+  International Symposium of Circuits and Systems 2017.  DOI:
+  https://doi.org/10.1109/ISCAS.2017.8050296
 
 - Tian Qiu, Mengshi Feng, Sitian Lu, Zhuofan Li, Yudi Wu,
-  Carla B. Zoltowski, and Dr. Yung-Hsiang Lu, "Online Programming
-  System for Code Analysis and Activity Tracking", American Society
-  for Engineering Education Annual Conference 2017
+  Carla B. Zoltowski, and Dr. Yung-Hsiang Lu, "`Online Programming
+  System for Code Analysis and Activity Tracking
+  <https://peer.asee.org/online-programming-system-for-code-analysis-and-activity-tracking>`_",
+  American Society for Engineering Education Annual Conference 2017.
+  DOI: https://doi.org/10.18260/1-2--28722
 
 - Behnaam Aazhang, Randal T. Abler, Jan P. Allebach, L. Franklin Bost,
   Joseph R. Cavallaro Rice, Edwin K. P. Chong, Edward J. Coyle,
@@ -447,126 +441,168 @@ Conference Papers
   Thomas J. Siller, J. Sonnenberg-Klein, Seyed Masoud Sadjadi, Scott
   Munro Strachan, Mohsen Taheri, Gary L. Woods, Carla B. Zoltowski,
   Brian C. Fabien, Phiilp Johnson, Robert Collins, Paul Murray,
-  "Vertically Integrated Projects (VIP) Programs: Multidisciplinary
-  Projects with Homes in Any Discipline", American Society for
-  Engineering Education Annual Conference 2017
+  "`Vertically Integrated Projects (VIP) Programs: Multidisciplinary
+  Projects with Homes in Any Discipline
+  <https://peer.asee.org/vertically-integrated-projects-vip-programs-at-international-institutions-multidisciplinary-projects-with-homes-in-any-discipline>`_",
+  American Society for Engineering Education Annual Conference 2017.
 
 2016
 ^^^^
 - Anup Mohan, Ahmed S. Kaseb, Yung-Hsiang Lu, Thomas J. Hacker,
-  "Location Based Cloud Resource Management for Analyzing Real-Time
-  Video from Globally Distributed Network Cameras", IEEE International
-  Conference on Cloud Computing Technology and Science (CloudCom) 2016
+  "`Location Based Cloud Resource Management for Analyzing Real-Time
+  Video from Globally Distributed Network Cameras
+  <https://ieeexplore.ieee.org/document/7830681>`_", IEEE
+  International Conference on Cloud Computing Technology and Science
+  (CloudCom) 2016. Pages: 176-183.  DOI:
+  https://doi.org/10.1109/CloudCom.2016.0040
 
-- Saurav Nanda Thomas J Hacker Yung-Hsiang Lu, "Predictive Model for
-  Dynamically Provisioning Resources in Multi-Tier Web Applications",
-  IEEE International Conference on Cloud Computing Technology and
-  Science (CloudCom) 2016 
+- Saurav Nanda Thomas J Hacker Yung-Hsiang Lu, "`Predictive Model for
+  Dynamically Provisioning Resources in Multi-Tier Web Applications
+  <https://ieeexplore.ieee.org/document/7830700>`_", IEEE
+  International Conference on Cloud Computing Technology and Science
+  (CloudCom) 2016. Pages: 326-335. DOI:
+  https://doi.org/10.1109/CloudCom.2016.0059
 
 - Youngsol Koh, Anup Mohan, Guizhen Wang, Hanye Xu, Abish Malik,
-  Yung-Hsiang Lu, and David S. Ebert, Improve Safety using Public
-  Network Cameras, IEEE Symposium on Technologies for Homeland
-  Security 2016 
+  Yung-Hsiang Lu, and David S. Ebert, "`Improve Safety using Public
+  Network Cameras <https://ieeexplore.ieee.org/document/7568911>`_,
+  IEEE Symposium on Technologies for Homeland Security 2016.  DOI:
+  https://doi.org/10.1109/THS.2016.7568911
 
-- Yung-Hsiang Lu, Milind Kulkarni, and Xiaojin Zhu Programming
-  Language Support for Analyzing Non-Persistent Data IEEE Symposium on
-  Technologies for Homeland Security 2016
+- Yung-Hsiang Lu, Milind Kulkarni, and Xiaojin Zhu, "`Programming
+  Language Support for Analyzing Non-Persistent Data
+  <https://ieeexplore.ieee.org/document/7568895>`_ IEEE Symposium on
+  Technologies for Homeland Security 2016.  DOI:
+  https://doi.org/10.1109/THS.2016.7568895
 
-- Youngsol Koh and Yung-Hsiang Lu, "Large-scale Image Processing using
-  Amazon EC2 Spot Instances", IS&T International Symposium on
-  Electronic Imaging in the Image Quality and System Performance
-  Conference 2016
-
+- Youngsol Koh and Yung-Hsiang Lu, "`Large-scale Image Processing
+  using Amazon EC2 Spot Instances
+  <https://www.ingentaconnect.com/content/ist/ei/2016/00002016/00000013/art00030>`_",
+  IS&T International Symposium on Electronic Imaging in the Image
+  Quality and System Performance Conference 2016. DOI:
+  https://doi.org/10.2352/ISSN.2470-1173.2016.13.IQSP-226
 
 - Yung-Hsiang Lu, Thomas Hacker, Carla B. Zoltowski, Jan P Allebach,
-  "Cross-Cohort Research Experience for Project Management and
-  Leadership Development", American Society for Engineering Education
-  Annual Conference 2016
+  "`Cross-Cohort Research Experience for Project Management and
+  Leadership Development
+  <https://peer.asee.org/cross-cohort-research-experience-for-project-management-and-leadership-development>`_",
+  American Society for Engineering Education Annual Conference 2016.
+  DOI: https://doi.org/10.18260/p.26604
   
-
 - Jinyi Zhang, Fengjian Pan, Mrigank S Jha, Pranav Marla, Kee Wook
-  Lee, David B Nelson, Yung-Hsiang Lu, "A System for Analysis of Code
-  on Cloud as An Educational Service to Students", American Society
-  for Engineering Education Annual Conference 2016
+  Lee, David B Nelson, Yung-Hsiang Lu, "`A System for Analysis of Code
+  on Cloud as An Educational Service to Students
+  <https://peer.asee.org/a-system-for-analysis-of-code-on-cloud-as-an-educational-service-to-students>`_",
+  American Society for Engineering Education Annual Conference 2016.
+  DOI: https://doi.org/10.18260/p.26456
 
 
 2015
 ^^^^
-- Line C Pouchard, Megan Sapp Nelson, Yung-Hsiang Lu, "Comparing
+- Line C Pouchard, Megan Sapp Nelson, Yung-Hsiang Lu, "`Comparing
   policies for open data from publicly accessible international
-  sources", Annual Conference International Association for Social
-  Science Information Services & Technology 2015 .
+  sources
+  <https://iassistdata.org/conferences/archive/2015-minneapolis/>`_",
+  Annual Conference International Association for Social Science
+  Information Services & Technology 2015. DOI:
+  https://doi.org/10.5281/zenodo.3777114
   
-- Wei-Tsung Su, Yung-Hsiang Lu, and Ahmed S. Kaseb, "Harvest the
-  Information from Multimedia Big Data in Global Camera Networks",
-  IEEE International Conference on Multimedia Big Data 2015.
+- Wei-Tsung Su, Yung-Hsiang Lu, and Ahmed S. Kaseb, "`Harvest the
+  Information from Multimedia Big Data in Global Camera Networks
+  <https://ieeexplore.ieee.org/document/7153875>`_", IEEE
+  International Conference on Multimedia Big Data 2015. Pages:
+  184-191.  DOI: https://doi.org/10.1109/BigMM.2015.55
 
 - Ahmed S. Kaseb, Everett Berry, Erik Rozolis, Kyle McNulty, Seth
-  Bontrager, Youngsol Koh, Yung-Hsiang Lu, Edward J. Delp, "An
+  Bontrager, Youngsol Koh, Yung-Hsiang Lu, Edward J. Delp, "`An
   interactive web-based system for large-scale analysis of distributed
-  cameras", Imaging and Multimedia Analytics in a Web and Mobile
-  World 2015.
+  cameras
+  <https://spie.org/Publications/Proceedings/Paper/10.1117/12.2080371>`_",
+  Imaging and Multimedia Analytics in a Web and Mobile World 2015.
+  DOI: https://doi.org/10.1117/12.2080371
 
 - Ahmed S. Kaseb, Wenyi Chen, Ganesh Gingade, Yung-Hsiang Lu,
-  "Worldview and route planning using live public cameras", Imaging
-  and Multimedia Analytics in a Web and Mobile World 2015.
+  "`Worldview and route planning using live public cameras
+  <https://spie.org/Publications/Proceedings/Paper/10.1117/12.2077729>`_",
+  Imaging and Multimedia Analytics in a Web and Mobile World 2015.
+  DOI: https://doi.org/10.1117/12.2077729
 
 - Thitiporn Pramoun, Jeehyun Choe, He Li, Qingshuang Chen, humrongrat
-  Amornraksa, Yung-Hsiang Lu, Edward J. Delp III, "Webcam
-  classification using simple features", Computational Imaging 2015.
+  Amornraksa, Yung-Hsiang Lu, Edward J. Delp III, "`Webcam
+  classification using simple features
+  <https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9401/94010G/Webcam-classification-using-simple-features/10.1117/12.2083417.short>`_",
+  Computational Imaging 2015.  DOI: https://doi.org/10.1117/12.2083417
 
-
-- Ahmed S. Kaseb, Anup Mohan and Yung-Hsiang Lu, Cloud Resource
+- Ahmed S. Kaseb, Anup Mohan and Yung-Hsiang Lu, "`Cloud Resource
   Management for Image and Video Analysis of Big Data from Network
-  Cameras, International Conference on Cloud Computing and Big Data
-  2015 (best paper award)
+  Cameras <https://dl.acm.org/doi/10.1109/CCBD.2015.8>`_",
+  International Conference on Cloud Computing and Big Data
+  2015. Pages: 287-294. (best paper award) DOI:
+  https://doi.org/10.1109/CCBD.2015.8
 
-- Everett Berry, Yung-Hsiang Lu, and Wei-Tsung Su, Using Global Camera
-  Networks to Create Multimedia Content, International Conference on
-  Cloud Computing and Big Data 2015
-
-- Wenyi Chen, Yung-Hsiang Lu and Thomas Hacker, "Adaptive Cloud
-  Resource Allocation for Analysing Many Video Streams", IEEE
+- Everett Berry, Yung-Hsiang Lu, and Wei-Tsung Su, "`Using Global
+  Camera Networks to Create Multimedia Content
+  <https://ieeexplore.ieee.org/document/7450557>`_", International
+  Conference on Cloud Computing and Big Data 2015. Pages: 231-234.
+  DOI: https://doi.org/10.1109/CCBD.2015.21
+  
+- Wenyi Chen, Yung-Hsiang Lu and Thomas Hacker, "`Adaptive Cloud
+  Resource Allocation for Analysing Many Video Streams
+  <https://ieeexplore.ieee.org/document/7396133>`_", IEEE
   International Conference on Cloud Computing Technology and Science
-  (CloudCom) 2015
+  (CloudCom) 2015. Pages: 17-24. DOI: https://doi.org/10.1109/CloudCom.2015.79
 
 - Joanna Batstone, Touradj Ebrahimi, Tiejun Huang, Yung-Hsiang Lu, and
-  Yonggang Wen, "Opportunities and Challenges of Global Network
-  Cameras", Panel in ACM Multimedia 2015
-
-- Ahmed S. Kaseb, Youngsol Koh, Everett Berry, Kyle
-  McNulty,Yung-Hsiang Lu, Edward J. Delp, "Multimedia Content Creation
-  using Global Network Cameras: The Making of CAM2", GlobalSIP 2015
-  (invited paper)
-
-- S. M. Iftekharul Alam, Sonia Fahmy, and Yung-Hsiang Lu, "LiTMaS:
-  Live road Traffic Maps for Smartphones", IEEE WoWMoM Workshop on
-  Video Everywhere 2015.
+  Yonggang Wen, "`Opportunities and Challenges of Global Network
+  Cameras <https://dl.acm.org/doi/10.1145/2733373.2806282>`_", Panel
+  in ACM Multimedia 2015. Pages: 47-48. DOI:
+  https://doi.org/10.1145/2733373.2806282
   
-- Wei-Tsung Su, Kyle McNulty, and Yung-Hsiang Lu, "Teaching
-  Large-Scale Image Processing over Worldwide Network Cameras", IEEE
-  International Conference on Digital Signal Processing 2015
+- Ahmed S. Kaseb, Youngsol Koh, Everett Berry, Kyle
+  McNulty,Yung-Hsiang Lu, Edward J. Delp, "`Multimedia Content
+  Creation using Global Network Cameras: The Making of CAM2
+  <https://ieeexplore.ieee.org/document/7416927>`_", IEEE Global
+  Conference on Signal and Information Processing 2015 (invited
+  paper).  Pages: 15-18. DOI:
+  https://doi.org/10.1109/GlobalSIP.2015.7416927
+
+- S. M. Iftekharul Alam, Sonia Fahmy, and Yung-Hsiang Lu, "`LiTMaS:
+  Live road Traffic Maps for Smartphones
+  <https://ieeexplore.ieee.org/document/7158217>`_", IEEE WoWMoM
+  Workshop on Video Everywhere 2015. DOI:
+  https://doi.org/10.1109/WoWMoM.2015.7158217
+  
+- Wei-Tsung Su, Kyle McNulty, and Yung-Hsiang Lu, "`Teaching
+  Large-Scale Image Processing over Worldwide Network Cameras
+  <https://ieeexplore.ieee.org/document/7251971>`_", IEEE
+  International Conference on Digital Signal Processing 2015. Pages:
+  726-729.  DOI: https://doi.org/10.1109/ICDSP.2015.7251971
 
 - Yung-Hsiang Lu, Alan M. Kadin, Alexander C. Berg, Thomas M. Conte,
   Erik P. DeBenedictis, Rachit Garg, Ganesh Gingade, Bichlien Hoang,
   Yongzhen Huang, Boxun Li, Jingyu Liu, Wei Liu, Huizi Mao, Junran
   Peng, Tianqi Tang, Elie K. Track, Jingqiu Wang, Tao Wang, Yu Wang,
-  Jun Yao, "Rebooting Computing and Low-Power Image Recognition
-  Challenge", International Conference on Computer Aided Design 2015
-  (invited paper in a special session). 
+  Jun Yao, "`Rebooting Computing and Low-Power Image Recognition
+  Challenge <https://ieeexplore.ieee.org/document/7372672>`_",
+  International Conference on Computer Aided Design 2015 (invited
+  paper in a special session). Pages: 927-932.  DOI:
+  https://doi.org/10.1109/ICCAD.2015.7372672
 
-- Milind Kulkarni and Yung-Hsiang Lu, Beyond Big Data-Rethinking
-  Programming Languages for Non-Persistent Data, International
-  Conference on Cloud Computing and Big Data 2015  
+- Milind Kulkarni and Yung-Hsiang Lu, "`Beyond Big Data-Rethinking
+  Programming Languages for Non-Persistent Data
+  <https://ieeexplore.ieee.org/document/7450559>`_", International
+  Conference on Cloud Computing and Big Data 2015. Pages: 245-251.
+  DOI: https://doi.org/10.1109/CCBD.2015.16
 
 2014
 ^^^^
-
   
 - Ahmed S. Kaseb, Everett Berry, Youngsol Koh, Anup Mohan, Wenyi Chen,
-  He Li, Yung-Hsiang Lu, and Edward J. Delp, "A System for Large-Scale
-  Analysis of Distributed Cameras", IEEE Global Conference on Signal
-  and Information Processing 2014.
+  He Li, Yung-Hsiang Lu, and Edward J. Delp, "`A System for
+  Large-Scale Analysis of Distributed Cameras
+  <https://ieeexplore.ieee.org/document/7032135>`_", IEEE Global
+  Conference on Signal and Information Processing 2014. Pages:
+  340-344.  DOI: https://doi.org/10.1109/GlobalSIP.2014.7032135
 
 - Thomas J. Hacker, Yung-Hsiang Lu, "An Instructional Cloud-Based
   Testbed for Image and Video Analytics", the Emerging Issues in Cloud
@@ -1034,3 +1070,22 @@ Technical Reports
   Homogeneous Architecture for Power Policy Integration in Operating
   Systems", TR ECE-351, School of Electrical and Computer Engineering,
   Purdue University, March 2007. 
+
+|CRCBOOK| |CNBOOK|
+
+.. |CRCBOOK| image:: https://images.routledge.com/common/jackets/amazon/978149871/9781498711630.jpg
+   :width: 45%
+
+.. |CNBOOK| image:: https://yqfile.alicdn.com/ab4969a35cf457a82587a0ab84b26bede3ec9a0a.png
+   :width: 45%
+
+Book
+----
+
+Yung-Hsiang Lu, "`Intermediate C Programming
+<https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",
+CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,
+Published June 16, 2015. `Chinese Version
+<https://developer.aliyun.com/article/214499>`_.
+
+  
