@@ -174,7 +174,7 @@ Journal Papers
 
 - Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "`Dynamic Voltage
   Scaling for Multitasking Real-Time Systems with Uncertain Execution
-  Time <https://ieeexplore.ieee.org/document/4527112>`_", IEEE
+  Time (2008) <https://ieeexplore.ieee.org/document/4527112>`_", IEEE
   Transactions on Computer-Aided Design of Integrated Circuits,
   Vol. 27, Issue 8, August 2008, pages 1467-1478. DOI:
   https://doi.org/10.1109/TCAD.2008.925778
@@ -604,195 +604,256 @@ Conference Papers
   Conference on Signal and Information Processing 2014. Pages:
   340-344.  DOI: https://doi.org/10.1109/GlobalSIP.2014.7032135
 
-- Thomas J. Hacker, Yung-Hsiang Lu, "An Instructional Cloud-Based
-  Testbed for Image and Video Analytics", the Emerging Issues in Cloud
-  Workshop of CloudCom 2014
+- Thomas J. Hacker, Yung-Hsiang Lu, "`An Instructional Cloud-Based
+  Testbed for Image and Video Analytics
+  <https://ieeexplore.ieee.org/document/7037774>`_", the Emerging
+  Issues in Cloud Workshop of CloudCom 2014. Pages: 859-862.  DOI:
+  https://doi.org/10.1109/CloudCom.2014.61
 
 - Jeehyun Choe, Thitiporn Pramoun, Thumrongrat Amornraksa, Yung-Hsiang
-  Lu, and Edward J. Delp, "Image-Based Geographical Location
-  Estimation Using Web Cameras", Southwest Symposium on Image Analysis
-  and Interpretation 2014
+  Lu, and Edward J. Delp, "`Image-Based Geographical Location
+  Estimation Using Web Cameras
+  <https://ieeexplore.ieee.org/document/6806032>`_", Southwest
+  Symposium on Image Analysis and Interpretation 2014. Pages: 73-76.
+  DOI: https://doi.org/10.1109/SSIAI.2014.6806032
 
 2013
 ^^^^
 
-- Cordelia Brown, Yung-Hsiang Lu, and Samuel Midkiff, "Introducing
-  Parallel Programming in Undergraduate Curriculum", NSF/TCPP Workshop
-  on Parallel and Distributed Computing Education 2013.
-
-
+- Cordelia Brown, Yung-Hsiang Lu, and Samuel Midkiff, "`Introducing
+  Parallel Programming in Undergraduate Curriculum
+  <https://tcpp.cs.gsu.edu/curriculum/?q=EduPar-13_Proceedings>`_",
+  NSF/TCPP Workshop on Parallel and Distributed Computing
+  Education 2013.
 
 2012
 ^^^^
 
-- Yang Ge, Yukan Zhang, Qinru Qiu, and Yung-Hsiang Lu, "A Game
+- Yang Ge, Yukan Zhang, Qinru Qiu, and Yung-Hsiang Lu, "`A Game
   Theoretic Resource Allocation for Overall Energy Minimization in
-  Mobile Cloud Computing System", International Symposium on Low Power
-  Electronics and Design 2012.
+  Mobile Cloud Computing System
+  <https://dl.acm.org/doi/10.1145/2333660.2333724>`_", International
+  Symposium on Low Power Electronics and Design 2012. Pages: 279-284.
+  DOI: https://doi.org/10.1145/2333660.2333724
 
 2011
 ^^^^
-- Cordelia Brown and Yung-Hsiang Lu, "Teaming in an Engineering
-  Programming Course", American Society for Engineering Education
-  Annual Conference 2011.
+- Cordelia Brown and Yung-Hsiang Lu, "`Teaming in an Engineering
+  Programming Course
+  <https://peer.asee.org/teaming-in-an-engineering-programming-course>`_",
+  American Society for Engineering Education Annual Conference 2011.
+  DOI: https://doi.org/10.18260/1-2--18561
 
 - Man Wang, Zhiyuan Li, Feng Li, Xiaobing Feng, Saurabh Bagchi, and
-  Yung-Hsiang Lu, "Dependence-Based Multi-Level Tracing and Replay for
-  Wireless Sensor Networks Debugging";, SIGPLAN/SIGBED Conference on
-  Languages, Compilers and Tools for Embedded Systems 2011.
+  Yung-Hsiang Lu, "`Dependence-Based Multi-Level Tracing and Replay
+  for Wireless Sensor Networks Debugging
+  <https://dl.acm.org/doi/10.1145/1967677.1967691>`_", SIGPLAN/SIGBED
+  Conference on Languages, Compilers and Tools for Embedded
+  Systems 2011. Pages: 91-100.  DOI:
+  https://doi.org/10.1145/1967677.1967691
 
 - Serkan Sayilir, Yung-Hsiang Lu, Dimitrios Peroulis, Y. Charlie Hu,
-  and Byunghoo Jung, "Collaborative Beamforming in Wireless Sensor
-  Networks", IEEE Asilomar Conference on Signals, Systems, and
-  Computers 2011.
-
+  and Byunghoo Jung, "`Collaborative Beamforming in Wireless Sensor
+  Networks <https://ieeexplore.ieee.org/document/6190208>`_", Asilomar
+  Conference on Signals, Systems, and Computers 2011. Pages:
+  1211-1215.  DOI: https://doi.org/10.1109/ACSSC.2011.6190208
 
 - Karthik Kumar, Kshitij Doshi, Martin Dimitrov, and Yung-Hsiang Lu,
-  "Energy Management in an Enterprise Decision Support System",
-  International Symposium on Low Power Electronics and Design 2011.
+  "`Memory Energy Management in an Enterprise Decision Support System
+  <https://dl.acm.org/doi/10.5555/2016802.2016864>`_", International
+  Symposium on Low Power Electronics and Design 2011. Pages: 277-282.
+  DOI: https://doi.org/10.1109/ISLPED.2011.5993649
 
 - Karthik Kumar, Jing Feng, Yamini Nimmagadda, and Yung-Hsiang Lu,
-  "Resource Allocation for Real-Time Tasks using Cloud Computing",
-  IEEE Workshop on Grid and P2P Systems and Applications,
-  International Conference on Computer Communications and
-  Networks 2011.  
-
+  "`Resource Allocation for Real-Time Tasks using Cloud Computing
+  <https://ieeexplore.ieee.org/document/6006077>`_", IEEE Workshop on
+  Grid and P2P Systems and Applications, International Conference on
+  Computer Communications and Networks 2011. DOI:
+  https://doi.org/10.1109/ICCCN.2011.6006077
 
 2010
 ^^^^
 
-- Jibang Liu and Yung-Hsiang Lu, "Energy Savings in Privacy-Preserving
-  Computation Offloading with Protection by Homomorphic Encryption",
-  HotPower 2010.
+- Jibang Liu and Yung-Hsiang Lu, "`Energy Savings in
+  Privacy-Preserving Computation Offloading with Protection by
+  Homomorphic Encryption
+  <https://dl.acm.org/doi/abs/10.5555/1924920.1924925>`_",
+  International Conference on Power aware computing and systems 2010.
 
-- Jibang Liu, Karthik Kumar, and Yung-Hsiang Lu, "Tradeoff between
-  Energy Savings and Privacy Protection in Computation Offloading",
-  International Symposium on Low Power Electronics and Design 2010
-  (poster), pages 213-218.
+- Jibang Liu, Karthik Kumar, and Yung-Hsiang Lu, "`Tradeoff between
+  Energy Savings and Privacy Protection in Computation Offloading
+  <https://dl.acm.org/doi/10.1145/1840845.1840887>`_", International
+  Symposium on Low Power Electronics and Design 2010 (poster), pages
+  213-218. DOI: https://doi.org/10.1145/1840845.1840887
 
 - Jing Feng, Serkan Sayilir, Che-Wei Chang, Yung-Hsiang Lu, Byunghoo
-  Jung, Dimitrios Peroulis, Y. Charlie Hu," Energy-Efficient
-  Transmission for Beamforming in Wireless Sensor Networks", IEEE
+  Jung, Dimitrios Peroulis, Y. Charlie Hu, "`Energy-Efficient
+  Transmission for Beamforming in Wireless Sensor Networks
+  <https://ieeexplore.ieee.org/document/5508256>`_", IEEE
   Communications Society Conference on Sensor, Mesh and Ad Hoc
-  Communications and Networks 2010.
+  Communications and Networks 2010. DOI:
+  https://doi.org/10.1109/SECON.2010.5508256
 
 - Jing Feng, Yamini Nimmagadda, Yung-Hsiang Lu, Byunghoo Jung,
-  Dimitrios Peroulis, Y. Charlie Hu, "Analysis of Energy Consumption
-  on Data Sharing in Beamforming for Wireless Sensor Networks",
-  International Conference on Computer Communications and
-  Networks 2010.
+  Dimitrios Peroulis, Y. Charlie Hu, "`Analysis of Energy Consumption
+  on Data Sharing in Beamforming for Wireless Sensor Networks
+  <https://ieeexplore.ieee.org/document/5560150>`_", International
+  Conference on Computer Communications and Networks 2010.  DOI:
+  https://doi.org/10.1109/ICCCN.2010.5560150
 
 - Yamini Nimmagadda, Karthik Kumar, Yung-Hsiang Lu, and C. S. George
-  Lee," Real-time Moving Object Recognition and Tracking Using
-  Computation Offloading", IEEE/RSJ International Conference on
-  Intelligent Robots and Systems 2010.
+  Lee, "`Real-time Moving Object Recognition and Tracking Using
+  Computation Offloading
+  <https://ieeexplore.ieee.org/document/5650303>`_", IEEE/RSJ
+  International Conference on Intelligent Robots and Systems 2010.
+  Pages: 2449-2455. DOI: https://doi.org/10.1109/IROS.2010.5650303
 
 - Serkan Sayilir, Yung-Hsiang Lu, Dimitrios Peroulis, Y. Charlie Hu,
-  and Byunghoo Jung, "Phase Difference and Frequency Offset Estimation
-  for Collaborative Beamforming in Sensor Networks", IEEE
-  International Symposium on Circuits and Systems 2010.
+  and Byunghoo Jung, "`Phase Difference and Frequency Offset
+  Estimation for Collaborative Beamforming in Sensor Networks
+  <https://ieeexplore.ieee.org/document/5537367>`_", IEEE
+  International Symposium on Circuits and Systems 2010.  Pages:
+  1504-1507. DOI: https://doi.org/10.1109/ISCAS.2010.5537367
   
-- Michael Gasser, Yung-Hsiang Lu, and Cheng-Kok Koh, "Outreach Project
-  Introducing Computer Engineering to High School Students", Frontiers
-  in Education 2010. 
+- Michael Gasser, Yung-Hsiang Lu, and Cheng-Kok Koh, "`Outreach
+  Project Introducing Computer Engineering to High School Students
+  <https://ieeexplore.ieee.org/document/5673580>`_", IEEE Frontiers in
+  Education 2010. Pages: F2E-1-F2E-5. DOI:
+  https://doi.org/10.1109/FIE.2010.5673580
 
-- Yung-Hsiang Lu, Guangwei Zhu, and Cheng-Kok Koh, "Using the Tetris
-  Game to Teach Computing", American Society for Engineering Education
-  Annual Conference 2010. 
+- Yung-Hsiang Lu, Guangwei Zhu, and Cheng-Kok Koh, "`Using the Tetris
+  Game to Teach Computing
+  <https://peer.asee.org/using-the-tetris-game-to-teach-computing>`_",
+  American Society for Engineering Education Annual Conference 2010.
+  DOI: https://doi.org/10.18260/1-2--16604
 
-- Cordelia Brown and Yung-Hsiang Lu, "Integration of Real-World
-  Teaming into a Programming Course", American Society for Engineering
-  Education Annual Conference 2010. 
+- Cordelia Brown and Yung-Hsiang Lu, "`Integration of Real-World
+  Teaming into a Programming Course
+  <https://peer.asee.org/integration-of-real-world-teaming-into-a-programming-course>`_",
+  American Society for Engineering Education Annual Conference 2010.
+  DOI: https://doi.org/10.18260/1-2--16744
 
 2009
 ^^^^
 - Jing Feng, Yung-Hsiang Lu, Byunghoo Jung, and Dimitrios Peroulis,
-  "Energy Efficient Collaborative Beamforming in Wireless Sensor
-  Networks", IEEE International Symposium on Circuits and Systems
-  2009, pages 2161-2164.
+  "`Energy Efficient Collaborative Beamforming in Wireless Sensor
+  Networks <https://ieeexplore.ieee.org/document/5118224>`_", IEEE
+  International Symposium on Circuits and Systems 2009, pages
+  2161-2164.  DOI: https://doi.org/10.1109/ISCAS.2009.5118224
   
 - Melissa Seward Yale, Deborah Bennett, Cordelia Brown, Guangwei Zhu,
-  and Yung-Hsiang Lu, "Effects of Learning Styles in a Programming
-  Course using Hybrid Content Delivery", Frontiers in Education
-  Conference 2009. 
+  and Yung-Hsiang Lu, "`Hybrid Content Delivery and Learning Styles in
+  a Computer Programming Course
+  <https://ieeexplore.ieee.org/document/5350462>`_", IEEE Frontiers in
+  Education Conference 2009.  DOI:
+  https://doi.org/10.1109/FIE.2009.5350462
   
 - Cordelia Brown, Yung-Hsiang Lu, Melissa Yale, and Deborah Bennett,
-  "On-Line Examinations for Object-Oriented Programming", American
-  Society for Engineering Education Annual Conference 2009. 
+  "`On-Line Examinations for Object-Oriented Programming <On-Line
+  Examinations for Object-Oriented Programming>`_", American Society
+  for Engineering Education Annual Conference 2009.  DOI:
+  https://doi.org/10.18260/1-2--5380
 
 - Matthew Tan Creti, Matthew Beaman, Saurabh Bagchi, Zhiyuan Li,
-  Yung-Hsiang Lu, "Multigrade Security Monitoring for Ad-Hoc Wireless
-  Networks", IEEE International Conference on Mobile Ad-hoc and Sensor
-  Systems 2009.
+  Yung-Hsiang Lu, "`Multigrade Security Monitoring for Ad-Hoc Wireless
+  Networks <https://ieeexplore.ieee.org/document/5336981>`_", IEEE
+  International Conference on Mobile Ad-hoc and Sensor
+  Systems 2009. Pages: 342-352.  DOI:
+  https://doi.org/10.1109/MOBHOC.2009.5336981
 
-
-- Yu-Ju Hong, Karthik Kumar, and Yung-Hsiang Lu, "Energy Efficient
-  Content-based Image Retrieval for Mobile Systems", IEEE
+- Yu-Ju Hong, Karthik Kumar, and Yung-Hsiang Lu, "`Energy Efficient
+  Content-based Image Retrieval for Mobile Systems
+  <https://ieeexplore.ieee.org/document/5118095>`_", IEEE
   International Symposium on Circuits and Systems 2009, pages
-  1673-1676.
+  1673-1676. DOI: https://doi.org/10.1109/ISCAS.2009.5118095
 
 - Yamini Nimmagadda, Karthik Kumar and Yung-Hsiang Lu,
-  "Energy-Efficient Image Compression in Mobile Devices for Wireless
-  Transmission", International Conference on Multimedia & Expo 2009.
+  "`Energy-Efficient Image Compression in Mobile Devices for Wireless
+  Transmission <https://ieeexplore.ieee.org/document/5202735>`_",
+  International Conference on Multimedia & Expo 2009. Pages:
+  1278-1281.  DOI: https://doi.org/10.1109/ICME.2009.5202735
 
 - Yamini Nimmagadda, Karthik Kumar and Yung-Hsiang Lu,
-  "Preference-Based Adaptation of Multimedia Presentations for
-  Different Display Sizes", International Conference on Multimedia &
-  Expo 2009.
+  "`Preference-Based Adaptation of Multimedia Presentations for
+  Different Display Sizes
+  <https://ieeexplore.ieee.org/document/5202660>`_", International
+  Conference on Multimedia & Expo 2009. Pages: 978-981.  DOI:
+  https://doi.org/10.1109/ICME.2009.5202660
 
-- Karthik Kumar, Yamini Nimmagadda, and Yung-Hsiang Lu, "Ranking
-  Servers based on Energy Savings for Computation Offloading",
-  International Symposium on Low Power Electronics and Design 2009.
+- Karthik Kumar, Yamini Nimmagadda, and Yung-Hsiang Lu, "`Ranking
+  Servers based on Energy Savings for Computation Offloading
+  <https://dl.acm.org/doi/10.1145/1594233.1594296>`_", International
+  Symposium on Low Power Electronics and Design 2009. Pages: 267-272.
+  DOI: https://doi.org/https://doi.org/10.1145/1594233.1594296
 
-- Karthik Kumar, Yamini Nimmagadda, and Yung-Hsiang Lu, "Establishing
-  Trust for Computation Offloading", International Conference on
-  Computer Communications and Networks 2009.
+- Karthik Kumar, Yamini Nimmagadda, and Yung-Hsiang Lu, "`Establishing
+  Trust for Computation Offloading
+  <https://ieeexplore.ieee.org/document/5235283>`_", International
+  Conference on Computer Communications and Networks 2009. DOI:
+  https://doi.org/10.1109/ICCCN.2009.5235283
 
 2008
 ^^^^
 
 - Karthik Kumar, Yamini Nimmagadda, Yu-Ju Hong, and Yung-Hsiang Lu,
-  "Energy Conservation by Adaptive Feature Loading for Mobile
-  Content-Based Image Retrieval", International Symposium on Low Power
-  Electronics and Design 2008, pages 153-158.
+  "`Energy Conservation by Adaptive Feature Loading for Mobile
+  Content-Based Image Retrieval
+  <https://dl.acm.org/doi/10.1145/1393921.1393963>`_", International
+  Symposium on Low Power Electronics and Design 2008, pages 153-158.
+  DOI: https://doi.org/10.1145/1393921.1393963
 
 - Cordelia Brown, Yung-Hsiang Lu, David Meyer, and Mark C Johnson,
-  "Hybrid Content Delivery: On-Line Lectures and Interactive Lab
-  Assignments", American Society for Engineering Education Annual
-  Conference 2008. 
+  "`Hybrid Content Delivery: On-Line Lectures and Interactive Lab
+  Assignments
+  <https://peer.asee.org/hybrid-content-delivery-on-line-lectures-and-interactive-lab-assignments>`_",
+  American Society for Engineering Education Annual Conference 2008.
+  DOI: https://doi.org/10.18260/1-2--3750
 
 - Yamini Nimmagadda, Yung-Hsiang Lu, Edward J. Delp, and David Ebert,
-  "Non-photorealistic Rendering for Energy Conservation in Portable
-  Devices", IS&T/SPIE Symposium on Electronic Imaging, Multimedia on
-  Mobile Devices Vol. 6821, 2008, San Jose, CA.
+  "`Non-photorealistic Rendering for Energy Conservation in Portable
+  Devices
+  <https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6821/1/Non-photorealistic-rendering-for-energy-conservation/10.1117/12.765549.short?SSO=1>`_",
+  IS&T/SPIE Symposium on Electronic Imaging, Multimedia on Mobile
+  Devices Vol. 6821, 2008.  DOI: https://doi.org/10.1117/12.765549
 
 - Vinai Sundaram, Saurabh Bagchi, Yung-Hsiang Lu, and Zhiyuan Li,
-  "SeNDORComm: An Energy-Efficient Priority-Driven Communication Layer
-  for Reliable Wireless Sensor Networks", International Symposium on
-  Reliable Distributed Systems 2008.
+  "`SeNDORComm: An Energy-Efficient Priority-Driven Communication
+  Layer for Reliable Wireless Sensor Networks (2008)
+  <https://ieeexplore.ieee.org/document/4690797>`_", International
+  Symposium on Reliable Distributed Systems 2008. Pages: 23-32.  DOI:
+  https://doi.org/10.1109/SRDS.2008.29.
 
 2007
 ^^^^
-- Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "Adaptive Computation
-  Offloading for Energy Conservation on Battery-Powered Systems",
+- Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "`Adaptive
+  Computation Offloading for Energy Conservation on Battery-Powered
+  Systems <https://ieeexplore.ieee.org/document/4447724>`_",
   International Conference on Parallel and Distributed Systems 2007.
+  DOI: https://doi.org/10.1109/ICPADS.2007.4447724
   
-- Nathaniel Pettis and Yung-Hsiang Lu, "Improving Quality-of-Service
+- Nathaniel Pettis and Yung-Hsiang Lu, "`Improving Quality-of-Service
   of File Migration Power Management Policies in High-Performance
-  Servers", International Conference on Parallel and Distributed
-  Systems 2007.
+  Servers <https://ieeexplore.ieee.org/document/4447727>`_",
+  International Conference on Parallel and Distributed Systems 2007.
+  DOI: https://doi.org/10.1109/ICPADS.2007.4447727
 
-- Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "A Programming
+- Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "`A Programming
   Environment with Runtime Energy Characterization for Energy-Aware
-  Applications", International Symposium on Low Power Electronics and
-  Design 2007, pages 141-146.
+  Applications <https://dl.acm.org/doi/10.1145/1283780.1283811>`_",
+  International Symposium on Low Power Electronics and Design 2007,
+  pages 141-146. DOI: https://doi.org/10.1145/1283780.1283811
 
-- Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "Energy-Aware
+- Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "`Energy-Aware
   Scheduling for Real-Time Multiprocessor Systems with Uncertain Task
-  Execution Time", Design Automation Conference 2007, pages 664-669.
+  Execution Time <https://dl.acm.org/doi/10.1145/1278480.1278648>`_",
+  Design Automation Conference 2007, pages 664-669. DOI:
+  https://doi.org/10.1145/1278480.1278648
 
-- Wei Zhang, Jianghai Hu, and Yung-Hsiang Lu, "Optimal Power Modes
-  Scheduling Using Hybrid Systems", American Control Conference 2007.
+- Wei Zhang, Jianghai Hu, and Yung-Hsiang Lu, "`Optimal Power Modes
+  Scheduling Using Hybrid Systems
+  <https://ieeexplore.ieee.org/document/4282752>`_", American Control
+  Conference 2007. Pages: 2781-2786. DOI:
+  https://doi.org/10.1109/ACC.2007.4282752  
 
 - Douglas Herbert, Vinaitheerthan Sundaram, Lila Albin, Yung-Hsiang
   Lu, Saurabh Bagchi, and Zhiyuan Li, "Pervasive Carbon Dioxide and
@@ -801,22 +862,27 @@ Conference Papers
   Exposition 2007.
 
 - H. Jacky Chang, C. S. George Lee, Y. Charlie Hu, Yung-Hsiang Lu,
-  "Multi-Robot SLAM with Topological/Metric Maps", IEEE/RSJ
+  "`Multi-Robot SLAM with Topological/Metric Maps
+  <https://ieeexplore.ieee.org/document/4399142>`_", IEEE/RSJ
   International Conference on Intelligent Robots and Systems 2007,
-  pages 1467-1472.
+  pages 1467-1472. DOI: https://doi.org/10.1109/IROS.2007.4399142
   
 2006
 ^^^^
 
-
 - Shantanu Gautam, Gabi Sarkis, Edwin Tjandranegara, Evan Zelkowitz,
-  Yung-Hsiang Lu, and Edward J. Delp, "Multimedia for Mobile Users:
-  Image Enhanced Navigation", Multimedia Content Analysis, Management,
-  and Retrieval, IS&T/SPIE Symposium on Electronic Imaging 2006.
+  Yung-Hsiang Lu, and Edward J. Delp, "`Multimedia for Mobile Users:
+  Image Enhanced Navigation
+  <https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6073/60730F/Multimedia-for-mobile-environment-image-enhanced-navigation/10.1117/12.642868.short>`_",
+  Multimedia Content Analysis, Management, and Retrieval, IS&T/SPIE
+  Symposium on Electronic Imaging 2006. Vol. 6073.  DOI:
+  https://doi.org/10.1117/12.642868
 
-- Yung-Hsiang Lu, David Ebert, and Edward J Delp, "Resource-Driven
-  Content Adaptation", Computational Imaging IV, IS&T/SPIE Symposium
-  on Electronic Imaging 2006.
+- Yung-Hsiang Lu, David Ebert, and Edward J Delp, "`Resource-Driven
+  Content Adaptation
+  <https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6065/60650L/Resource-driven-content-adaptation/10.1117/12.659736.short>`_",
+  Computational Imaging IV, IS&T/SPIE Symposium on Electronic
+  Imaging 2006. Vol. 6065.  DOI: https://doi.org/10.1117/12.659736
 
 - David S. Ebert, Yung-Hsiang Lu, Edward J. Delp, William Cleveland,
   Ahmed Elmagarmid, Alok Chaturvedi, and Mourad Ouzzani, "Resource-
@@ -826,22 +892,29 @@ Conference Papers
   Conference 2006.
 
 - Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee,
-  "Energy-Efficient Mobile Robot Exploration", IEEE International
-  Conference on Robotics and Automation 2006, pages 505-511.
-
+  "`Energy-Efficient Mobile Robot Exploration
+  <https://ieeexplore.ieee.org/document/1641761>`_", IEEE
+  International Conference on Robotics and Automation 2006, pages
+  505-511. DOI: https://doi.org/10.1109/ROBOT.2006.1641761
   
-- Changjiu Xian and Yung-Hsiang Lu, "Energy Reduction by Workload
-  Adaptation in a Multi-Process Environment", Design Automation and
-  Test in Europe 2006, pages 514-519.
+- Changjiu Xian and Yung-Hsiang Lu, "`Energy Reduction by Workload
+  Adaptation in a Multi-Process Environment
+  <https://ieeexplore.ieee.org/document/1656935>`_", Design Automation
+  and Test in Europe 2006, pages 514-519.
+  DOI: https://doi.org/10.1109/DATE.2006.243861
 
-- Changjiu Xian and Yung-Hsiang Lu, "Dynamic Voltage Scaling for
-  Multitasking Real-Time Systems with Uncertain Execution Time",
-  GLSVLSI 2006, pages 392-397.
+- Changjiu Xian and Yung-Hsiang Lu, "`Dynamic Voltage Scaling for
+  Multitasking Real-Time Systems with Uncertain Execution Time (2006)
+  <https://dl.acm.org/doi/10.1145/1127908.1127998>`_", ACM Great Lakes
+  symposium on VLS, 2006 Pages 392–397. DOI:
+  https://doi.org/10.1145/1127908.1127998
 
-- Jeff Brateman, Changjiu Xian, and Yung-Hsiang Lu, "Energy-Efficient
-  Scheduling for Autonomous Mobile Robots", IFIP International
-  Conference on Very Large Scale Integration VLSI-SoC 2006, pages
-  361-366.  
+- Jeff Brateman, Changjiu Xian, and Yung-Hsiang Lu, "`Energy-Efficient
+  Scheduling for Autonomous Mobile Robots
+  <https://ieeexplore.ieee.org/document/4107658>`_", IFIP
+  International Conference on Very Large Scale Integration VLSI-SoC
+  2006, pages 361-366. DOI:
+  https://doi.org/10.1109/VLSISOC.2006.313262
 
 - H. Jacky Chang, C.S. George Lee, Yung-Hsiang Lu, and Y. Charlie Hu,
   "`Simultaneous Localization and Mapping with Environmental Structure
@@ -849,176 +922,224 @@ Conference Papers
   International Conference on Robotics and Automation 2006, pages
   4069-4074. DOI: https://doi.org/10.1109/ROBOT.2006.1642327
   
-- Edward J Delp and Yung-Hsiang Lu, "The Use of Undergraduate Project
+- Edward J Delp and Yung-Hsiang Lu, "`The Use of Undergraduate Project
   Courses for Teaching Image and Signal Processing Techniques at
-  Purdue University", Signal Processing Education Workshop 2006, pages
-  281-284. 
+  Purdue University <https://ieeexplore.ieee.org/document/4041074>`_",
+  Signal Processing Education Workshop 2006, pages 281-284.  DOI:
+  https://doi.org/10.1109/DSPWS.2006.265391
   
-- Evan Zelkowitz, Mark C Johnson, and Yung-Hsiang Lu, "Quantitative
+- Evan Zelkowitz, Mark C Johnson, and Yung-Hsiang Lu, "`Quantitative
   Analysis of Programs: Comparing Open-Source Software with Student
-  Projects", American Society for Engineering Education Annual
-  Conference 2006. 
+  Projects 
+  <https://peer.asee.org/quantitative-analysis-of-programs-comparing-open-source-software-with-student-projects>`_",
+  American Society for Engineering Education Annual Conference 2006.
+  DOI: https://doi.org/10.18260/1-2--710
 
-- Mark C Johnson and Yung-Hsiang Lu, "Teaching Software Engineering
-  Through Competition and Collaboration", American Society for
-  Engineering Education Annual Conference 2006.
+- Mark C Johnson and Yung-Hsiang Lu, "`Teaching Software Engineering
+  Through Competition and Collaboration
+  <https://peer.asee.org/teaching-software-engineering-through-competition-and-collaboration>`_",
+  American Society for Engineering Education Annual
+  Conference 2006. DOI: https://doi.org/10.18260/1-2--706
 
 - Yongguo Mei, Changjiu Xian, Saumitra Das, Y. Charlie Hu and
-  Yung-Hsiang Lu, "Replacing Failed Sensor Nodes by Mobile Robots",
-  Workshop on Wireless Ad hoc and Sensor Networks 2006.
+  Yung-Hsiang Lu, "`Replacing Failed Sensor Nodes by Mobile Robots
+  <https://ieeexplore.ieee.org/document/1648975>`_", IEEE
+  International Conference on Distributed Computing Systems
+  Workshops 2006. Pages: 87-87. DOI:
+  https://doi.org/10.1109/ICDCSW.2006.90
 
 - Dimitrios Koutsonikolas, Saumitra M. Das, Y. Charlie Hu, Yung-Hsiang
-  Lu, and C.S. George Lee, "CoCoA: Coordinated Cooperative
-  Localization for Mobile Multi-Robot Ad Hoc Networks", International
-  Workshop on Dynamic Distributed Systems 2006.
+  Lu, and C.S. George Lee, "`CoCoA: Coordinated Cooperative
+  Localization for Mobile Multi-Robot Ad Hoc Networks
+  <https://ieeexplore.ieee.org/document/1648898>`_", International
+  Workshop on Dynamic Distributed Systems 2006. DOI:
+  https://doi.org/10.1109/ICDCSW.2006.30
 
-- Jason Ridenour, Jianghai Hu, and Yung-Hsiang Lu, "Low-Power Buffer
-  Management Using Hybrid Control", American Control Conference 2006,
-  pages 2670-2675.
+- Jason Ridenour, Jianghai Hu, and Yung-Hsiang Lu, "`Low-Power Buffer
+  Management Using Hybrid Control
+  <https://ieeexplore.ieee.org/document/1656626>`_", American Control
+  Conference 2006, pages 2670-2675. DOI:
+  https://doi.org/10.1109/ACC.2006.1656626
 
 - Douglas Herbert, Yung-Hsiang Lu, Saurabh Bagchi, and Zhiyuan Li,
-  "Detection and Repair of Software Errors in Hierarchical Sensor
-  Networks", IEEE International Conference on Sensor Networks,
-  Ubiquitous, and Trustworthy Computing 2006, pages 403-410.
+  "`Detection and Repair of Software Errors in Hierarchical Sensor
+  Networks <https://ieeexplore.ieee.org/document/1636206>`_", IEEE
+  International Conference on Sensor Networks, Ubiquitous, and
+  Trustworthy Computing 2006, pages 403-410. DOI:
+  https://doi.org/10.1109/SUTC.2006.1636206
 
-- Le Cai and Yung-Hsiang Lu, "Power Reduction of Multiple Disks Using
-  Dynamic Cache Resizing and Speed Control", International Symposium
-  on Low Power Electronics and Design 2006, pages 186-190.
+- Le Cai and Yung-Hsiang Lu, "`Power Reduction of Multiple Disks Using
+  Dynamic Cache Resizing and Speed Control
+  <https://dl.acm.org/doi/10.1145/1165573.1165617>`_", International
+  Symposium on Low Power Electronics and Design 2006, pages 186-190.
+  DOI: https://doi.org/10.1145/1165573.1165617
 
-- Nathaniel Pettis, Jason Ridenour, and Yung-Hsiang Lu, "Automatic
-  Run-Time Selection of Power Policies for Operating Systems", Design
-  Automation and Test in Europe 2006, pages 508-513.
-  
-  
+- Nathaniel Pettis, Jason Ridenour, and Yung-Hsiang Lu, "`Automatic
+  Run-Time Selection of Power Policies for Operating Systems
+  <https://dl.acm.org/doi/10.5555/1131481.1131618>`_", Design
+  Automation and Test in Europe 2006, pages 508-513. DOI:
+  https://doi.org/10.1109/DATE.2006.243860
 
 2005
 ^^^^
 
-- Le Cai, Yung-Hsiang Lu, "Joint Power Management of Memory and Disk",
-  Design Automation and Test in Europe 2005, pages 86-91.
+- Le Cai, Yung-Hsiang Lu, "`Joint Power Management of Memory and Disk
+  <https://dl.acm.org/doi/10.1109/DATE.2005.192>`_", Design Automation
+  and Test in Europe 2005, pages 86-91. DOI:
+  https://doi.org/10.1109/DATE.2005.192
 
 - Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee,
-  "Reducing the Number of Mobile Sensors for Coverage Tasks", IEEE/RSJ
+  "`Reducing the Number of Mobile Sensors for Coverage Tasks
+  <https://ieeexplore.ieee.org/document/1545071>`_", IEEE/RSJ
   International Conference on Intelligent Robots and Systems 2005,
-  pages 754-759.
+  pages 1426-1431. DOI: https://doi.org/10.1109/IROS.2005.1545071
 
-- Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee, "A
+- Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee, "`A
   Case Study of Mobile Robot's Energy Consumption and Conservation
-  Techniques", International Conference on Advanced Robotics 2005,
-  pages 492-497.
+  Techniques <https://ieeexplore.ieee.org/document/1507454>`_",
+  International Conference on Advanced Robotics 2005, pages 492-497.
+  DOI: https://doi.org/10.1109/ICAR.2005.1507454
 
 - Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, C.S. George Lee,
-  "Deployment Strategy for Mobile Robots with Energy and Timing
-  Constraints", International Conference on Robotics and Automation
-  2005, pages 2827-2832.
-
-- Saumitra Das, Y. Charlie Hu, C.S. George Lee, and Yung-Hsiang Lu,
-  "An Efficient Group Communication Protocol for Mobile Robots",
+  "`Deployment Strategy for Mobile Robots with Energy and Timing
+  Constraints <https://ieeexplore.ieee.org/document/1570540>`_",
   International Conference on Robotics and Automation 2005, pages
-  88-93.
+  2827-2832. DOI: https://doi.org/10.1109/ROBOT.2005.1570540
 
 - Saumitra Das, Y. Charlie Hu, C.S. George Lee, and Yung-Hsiang Lu,
-  "Efficient Unicast Messaging for Mobile Robots", International
-  Conference on Robotics and Automation 2005, pages 94-99.
+  "`An Efficient Group Communication Protocol for Mobile Robots
+  <https://ieeexplore.ieee.org/document/1570101>`_", International
+  Conference on Robotics and Automation 2005, pages 87-92. DOI:
+  https://doi.org/10.1109/ROBOT.2005.1570101
 
-- Jianghai Hu and Yung-Hsiang Lu, "Buffer Management for Power
-  Reduction Using Hybrid Control", IEEE Conference on Decision and
-  Control and European Control Conference 2005, pages 6997-7002.
+- Saumitra Das, Y. Charlie Hu, C.S. George Lee, and Yung-Hsiang Lu,
+  "`Efficient Unicast Messaging for Mobile Robots
+  <https://ieeexplore.ieee.org/document/1570102>`_", International
+  Conference on Robotics and Automation 2005, pages 94-99.  DOI:
+  https://doi.org/10.1109/ROBOT.2005.1570102
+
+- Jianghai Hu and Yung-Hsiang Lu, "`Buffer Management for Power
+  Reduction Using Hybrid Control
+  <https://ieeexplore.ieee.org/document/1583288>`_", IEEE Conference
+  on Decision and Control and European Control Conference 2005, pages
+  6997-7002. DOI: https://doi.org/10.1109/CDC.2005.1583288
   
-
 2004
 ^^^^
 
-- Nathaniel Pettis, Le Cai, and Yung-Hsiang Lu, "Dynamic Power
-  Management for Streaming Data", International Symposium on Low Power
-  Electronics and Design 2004, pages 62-65. (poster)
+- Nathaniel Pettis, Le Cai, and Yung-Hsiang Lu, "`Dynamic Power
+  Management for Streaming Data
+  <https://dl.acm.org/doi/10.1145/1013235.1013256>`_", International
+  Symposium on Low Power Electronics and Design 2004, pages
+  62-65. (poster) DOI: https://doi.org/10.1145/1013235.1013256
 
-- Le Cai and Yung-Hsiang Lu, "Dynamic Power Management Using Data
-  Buffers", Design Automation and Test in Europe 2004, pages 526-531.
+- Le Cai and Yung-Hsiang Lu, "`Dynamic Power Management Using Data
+  Buffers <https://ieeexplore.ieee.org/document/1268899>`_", Design
+  Automation and Test in Europe 2004, pages 526-531. DOI:
+  https://doi.org/10.1109/DATE.2004.1268899
 
-- Jason W. Horihan and Yung-Hsiang Lu, "Improving FSM Evolution with
-  Progressive Fitness Functions", Great Lakes Symposium on VLSI 2004,
-  pages 123-126.
+- Jason W. Horihan and Yung-Hsiang Lu, "`Improving FSM Evolution with
+  Progressive Fitness Functions
+  <https://dl.acm.org/doi/10.1145/988952.988983>`_", Great Lakes
+  Symposium on VLSI 2004, pages 123-126. DOI:
+  https://doi.org/10.1145/988952.988983
 
-- Chris Gniady, Y. Charlie Hu, and Yung-Hsiang Lu, "Program Counter
-  Based Techniques for Dynamic Power Management", International
+- Chris Gniady, Y. Charlie Hu, and Yung-Hsiang Lu, "`Program Counter
+  Based Techniques for Dynamic Power Management
+  <https://ieeexplore.ieee.org/document/1410062>`_", International
   Symposium on High-Performance Computer Architecture 2004, pages
-  24-35.
+  24-35. DOI: https://doi.org/10.1109/HPCA.2004.10021
   
 - Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee,
-  "Determining the Fleet Size of Mobile Robots with Energy
-  Constraints", IEEE/RSJ International Conference on Intelligent
-  Robots and Systems 2004, pages 1420-1425.
+  "`Determining the Fleet Size of Mobile Robots with Energy
+  Constraints <https://ieeexplore.ieee.org/document/1389595>`_",
+  IEEE/RSJ International Conference on Intelligent Robots and Systems
+  2004, pages 1420-1425. DOI:
+  https://doi.org/10.1109/IROS.2004.1389595
 
 - Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee,
-  "Energy-Efficient Motion Planning for Mobile Robots", International
-  Conference on Robotics and Automation 2004, pages 4344-4349.
+  "`Energy-Efficient Motion Planning for Mobile Robots
+  <https://ieeexplore.ieee.org/document/1302401>`_", International
+  Conference on Robotics and Automation 2004, pages 4344-4349. DOI:
+  https://doi.org/10.1109/ROBOT.2004.1302401
 
 - Saumitra Das, Y. Charlie Hu, C.S. George Lee, and Yung-Hsiang Lu,
-  "Supporting Many-to-One Communication in Mobile Multi-Robot Ad Hoc
-  Sensing Networks", International Conference on Robotics and
-  Automation 2004, pages 659-664.
+  "`Supporting Many-to-One Communication in Mobile Multi-Robot Ad Hoc
+  Sensing Networks <https://ieeexplore.ieee.org/document/1307224>`_",
+  International Conference on Robotics and Automation 2004, pages
+  659-664. DOI: https://doi.org/10.1109/ROBOT.2004.1307224
 
 - Yuldi Tirta, Zhiyuan Li, Yung-Hsiang Lu, and Saurabh Bagchi,
-  "Efficient Collection of Sensor Data in Remote Fields Using Mobile
-  Collectors", International Conference on Computer Communications and
-  Networks 2004, pages 515-519.
+  "`Efficient Collection of Sensor Data in Remote Fields Using Mobile
+  Collectors <https://ieeexplore.ieee.org/document/1401721>`_",
+  International Conference on Computer Communications and Networks
+  2004, pages 515-519. DOI: https://doi.org/10.1109/ICCCN.2004.1401721
 
 - H. Jacky Chang, C.S. George Lee, Yung-Hsiang Lu, and Y. Charlie Hu,
-  "A Computational Efficient SLAM Algorithm Based on Logarithmic-Map
-  Partitioning", IEEE/RSJ International Conference on Intelligent
-  Robots and Systems 2004, pages 1041-1046.
+  "`A Computational Efficient SLAM Algorithm Based on Logarithmic-Map
+  Partitioning <https://ieeexplore.ieee.org/document/1389534>`_",
+  IEEE/RSJ International Conference on Intelligent Robots and Systems
+  2004, pages 1041-1046.  DOI:
+  https://doi.org/10.1109/IROS.2004.1389534
 
 - H. Jacky Chang, C.S. George Lee, Yung-Hsiang Lu, and Y. Charlie Hu,
-  "Energy-Time-Efficient Adaptive Dispatching Algorithms for Ant-Like
-  Robot Systems", International Conference on Robotics and Automation
-  2004, pages 3294-3299.
+  "`Energy-Time-Efficient Adaptive Dispatching Algorithms for Ant-Like
+  Robot Systems <https://ieeexplore.ieee.org/document/1308762>`_",
+  International Conference on Robotics and Automation 2004, pages
+  3294-3299. DOI: https://doi.org/10.1109/ROBOT.2004.1308762
 
-- Yung-Hsiang Lu and Edward J. Delp, "An Overview of Problems in
-  Image-Based Location Awareness and Navigation", Visual
-  Communications and Image Processing 2004, pages 102-109
+- Yung-Hsiang Lu and Edward J. Delp, "`An Overview of Problems in
+  Image-Based Location Awareness and Navigation
+  <https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5308/0000/An-overview-of-problems-in--image-based-location-awareness/10.1117/12.538246.short>`_",
+  Visual Communications and Image Processing 2004, pages 102-109.
+  DOI: https://doi.org/10.1117/12.538246
 
-- Yung-Hsiang Lu and Edward J. Delp, "Image-Based Location Awareness
-  and Navigation: Who Cares?", Southwest Symposium on Image Analysis
-  and Interpretation 2004, pages 26-30.
-  
-  
-
-
-  
-
+- Yung-Hsiang Lu and Edward J. Delp, "`Image-Based Location Awareness
+  and Navigation: Who Cares?
+  <https://ieeexplore.ieee.org/document/1300938>`_", Southwest
+  Symposium on Image Analysis and Interpretation 2004, pages 26-30.
+  DOI: https://doi.org/10.1109/IAI.2004.1300938
 
 2000
 ^^^^
 - Yung-Hsiang Lu, Eui-Young Chung, Tajana Simunic, Luca Benini, and
-  Giovanni De Micheli, "Quantitative Comparison of Power Management
-  Algorithms", Design Automation and Test in Europe 2000, pages 20-26.
+  Giovanni De Micheli, "`Quantitative Comparison of Power Management
+  Algorithms (2000) <https://ieeexplore.ieee.org/document/840010>`_", Design
+  Automation and Test in Europe 2000, pages 20-26.
+  DOI: https://doi.org/10.1109/DATE.2000.840010
 
-- Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "Low-Power
-  Task Scheduling for Multiple Devices", International Workshop on
-  Hardware/Software Codesign 2000, pages 39-43.
+- Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "`Low-Power
+  Task Scheduling for Multiple Devices
+  <https://ieeexplore.ieee.org/document/843704>`_", International
+  Workshop on Hardware/Software Codesign 2000, pages 39-43.  DOI:
+  https://doi.org/10.1109/HSC.2000.843704
 
 - Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli,
-  "Operating-System Directed Power Reduction", International Symposium
-  on Low Power Electronics and Design 2000, pages 37-42.
+  "`Operating-System Directed Power Reduction
+  <https://ieeexplore.ieee.org/document/876754>`_", International
+  Symposium on Low Power Electronics and Design 2000, pages 37-42.
+  DOI: https://doi.org/10.1109/LPE.2000.155250
 
 - Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli,
-  "Requester-Aware Power Reduction", International Symposium on System
-  Synthesis 2000, pages 18-23.
+  "`Requester-Aware Power Reduction
+  <https://ieeexplore.ieee.org/document/874024>`_", International
+  Symposium on System Synthesis 2000, pages 18-23.  DOI:
+  https://doi.org/10.1109/ISSS.2000.874024
 
 1999
 ^^^^
 
-- Yung-Hsiang Lu and Giovanni De Micheli, "Adaptive Hard Disk Power
-  Management on Personal Computers", Great Lakes Symposium on VLSI
-  1999, pages 50-53.
+- Yung-Hsiang Lu and Giovanni De Micheli, "`Adaptive Hard Disk Power
+  Management on Personal Computers
+  <https://ieeexplore.ieee.org/document/757375>`_", Great Lakes
+  Symposium on VLSI 1999, pages 50-53. DOI:
+  https://doi.org/10.1109/GLSV.1999.757375
 
-- Yung-Hsiang Lu, Tajana Simunic, and Giovanni De Micheli, "Software
-  Controlled Power Management", International Workshop on
-  Hardware/Software Codesign 1999, pages 157-161.
-
-
-  
+- Yung-Hsiang Lu, Tajana Simunic, and Giovanni De Micheli, "`Software
+  Controlled Power Management
+  <https://ieeexplore.ieee.org/document/777412>`_", International
+  Workshop on Hardware/Software Codesign 1999, pages 157-161.
+  DOI: https://doi.org/10.1109/HSC.1999.777412
 
 Book Chapters
 -------------
@@ -1032,44 +1153,49 @@ Book Chapters
 
 - Yung-Hsiang Lu, Eui-Young Chung, Tajana Simunic, Luca Benini, and
   Giovanni De Micheli, "`Quantitative Comparison of Power Management
-  Algorithms
+  Algorithms (2008)
   <https://link.springer.com/chapter/10.1007/978-1-4020-6488-3_16>`_",
   The Most Influential Papers of 10 Years DATE, Editors: Rudy
   Lauwereins and Jan Madsen. Springer, 2008, ISBN
   978-1-4020-6487-6. Pages 207-219. DOI:
   https://doi.org/10.1007/978-1-4020-6488-3_16
 
-- Jeff Brateman and Changjiu Xian and Yung-Hsiang Lu, "Frequency and
-  Speed Setting for Energy Conservation in Autonomous Mobile Robots",
+- Jeff Brateman and Changjiu Xian and Yung-Hsiang Lu, "`Frequency and
+  Speed Setting for Energy Conservation in Autonomous Mobile Robots
+  <https://link.springer.com/chapter/10.1007/978-0-387-74909-9_12>`_",
   pages 197-216, in VLSI-SOC Research Trends in VLSI and Systems on
   Chip, Editors: Giovanni De Micheli, Salvador Mir, and Ricardo
-  Reis. Springer, 2008, ISBN 978-0-387-74908-2. 
+  Reis. Springer, 2008, ISBN 978-0-387-74908-2. DOI:
+  https://doi.org/10.1007/978-0-387-74909-9_12
 
 - Yuldi Tirta, Bennett Lau, Nipoon Malhotra, Saurabh Bagchi, Zhiyuan
-  Li, and Yung-Hsiang Lu, "Controlled Mobility for Efficient Data
-  Gathering in Sensor Networks with Passively Mobile Nodes", Section
-  3.2, pages 92-113, in Sensor Network Operations, Editors: Shashi
-  Phoha, Thomas La Porta, and Christopher Griffin. Wiley-IEEE Press,
-  2006, ISBN 0-471-71976-5.
+  Li, and Yung-Hsiang Lu, "`Controlled Mobility for Efficient Data
+  Gathering in Sensor Networks with Passively Mobile Nodes
+  <https://www.wiley.com/en-us/Sensor+Network+Operations-p-9780471784173>`_",
+  Section 3.2, pages 92-113, in Sensor Network Operations, Editors:
+  Shashi Phoha, Thomas La Porta, and Christopher Griffin. Wiley-IEEE
+  Press, 2006, ISBN 0-471-71976-5.
 
 Technical Reports
 -----------------
 
-
-- Jibang Liu, Yung-Hsiang Lu, and Cheng-Kok Koh, "Performance Analysis
-  of Arithmetic Operations in Homomorphic Encryption" TR-ECE-404,
-  School of Electrical and Computer Engineering, Purdue University,
-  December 2010. 
+- Jibang Liu, Yung-Hsiang Lu, and Cheng-Kok Koh, "`Performance
+  Analysis of Arithmetic Operations in Homomorphic Encryption
+  <https://docs.lib.purdue.edu/ecetr/404/>`_" TR-ECE-404, School of
+  Electrical and Computer Engineering, Purdue University,
+  December 2010.
 
 - Vinaitheerthan Sundaram, Jae-Woo Lee, Saurabh Bagchi, Yung-Hsiang
-  Lu, and Zhiyuan Li, "SeNDORComm: An Energy-Efficient Priority-Driven
-  Communication Layer for Reliable Wireless Sensor Networks",
-  TR-ECE-365, Purdue University, December 2007.
+  Lu, and Zhiyuan Li, "`SeNDORComm: An Energy-Efficient
+  Priority-Driven Communication Layer for Reliable Wireless Sensor
+  Networks (2007) <https://docs.lib.purdue.edu/ecetr/365/>`_", TR-ECE-365,
+  Purdue University, December 2007.
 
-- Nathaniel Pettis and Yung-Hsiang Lu, "Implementation Guides for a
+- Nathaniel Pettis and Yung-Hsiang Lu, "`Implementation Guides for a
   Homogeneous Architecture for Power Policy Integration in Operating
-  Systems", TR ECE-351, School of Electrical and Computer Engineering,
-  Purdue University, March 2007. 
+  Systems <https://docs.lib.purdue.edu/ecetr/351/>`_", TR ECE-351,
+  School of Electrical and Computer Engineering, Purdue University,
+  March 2007.
 
 |CRCBOOK| |CNBOOK|
 
