@@ -21,6 +21,11 @@ Engineering Entrepreneurial Center. In 2019, he received Outstanding
 VIP-Based Entrepreneur Award from the VIP (Vertically Integrated
 Projects) Consortium.
 
+- Email: yunglu@purdue.edu
+
+- Linkedin: https://www.linkedin.com/in/yung-hsiang-lu-51842b22/
+
+- Office: MSEE 222, 501 Northwestern Ave, West Lafayette, IN 47907, USA  
 
 .. toctree::
    :maxdepth: 2
