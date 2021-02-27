@@ -4,6 +4,14 @@ Courses
 Undergraduate
 -------------
 
+|201809Team| |201803Team|
+
+.. |201809Team| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
+   :width: 42%
+	   
+.. |201803Team| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
+   :width: 49%
+
 - ECE 264 "`Advanced C Programming
   <https://github.com/PurdueECE264>`_". Topics covered: stack memory,
   recursion, memory management, structures, file (text and binary),
