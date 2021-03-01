@@ -118,43 +118,53 @@ Past Graduate Students
 - Ph.D.
 
   * 2017 `Anup Mohan <https://www.linkedin.com/in/anupmohan560/>`_,
-    Ph.D., Thesis: "Cloud Resource Management for Big Visual Data
-    Analysis from Globally Distributed Network Cameras".
+    Ph.D., Thesis: "`Cloud Resource Management for Big Visual Data
+    Analysis from Globally Distributed Network Cameras
+    <https://docs.lib.purdue.edu/dissertations/AAI10272571/>`_".
 
   * 2016 `Ahmed Kaseb <https://www.linkedin.com/in/akaseb/>`_, Ph.D.,
-    Thesis: "A Cost-Effective Cloud-Based System for Analyzing Big
-    Real-Time Visual Data From Thousands of Network Cameras".
+    Thesis: "`A Cost-Effective Cloud-Based System for Analyzing Big
+    Real-Time Visual Data From Thousands of Network Cameras
+    <https://docs.lib.purdue.edu/dissertations/AAI10247059/>`_".
 
   * 2012 `Jing (Jackie) Feng
     <https://www.linkedin.com/in/jing-feng-70507225/>`_, Ph.D.,
-    Thesis: "Energy-Efficient Collaborative Data Transmission in
-    Wireless Sensor Networks".
+    Thesis: "`Energy-Efficient Collaborative Data Transmission in
+    Wireless Sensor Networks
+    <https://docs.lib.purdue.edu/dissertations/AAI3544137/>`_".
 
   * 2011 `Karthik Kumar
     <https://www.linkedin.com/in/karthikkumar2/>`_, Ph.D.  Thesis:
-    "Application-Based Energy Efficient Mobile and Server Computing",
+    "`Application-Based Energy Efficient Mobile and Server Computing
+    <https://docs.lib.purdue.edu/dissertations/AAI3481059/>`_",
     Bilsland Dissertation Fellowship.
 
   * 2010 `Yamini Nimmagadda
     <https://www.linkedin.com/in/yamini-nimmagadda-6677a08/>`_, Ph.D.,
-    Thesis: "Resource-Driven Transmission, Display, and Processing of
-    Multimedia in Mobile Devices".
+    Thesis: "`Resource-Driven Transmission, Display, and Processing of
+    Multimedia in Mobile Devices
+    <https://docs.lib.purdue.edu/dissertations/AAI3453276/>`_".
 
-  * 2008 Changjiu Xian, Ph.D., Thesis: "Collaborative Power Management between Operating Systems and Applications".
+  * 2008 Changjiu Xian, Ph.D., Thesis: "`Collaborative Power
+    Management between Operating Systems and Applications
+    <https://docs.lib.purdue.edu/dissertations/AAI3330613/>`_".
 
   * 2008 `Nathaniel (Eddie) Pettis
     <https://www.linkedin.com/in/eddiepettis/>`_, Ph.D., Thesis:
-    "Automatic Configuration and Selection of {Power} Management
-    Policies".  Bilsland Dissertation Fellowship and a finalist of
-    Chorafas Top Doctoral Award.
+    "`Automatic Configuration and Selection of Power Management
+    Policies
+    <https://docs.lib.purdue.edu/dissertations/AAI3330558/>`_".
+    Bilsland Dissertation Fellowship and a finalist of Chorafas Top
+    Doctoral Award.
 
   * 2007 `Yongguo Mei
     <https://www.linkedin.com/in/yongguo-mei-45613416/>`_, Ph.D.,
-    Thesis: "Energy-Efficient Mobile Robots".
+    Thesis: "`Energy-Efficient Mobile Robots
+    <https://docs.lib.purdue.edu/dissertations/AAI3287287/>`_".
 
   * 2006 `Le Cai <https://www.linkedin.com/in/le-cai-8119725/>`_,
-    Ph.D., Thesis: "Joint Power Management of Memory and Hard Disks"
-
+    Ph.D., Thesis: "`Joint Power Management of Memory and Hard Disks
+    <https://docs.lib.purdue.edu/dissertations/AAI3260005/>`_"
 
 - MS
   
@@ -185,8 +195,9 @@ Past Graduate Students
     Application".
 
   * 2015 `Ganesh Prahlad Rao Gingade
-    <https://www.linkedin.com/in/ganeshgp/>`_, M.S., Thesis: "Hybrid
-    Power Management for Office Equipment".
+    <https://www.linkedin.com/in/ganeshgp/>`_, M.S., Thesis: "`Hybrid
+    Power Management for Office Equipment
+    <https://docs.lib.purdue.edu/open_access_theses/1178/>`_".
 
   * 2015 `Wenyi Chen
     <https://www.linkedin.com/in/wenyi-chen-4273ba42/>`_, M.S.,
@@ -194,9 +205,9 @@ Past Graduate Students
     Data".
 
   * 2008 `Karthik Kumar
-    <https://www.linkedin.com/in/karthikkumar2/>`_, M.S.,
-    Thesis: “Energy Conservation for Content-Based Image Retrieval on
-    Mobile Devices”. 
+    <https://www.linkedin.com/in/karthikkumar2/>`_, M.S., Thesis:
+    “`Energy Conservation for Content-Based Image Retrieval on Mobile
+    Devices <https://docs.lib.purdue.edu/ecetheses/20/>`_”.
 
   * 2007 `Douglas Herbert
     <https://www.linkedin.com/in/doug-herbert-11b1957/>`_, M.S.,
