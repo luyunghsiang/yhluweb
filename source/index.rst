@@ -21,6 +21,13 @@ Engineering Entrepreneurial Center. In 2019, he received Outstanding
 VIP-Based Entrepreneur Award from the VIP (Vertically Integrated
 Projects) Consortium.
 
+Dr. Lu has made many `Youtube Videos
+<https://www.youtube.com/c/yunghsianglu/videos>`_ about computer
+programming and career planning. In addition to advising `graduate
+students <https://yhlu.net/research.html#current-graduate-students>`_,
+Dr. Lu has advised 200 undergraduate students in research projects and
+taught more than 5,000 students in classrooms.
+
 - Email: yunglu@purdue.edu
 
 - Linkedin: https://www.linkedin.com/in/yung-hsiang-lu-51842b22/
