@@ -77,6 +77,11 @@ National Science Foundation
 
 - 2003, Co-PI, IIS: Distributed Energy-Efficient Mobile Robots
 
+Sandia National Laboratory
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 2020, Large Scale Network Simulation for Video Surveillance
+
 
 Facebook
 ^^^^^^^^
@@ -97,7 +102,14 @@ Google
 Xilinx
 ^^^^^^
 
-- Low-Power Computer Vision Challenge
+- 2019, Low-Power Computer Vision Challenge
+
+- 2020, Low-Power Computer Vision Challenge
+
+HP
+^^
+
+- 2013, Adaptive Power Management for Laser Printers
 
 
 Current Graduate Students
