@@ -28,11 +28,22 @@ students <https://yhlu.net/research.html#current-graduate-students>`_,
 Dr. Lu has advised 200 undergraduate students in research projects and
 taught more than 5,000 students in classrooms.
 
+Contact Information
+-------------------
+
 - Email: yunglu@purdue.edu
+
+- Office: MSEE 222, 501 Northwestern Ave, West Lafayette, IN 47907, USA
 
 - Linkedin: https://www.linkedin.com/in/yung-hsiang-lu-51842b22/
 
-- Office: MSEE 222, 501 Northwestern Ave, West Lafayette, IN 47907, USA  
+- Linkedin Group for Research: https://www.linkedin.com/groups/13599559/
+
+- Linkedin Group for ECE 264 C Programming: https://www.linkedin.com/groups/8672695/
+
+- Linkedin Group for Purdue's `John Martinson Entrepreneurial Center
+  <https://engineering.purdue.edu/JMEC>`_ (JMEC):
+  https://www.linkedin.com/groups/8923495/
 
 .. toctree::
    :maxdepth: 2
