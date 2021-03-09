@@ -9,6 +9,13 @@ Journal Papers
   Discovery of Network Cameras in Heterogeneous Web Pages", accepted
   by ACM Transactions on Internet Technology.
 
+- Anup Mohan,Ahmed S. Kaseb, Yung-Hsiang Lu, Tom Hacker, "`Adaptive
+  Resource Management for Analyzing Video Streams from Globally
+  Distributed Network Cameras
+  <https://ieeexplore.ieee.org/document/8359122>`_", IEEE Transactions
+  on Cloud Computing, Vol. 9, Issue 1, January 2021. Pages:
+  40-53. DOI: https://doi.org/10.1109/TCC.2018.2836907
+
 - Abhinav Goel, Sara Aghajanzadeh, Caleb Tung, Shuo-Han Chen,
   George K. Thiruvathukal, Yung-Hsiang Lu, "`Modular Neural Networks
   for Low-Power Image Classification on Embedded Devices
@@ -64,13 +71,6 @@ Journal Papers
   <https://ojs.aaai.org//index.php/aimagazine/article/view/2782>`_",
   AI Magazine, Pages 87-88, Vol 39, No 2, Summer 2018. DOI:
   https://doi.org/10.1609/aimag.v39i2.2782
-
-- Anup Mohan,Ahmed S. Kaseb, Yung-Hsiang Lu, Tom Hacker, "`Adaptive
-  Resource Management for Analyzing Video Streams from Globally
-  Distributed Network Cameras
-  <https://ieeexplore.ieee.org/document/8359122>`_", IEEE Transactions
-  on Cloud Computing May 2018 (early access). DOI:
-  https://doi.org/10.1109/TCC.2018.2836907
 
 - Ahmed S. Kaseb, Anup Mohan, Youngsol Koh, Yung-Hsiang Lu, "`Cloud
   Resource Management for Analyzing Big Real-Time Visual Data from
