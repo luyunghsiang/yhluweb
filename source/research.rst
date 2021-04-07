@@ -10,7 +10,9 @@ Current Topics
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Topic                           | Sponsor                     | Summary                                                     | 
 +=================================+=============================+=============================================================+
-| Low-Power Computer Vision       | Google, Facebook, Xilinx    | Create efficient computer vision running on embedded sysems |
+| Low-Power Computer Vision       | Google, Facebook, Xilinx    | Improve efficiency of computer vision on embedded sysems    |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
+| Active Vision + Drone           | Facebook                    | Use real-time computer vision to control drones             |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Drone Video                     | National Science Foundation | Create video datasets captured by drone                     |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
