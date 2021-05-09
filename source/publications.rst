@@ -293,6 +293,12 @@ Conference Papers
   International Conference on Image Processing 2020. DOI:
   https://doi.org/10.1109/ICIP40778.2020.9190851
 
+- Abhinav Goel, Caleb Tung, Yung-Hsiang Lu, George K. Thiruvathukal,
+  "A Survey of Methods for Low-Power Deep Learning and Computer
+  Vision <https://ieeexplore.ieee.org/document/9221198>`_", IEEE World
+  Forum on Internet of Things (WF-IoT) 2020. DOI:
+  https://doi.org/10.1109/WF-IoT48130.2020.9221198
+
 - Abhinav Goel, Caleb Tung, Sara Aghajanzadeh, Isha Ghodgaonkar,
   Shreya Ghosh, George K. Thiruvathukal, Yung-Hsiang Lu, "`Low-Power
   Object Counting with Hierarchical Neural Networks

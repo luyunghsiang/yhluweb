@@ -18,9 +18,9 @@ Current Topics
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Observe Crowd Size in COVID-19  | National Science Foundation | Estimate crowd sizes worldwide during COVID-19              |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Open-Source TensorFlow Garden   | Google                      | Create open-source implementation of computer vision        |
+| Computer Vision at Edge Devices | National Science Foundation | Create Cyber Infrastructure for Edge Computing              |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Image Processing for Solar Sail | NASA                        | Estiamate the optical force from the shape of solar Sail    |
+| Open-Source TensorFlow Garden   | Google                      | Create open-source implementation of computer vision        |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 
 Research Funding
@@ -29,7 +29,12 @@ Research Funding
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- 2020, PI, Collaborative:RAPID:Leveraging New Data Sources to Analyze the Risk of COVID-19 in Crowded Locations
+- 2021, PI, 2104709 CDSE: Collaborative: Cyber Infrastructure to
+  Enable Computer Vision Applications at the Edge Using Automated
+  Contextual Analysis
+
+- 2020, PI, Collaborative:RAPID:Leveraging New Data Sources to Analyze
+  the Risk of COVID-19 in Crowded Locations
 
 - 2019, PI, CCRI: Planning: Collaborative Research: Planning to
   Develop a Low-Power Computer Vision Platform to Enhance Research
