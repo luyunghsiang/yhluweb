@@ -128,8 +128,6 @@ Current Graduate Students
 
 - Xiao Hu. Topic: Efficient Object Tracking on Embedded Systems
 
-- Haobo Wang. Topic: Network Management for Surveillance Video
-
 
 Past Graduate Students
 ----------------------
