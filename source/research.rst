@@ -10,15 +10,15 @@ Current Topics
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Topic                           | Sponsor                     | Summary                                                     | 
 +=================================+=============================+=============================================================+
-| Low-Power Computer Vision       | Google, Facebook, Xilinx    | Improve efficiency of computer vision on embedded sysems    |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Active Vision + Drone           | Facebook                    | Use real-time computer vision to control drones             |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Drone Video                     | National Science Foundation | Create video datasets captured by drone                     |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Observe Crowd Size in COVID-19  | National Science Foundation | Estimate crowd sizes worldwide during COVID-19              |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Computer Vision at Edge Devices | National Science Foundation | Create Cyber Infrastructure for Edge Computing              |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
+| Low-Power Computer Vision       | Google, Facebook, Xilinx    | Improve efficiency of computer vision on embedded sysems    |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
+| Active Vision + Drone           | Facebook                    | Use real-time computer vision to control drones             |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Open-Source TensorFlow Garden   | Google                      | Create open-source implementation of computer vision        |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
