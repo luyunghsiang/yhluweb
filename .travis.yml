@@ -20,8 +20,6 @@ addons:
 script:
 - pip install -r requirements.txt
 - BOOK_VERSION=$(./get-current-version.sh) travis-sphinx build -n -s source
-- BOOK_VERSION=$(./get-current-version.sh) make latexpdf
-- make epub
 after_success:
 - travis-sphinx deploy --cname yhlu.net
 before_deploy:
