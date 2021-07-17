@@ -10,6 +10,8 @@ Current Topics
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Topic                           | Sponsor                     | Summary                                                     | 
 +=================================+=============================+=============================================================+
+| Computer Vision at Edge         | National Science Foundation | Create efficient computer vision for edge device s          |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Drone Video                     | National Science Foundation | Create video datasets captured by drone                     |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Observe Crowd Size in COVID-19  | National Science Foundation | Estimate crowd sizes worldwide during COVID-19              |
@@ -28,6 +30,9 @@ Research Funding
 
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 2021, PI, 2107230,OAC Core: Advancing Low-Power Computer Vision at
+  the Edge
 
 - 2021, PI, 2104709 CDSE: Collaborative: Cyber Infrastructure to
   Enable Computer Vision Applications at the Edge Using Automated

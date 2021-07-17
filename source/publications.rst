@@ -284,6 +284,13 @@ Journal Papers
 Conference Papers
 -----------------
 
+2021
+^^^^
+- Abhinav Goel, Caleb Tung, Xiao Hu, Haobo Wang, James Davis, George
+  Thiruvathukal and Yung-Hsiang Lu, "Low-Power Multi-Camera Object
+  Re-Identification using Hierarchical Neural Networks", ACM/IEEE
+  International Symposium on Low Power Electronics and Design 2020
+
 2020
 ^^^^
 - Sara Aghajanzadeh, Roopasree Naidu, Shuo-Han Chen, Caleb Tung,
