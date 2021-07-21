@@ -10,11 +10,9 @@ Positions
 
 - 2017 to Present, Professor, Electrical and Computer Engineering, Purdue University, Indiana, USA
 
-
 - 2020 to Present, Director, John Martinson Engineering  Entrepreneurial Center, Purdue University, Indiana, USA
 
 - 2011/08-2011/12, Visiting Associate Professor, School of Computing, National  University of Singapore, Singapore
-
 
 - 2008 - 2017, Associate  Professor, Electrical and Computer Engineering, Purdue University, Indiana, USA
 
@@ -45,6 +43,7 @@ Awards and Recognition
 .. |IEEEfellow| image:: https://engineering.purdue.edu/HELPS/Images/IEEEFellowCertificate.jpg
    :width: 45%
 
+- 2021, University Faculty Scholar, Purdue University	   
 
 - 2021, Fellow of the IEEE for contributions to energy efficiency of  computer systems
 
@@ -55,7 +54,6 @@ Awards and Recognition
 - 2015, Best Paper Award, International Conference on Cloud Computing and Big Data
 
 - 2013, ACM Distinguished Scientist and ACM Distinguished Speaker
-
 
 - 2008, Purdue Class of 1922 Helping Students Learn Award
 
