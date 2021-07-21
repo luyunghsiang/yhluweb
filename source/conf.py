@@ -16,6 +16,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+from datetime import date
 
 # -- Project information -----------------------------------------------------
 
@@ -24,9 +25,9 @@ copyright = '2019-2020, Yung-Hsiang Lu'
 author = 'Yung-Hsiang Lu'
 
 # The short X.Y version
-version = ''
+version = date.today().strftime("Updated %Y-%m-%d")
 # The full version, including alpha/beta/rc tags
-release = ''
+release = version
 
 
 # -- General configuration ---------------------------------------------------
