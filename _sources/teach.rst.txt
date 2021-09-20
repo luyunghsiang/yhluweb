@@ -1,6 +1,16 @@
 Courses
 =======
 
+Graduate
+~~~~~~~~
+
+- ECE 595 "Computer Vision for Embedded Systems". First Offer:
+  Fall 2021. This is an experimental course. This course provides an
+  overview of running computer vision (OpenCV and PyTorch) on an
+  embedded system (Raspberry PI). The course emphasizes the resource
+  constraints imposed by embedded systems and examines methods (such
+  as quantization and pruning) to reduce resource requirements.
+
 Undergraduate
 -------------
 
