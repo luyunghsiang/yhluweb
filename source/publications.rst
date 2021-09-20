@@ -289,10 +289,20 @@ Conference Papers
 - Abhinav Goel, Caleb Tung, Xiao Hu, Haobo Wang, James Davis, George
   Thiruvathukal and Yung-Hsiang Lu, "Low-Power Multi-Camera Object
   Re-Identification using Hierarchical Neural Networks", ACM/IEEE
-  International Symposium on Low Power Electronics and Design 2020
+  International Symposium on Low Power Electronics and Design 2021
 
 2020
 ^^^^
+
+- Aditya Chakraborty, Akshay Pawar, Hojoung Jang, Shunqiao Huang,
+  Sripath Mishra, Shuo-Han Chen, Yuan-Hao Chang,
+  George K. Thiruvathukal, Yung-Hsiang Lu, "`A Real-Time Feature
+  Indexing System on Live Video Streams
+  <https://ieeexplore.ieee.org/document/9202837>`_", IEEE Annual
+  Computers, Software, and Applications Conference
+  (COMPSAC) 2020. DOI: https://doi.org/10.1109/COMPSAC48688.2020.00016
+
+
 - Sara Aghajanzadeh, Roopasree Naidu, Shuo-Han Chen, Caleb Tung,
   Abhinav Goel, Yung-Hsiang Lu, George Thiruvathukal, "`Camera
   Placement Meeting Restrictions Of Computer Vision

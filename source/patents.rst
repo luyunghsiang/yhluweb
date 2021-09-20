@@ -1,10 +1,18 @@
 Patents
 =======
 
+- US Patent 11113344, "`Automated Discovery of Network Camera in
+  Heterogeneous Web Pages
+  <https://patents.justia.com/patent/11113344>`_", Date of Patent: Sep
+  7, 2021, Assignee: Purdue Research Foundation.  Inventors:
+  Yung-hsiang Lu and Ryan Merrill Dailey.  Primary Examiner: Wing F
+  Chan, Assistant Examiner: Joseph R Maniwang.
+
+
 - US Patent 10904317, "`System and Method for Identifying Publicly
   Available Cameras (1) <https://patents.justia.com/patent/10904317>`_",
   Date of Patent: Jan 26, 2021, Assignee: Purdue Research Foundation.
-  Inventor: Yung-hsiang Lu. Primary Examiner: Bharat Barot
+  Inventor: Yung-hsiang Lu. Primary Examiner: Bharat Barot.
   
 - US Patent 10739835, "`Power Management for Electronic Devices
   <https://patents.justia.com/patent/10739835>`_", Date of Patent: Aug
