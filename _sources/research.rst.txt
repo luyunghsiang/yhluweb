@@ -31,7 +31,11 @@ Research Funding
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- 2021, PI, 2107230,OAC Core: Advancing Low-Power Computer Vision at
+- 2021, PI, 2120430, "`CNS Collaborative Research: CCRI:NEW: Research
+  Infrastructure for Real-Time Computer Vision and Decision Making via
+  Mobile Robots <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2120430>`_"
+
+- 2021, PI, 2107230, OAC Core: Advancing Low-Power Computer Vision at
   the Edge
 
 - 2021, PI, 2104709 CDSE: Collaborative: Cyber Infrastructure to
