@@ -5,9 +5,11 @@ Journal Papers
 --------------
 
 - Ryan Dailey, Aniesh Chawla, Andrew Liu, Sripath Mishra, Ling Zhang,
-  Josh Majors Yung-Hsiang Lu, George Thiruvathukal, "Automated
-  Discovery of Network Cameras in Heterogeneous Web Pages", accepted
-  by ACM Transactions on Internet Technology.
+  Josh Majors Yung-Hsiang Lu, George Thiruvathukal, "`Automated
+  Discovery of Network Cameras in Heterogeneous Web Pages
+  <https://dl.acm.org/doi/10.1145/3450629>`_ ", ACM Transactions on
+  Internet Technology, Vol. 22, Issue 1. DOI:
+  https://doi.org/10.1145/3450629
 
 - Anup Mohan,Ahmed S. Kaseb, Yung-Hsiang Lu, Tom Hacker, "`Adaptive
   Resource Management for Analyzing Video Streams from Globally
