@@ -35,12 +35,12 @@ National Science Foundation
   Infrastructure for Real-Time Computer Vision and Decision Making via
   Mobile Robots <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2120430>`_"
 
-- 2021, PI, 2107230, OAC Core: Advancing Low-Power Computer Vision at
-  the Edge
+- 2021, PI, 2107230, "`OAC Core: Advancing Low-Power Computer Vision at
+  the Edge <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107230>`_"
 
-- 2021, PI, 2104709 CDSE: Collaborative: Cyber Infrastructure to
+- 2021, PI, 2104709, "`CDSE: Collaborative: Cyber Infrastructure to
   Enable Computer Vision Applications at the Edge Using Automated
-  Contextual Analysis
+  Contextual Analysis <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104709>`_"
 
 - 2020, PI, Collaborative:RAPID:Leveraging New Data Sources to Analyze
   the Risk of COVID-19 in Crowded Locations
