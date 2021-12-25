@@ -8,7 +8,7 @@ Journal Papers
   Josh Majors Yung-Hsiang Lu, George Thiruvathukal, "`Automated
   Discovery of Network Cameras in Heterogeneous Web Pages
   <https://dl.acm.org/doi/10.1145/3450629>`_ ", ACM Transactions on
-  Internet Technology, Vol. 22, Issue 1. DOI:
+  Internet Technology, Vol. 22, Issue 1. February 2022, DOI:
   https://doi.org/10.1145/3450629
 
 - Anup Mohan,Ahmed S. Kaseb, Yung-Hsiang Lu, Tom Hacker, "`Adaptive
@@ -286,6 +286,15 @@ Journal Papers
 Conference Papers
 -----------------
 
+2022
+^^^^
+
+- Abhinav Goel, Caleb Tung, Xiao Hu, George Thiruvathukal, James
+  Davis, Yung-Hsiang Lu, "Efficient Computer Vision on Edge Devices
+  with Pipeline-Parallel Hierarchical Neural Networks", Asia and South
+  Pacific Design Automation Conference 2022
+
+
 2021
 ^^^^
 - Abhinav Goel, Caleb Tung, Xiao Hu, Haobo Wang, James Davis, George
@@ -313,7 +322,7 @@ Conference Papers
   https://doi.org/10.1109/ICIP40778.2020.9190851
 
 - Abhinav Goel, Caleb Tung, Yung-Hsiang Lu, George K. Thiruvathukal,
-  "A Survey of Methods for Low-Power Deep Learning and Computer
+  "`A Survey of Methods for Low-Power Deep Learning and Computer
   Vision <https://ieeexplore.ieee.org/document/9221198>`_", IEEE World
   Forum on Internet of Things (WF-IoT) 2020. DOI:
   https://doi.org/10.1109/WF-IoT48130.2020.9221198
@@ -1222,21 +1231,18 @@ Technical Reports
   School of Electrical and Computer Engineering, Purdue University,
   March 2007.
 
-|CRCBOOK| |CNBOOK|
-
-.. |CRCBOOK| image:: https://images.routledge.com/common/jackets/amazon/978149871/9781498711630.jpg
-   :width: 45%
-
-.. |CNBOOK| image:: https://yqfile.alicdn.com/ab4969a35cf457a82587a0ab84b26bede3ec9a0a.png
-   :width: 45%
-
 Book
 ----
 
-Yung-Hsiang Lu, "`Intermediate C Programming
-<https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",
-CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,
-Published June 16, 2015. `Chinese Version
-<https://developer.aliyun.com/article/214499>`_.
+- (Editors) George K. Thiruvathukal, Yung-Hsiang Lu, Jaeyoun Kim,
+  Yiran Chen, Bo Chen, "`Low-Power Computer Vision Improve the
+  Efficiency of Artificial Intelligence <Low-Power Computer Vision
+  Improve the Efficiency of Artificial Intelligence>`_", Chapman and
+  Hall/CRC, ISBN 978-0-3677-4470-0, 438 Pages 62 Color and 39 B/W
+  Illustrations, Published February 23, 2022.
 
-  
+- Yung-Hsiang Lu, "`Intermediate C Programming
+  <https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",
+  CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,
+  Published June 16, 2015. `Chinese Version
+  <https://developer.aliyun.com/article/214499>`_.
