@@ -1246,3 +1246,12 @@ Book
   CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,
   Published June 16, 2015. `Chinese Version
   <https://developer.aliyun.com/article/214499>`_.
+
+
+PhD Thesis
+----------
+
+Yung-Hsiang Lu, "`Power-aware operating systems for interactive
+systems <https://searchworks.stanford.edu/view/4810565>`_", Primary
+Advisor: De Micheli, Giovanni, Department of Electrical Engineering,
+Stanford University.
