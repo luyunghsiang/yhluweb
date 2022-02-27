@@ -1253,5 +1253,5 @@ PhD Thesis
 
 Yung-Hsiang Lu, "`Power-aware operating systems for interactive
 systems <https://searchworks.stanford.edu/view/4810565>`_", Primary
-Advisor: De Micheli, Giovanni, Department of Electrical Engineering,
-Stanford University.
+Advisor: Giovanni De Micheli, Department of Electrical Engineering,
+Stanford University, 2001.
