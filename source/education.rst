@@ -22,6 +22,14 @@ Positions
 Education
 ---------
 
+|StanfordPhD| |ThesisSignature|
+
+.. |StanfordPhD| image:: https://engineering.purdue.edu/HELPS/Images/StanfordPhD.jpg
+   :width: 45%
+
+.. |ThesisSignature| image:: https://engineering.purdue.edu/HELPS/Images/ThesisSignatures.jpg
+   :width: 45%
+
 - 2002, Ph.D.,  Electrical Engineering, Stanford University, California, USA
 
 - 1997, M.S.,  Electrical Engineering, Stanford University, California, USA
