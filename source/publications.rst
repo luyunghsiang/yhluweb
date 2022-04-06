@@ -289,6 +289,11 @@ Conference Papers
 2022
 ^^^^
 
+- Caleb Tung, Abhinav Goel, Xiao Hu, Emmanuel Amobi, George
+  Thiruvathukal, Vipin Chaudhary, Yung-Hsiang Lu, " Irrelevant Pixels
+  are Everywhere: Find and Exclude Them for More Efficient Computer
+  Vision", Artificial Intelligence Circuits and Systems 2022
+
 - Abhinav Goel, Caleb Tung, Xiao Hu, George Thiruvathukal, James
   Davis, Yung-Hsiang Lu, "Efficient Computer Vision on Edge Devices
   with Pipeline-Parallel Hierarchical Neural Networks", Asia and South
@@ -1236,10 +1241,10 @@ Book
 
 - (Editors) George K. Thiruvathukal, Yung-Hsiang Lu, Jaeyoun Kim,
   Yiran Chen, Bo Chen, "`Low-Power Computer Vision Improve the
-  Efficiency of Artificial Intelligence <Low-Power Computer Vision
-  Improve the Efficiency of Artificial Intelligence>`_", Chapman and
-  Hall/CRC, ISBN 978-0-3677-4470-0, 438 Pages 62 Color and 39 B/W
-  Illustrations, Published February 23, 2022.
+  Efficiency of Artificial Intelligence
+  <https://www.routledge.com/Low-Power-Computer-Vision-Improve-the-Efficiency-of-Artificial-Intelligence/Thiruvathukal-Lu-Kim-Chen-Chen/p/book/9780367744700>`_",
+  Chapman and Hall/CRC, ISBN 978-0-3677-4470-0, 438 Pages 62 Color and
+  39 B/W Illustrations, Published February 23, 2022.
 
 - Yung-Hsiang Lu, "`Intermediate C Programming
   <https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",
