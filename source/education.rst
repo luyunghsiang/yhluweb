@@ -72,6 +72,11 @@ Awards and Recognition
 Media Coverage
 --------------
 
+- 2022/04/15, Daniel P Dern, "`How Purdue University Commercializes
+  Its Research: It's innovation expert helps students turn research
+  results into revenue
+  <https://spectrum.ieee.org/yung-hsiang-lu-career>`_"
+
 - 2020/09/04, Chris Stokel-Walker, NewScientist, "`Public webcams are telling us whether people are social distancing <https://www.newscientist.com/article/2253696-public-webcams-are-telling-us-whether-people-are-social-distancing/>`_"
 
 - 2016/09/12, Eyragon Eidam, Government Technology, "`The Role of Data Analytics in Predictive Policing <https://www.govtech.com/data/Role-of-Data-Analytics-in-Predictive-Policing.html>`_"
