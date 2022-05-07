@@ -4,6 +4,18 @@ Publications
 Journal Papers
 --------------
 
+- Shane Allcroft, Mohammed Metwaly, Zachery Berg, Isha Ghodgaonkar,
+  Fischer Bordwell, XinXin Zhao, Xinglei Liu, Jiahao Xu, Subhankar
+  Chakraborty, Vishnu Banna, Akhil Chinnakotla, Abhinav Goel, Caleb
+  Tung, Gore Kao, Wei Zakharov, David Shoham, George K.
+  Thiruvathukal, Yung-Hsiang Lu, "Observing Human Mobility
+  Internationally during COVID-19", Computer.
+
+- George K. Thiruvathukal and Yung-Hsiang Lu, "`Efficient Computer
+  Vision for Embedded Systems
+  <https://www.computer.org/csdl/magazine/co/2022/04/09755195/1Cubx6Twc5G>`_",
+  Computer, April 2022, pp. 15-19, vol. 55.
+
 - Ryan Dailey, Aniesh Chawla, Andrew Liu, Sripath Mishra, Ling Zhang,
   Josh Majors Yung-Hsiang Lu, George Thiruvathukal, "`Automated
   Discovery of Network Cameras in Heterogeneous Web Pages
