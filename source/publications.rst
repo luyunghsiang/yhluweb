@@ -4,6 +4,10 @@ Publications
 Journal Papers
 --------------
 
+- Caleb Tung, Abhinav Goel, Fischer Bordwell, Nick Eliopoulos, Xiao
+  Hu, Yung-Hsiang Lu, "Why Accuracy Is Not Enough: The Need for
+  Consistency in Object Detection", IEEE Multimedia.
+
 - Shane Allcroft, Mohammed Metwaly, Zachery Berg, Isha Ghodgaonkar,
   Fischer Bordwell, XinXin Zhao, Xinglei Liu, Jiahao Xu, Subhankar
   Chakraborty, Vishnu Banna, Akhil Chinnakotla, Abhinav Goel, Caleb
