@@ -305,23 +305,32 @@ Conference Papers
 2022
 ^^^^
 
+- Abhinav Goel, Caleb Tung, Nick Eliopoulos, Xiao Hu, George
+  Thiruvathukal, James Davis, Yung-Hsiang Lu, "Directed Acyclic
+  Graph-based Neural Networks for Tunable Low-Power Computer Vision",
+  ACM/IEEE International Symposium on Low Power Electronics and Design
+  2022
+
 - Caleb Tung, Abhinav Goel, Xiao Hu, Emmanuel Amobi, George
-  Thiruvathukal, Vipin Chaudhary, Yung-Hsiang Lu, " Irrelevant Pixels
+  Thiruvathukal, Vipin Chaudhary, Yung-Hsiang Lu, "Irrelevant Pixels
   are Everywhere: Find and Exclude Them for More Efficient Computer
   Vision", Artificial Intelligence Circuits and Systems 2022
 
 - Abhinav Goel, Caleb Tung, Xiao Hu, George Thiruvathukal, James
-  Davis, Yung-Hsiang Lu, "Efficient Computer Vision on Edge Devices
-  with Pipeline-Parallel Hierarchical Neural Networks", Asia and South
-  Pacific Design Automation Conference 2022
+  Davis, Yung-Hsiang Lu, "`Efficient Computer Vision on Edge Devices
+  with Pipeline-Parallel Hierarchical Neural
+  Networks<https://ieeexplore.ieee.org/document/9712574>`_", Asia and
+  South Pacific Design Automation Conference 2022
 
 
 2021
 ^^^^
 - Abhinav Goel, Caleb Tung, Xiao Hu, Haobo Wang, James Davis, George
-  Thiruvathukal and Yung-Hsiang Lu, "Low-Power Multi-Camera Object
-  Re-Identification using Hierarchical Neural Networks", ACM/IEEE
-  International Symposium on Low Power Electronics and Design 2021
+  Thiruvathukal and Yung-Hsiang Lu, "`Low-Power Multi-Camera Object
+  Re-Identification using Hierarchical Neural
+  Networks<https://dl.acm.org/doi/10.1109/ISLPED52811.2021.9502480>`_",
+  ACM/IEEE International Symposium on Low Power Electronics and Design
+  2021
 
 2020
 ^^^^
