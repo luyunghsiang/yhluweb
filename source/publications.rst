@@ -318,9 +318,10 @@ Conference Papers
 
 - Abhinav Goel, Caleb Tung, Xiao Hu, George Thiruvathukal, James
   Davis, Yung-Hsiang Lu, "`Efficient Computer Vision on Edge Devices
-  with Pipeline-Parallel Hierarchical Neural
-  Networks<https://ieeexplore.ieee.org/document/9712574>`_", Asia and
-  South Pacific Design Automation Conference 2022
+  with Pipeline-Parallel Hierarchical Neural Networks
+  <https://dl.acm.org/doi/10.1109/ASP-DAC52403.2022.9712574>`_", Asia
+  and South Pacific Design Automation Conference 2022. DOI:
+  https://doi.org/10.1109/ASP-DAC52403.2022.9712574
 
 
 2021
@@ -328,9 +329,9 @@ Conference Papers
 - Abhinav Goel, Caleb Tung, Xiao Hu, Haobo Wang, James Davis, George
   Thiruvathukal and Yung-Hsiang Lu, "`Low-Power Multi-Camera Object
   Re-Identification using Hierarchical Neural
-  Networks<https://dl.acm.org/doi/10.1109/ISLPED52811.2021.9502480>`_",
+  Networks <https://dl.acm.org/doi/10.1109/ISLPED52811.2021.9502480>`_",
   ACM/IEEE International Symposium on Low Power Electronics and Design
-  2021
+  2021. DOI: https://doi.org/10.1109/ISLPED52811.2021.9502480
 
 2020
 ^^^^
