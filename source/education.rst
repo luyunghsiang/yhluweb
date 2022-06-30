@@ -10,7 +10,7 @@ Positions
 
 - 2017 to Present, Professor, Electrical and Computer Engineering, Purdue University, Indiana, USA
 
-- 2020/01 - 2022/07, Director, John Martinson Engineering  Entrepreneurial Center, Purdue University, Indiana, USA
+- 2020/01 - 2022/06, Director, John Martinson Engineering  Entrepreneurial Center, Purdue University, Indiana, USA
 
 - 2011/08 - 2011/12, Visiting Associate Professor, School of Computing, National  University of Singapore, Singapore
 
