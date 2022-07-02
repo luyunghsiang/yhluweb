@@ -15,19 +15,14 @@ University.  He is a fellow of the IEEE (Institute of Electrical and
 Electronics Engineers), distinguished scientist and distinguished
 speaker of the ACM (Association for Computing Machinery).  Dr. Lu is
 the inaugural director of Purdue's John Martinson Engineering
-Entrepreneurial Center. In 2019, he received Outstanding VIP-Based
-Entrepreneur Award from the VIP (Vertically Integrated Projects)
-Consortium.  His research areas include computer vision, embedded
-systems, cloud and mobile computing.
-
-Dr. Lu has made many `Youtube Videos
-<https://www.youtube.com/c/yunghsianglu/videos>`_ about computer
-programming and career planning. In addition to advising `graduate
-students <https://yhlu.net/research.html#current-graduate-students>`_,
-Dr. Lu has advised 200 undergraduate students in research projects and
-taught more than 5,000 students in classrooms.  He has advised
-multiple student teams winning business plan competitions; two teams
-of students started technology companies and raised more than $1.5M.
+Entrepreneurial Center (2020-2022). In 2019, he received Outstanding
+VIP-Based Entrepreneur Award from the VIP (Vertically Integrated
+Projects) Consortium.  His research areas include computer vision,
+embedded systems, cloud and mobile computing.  Dr. Lu has advised 400
+undergraduate students in research projects and taught more than 5,000
+students in classrooms.  He has advised multiple student teams winning
+business plan competitions; two teams of students started technology
+companies and raised more than $1.5M.
 
 Contact Information
 -------------------
