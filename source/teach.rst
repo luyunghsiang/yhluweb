@@ -4,12 +4,17 @@ Courses
 Graduate
 ~~~~~~~~
 
-- ECE 595 "Computer Vision for Embedded Systems". First Offer:
-  Fall 2021. This is an experimental course. This course provides an
-  overview of running computer vision (OpenCV and PyTorch) on an
-  embedded system (Raspberry PI). The course emphasizes the resource
-  constraints imposed by embedded systems and examines methods (such
-  as quantization and pruning) to reduce resource requirements.
+- ECE 595 "`Computer Vision for Embedded Systems
+  <https://www.edx.org/course/computer-vision-for-embedded-systems>`_".
+  Fall 2021 and 2022. This is an experimental course. This course
+  provides an overview of running computer vision (OpenCV and PyTorch)
+  on an embedded system (Raspberry PI). The course emphasizes the
+  resource constraints imposed by embedded systems and examines
+  methods (such as quantization and pruning) to reduce resource
+  requirements. This course was offered in Spring 2022 as a Guest
+  Lecturer (Sabbatical Visit) in "Special Topics in Machine
+  Intelligence, Seoul National University"
+
 
 Undergraduate
 -------------
@@ -22,9 +27,6 @@ Undergraduate
 .. |201803Team| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
    :width: 49%
 
-- Spring 2022 Guest Lecturer, (Sabbatical Visit), Special Topics in
-  Machine Intelligence, Seoul National University
-	   
 - Fall 2021  "`ECE 264 Advanced C Programming
   <https://github.com/PurdueECE264>`_". Topics covered: stack memory,
   recursion, memory management, structures, file (text and binary),
