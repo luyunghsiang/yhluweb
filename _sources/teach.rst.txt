@@ -8,23 +8,53 @@ Graduate
   <https://www.edx.org/course/computer-vision-for-embedded-systems>`_".
   Fall 2021 and 2022. This is an experimental course. This course
   provides an overview of running computer vision (OpenCV and PyTorch)
-  on an embedded system (Raspberry PI). The course emphasizes the
+  on an embedded system. The course emphasizes the
   resource constraints imposed by embedded systems and examines
   methods (such as quantization and pruning) to reduce resource
   requirements. This course was offered in Spring 2022 as a Guest
   Lecturer (Sabbatical Visit) in "Special Topics in Machine
   Intelligence, Seoul National University"
 
+  The course is available for anyone worldwide to audit without charge
+  (through EdX, please check the link above).
+
 +----------+------------------------------+----------------------------------------------------------------------------------------------+
 | Lecture  | Topic                        | Slides                                                                                       | 
 +==========+==============================+=============================+================================================================+
-| 01       | Introduction, OpenCV         | "`Lecture 01 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2001%20/>`_"  |
+| 01       | Introduction, OpenCV         | `Lecture 01 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2001%20/>`_    |
 +----------+------------------------------+----------------------------------------------------------------------------------------------+
-| 01 B     | Quantization                 | "`Lecture 01B <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2001B/>`_"   |
+| 01 B     | Quantization                 | `Lecture 01B <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2001B/>`_     |
 +----------+------------------------------+----------------------------------------------------------------------------------------------+
-| 02       | Edge Detection, Segmentation | "`Lecture 02 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2002/>`_"     |
+| 02       | Edge Detection, Segmentation | `Lecture 02 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2002/>`_       |
 +----------+------------------------------+----------------------------------------------------------------------------------------------+
-
+| 03       | Applications                 | `Lecture 03 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2003/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 04       | Machine Learning             | `Lecutre 04 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2004/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 05       | Modular Neural Networks      | `Lecutre 05 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2005/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 06       | Review and Write Papers      | `Lecutre 06 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2006/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 07       | Performance and Resources    | `Lecutre 07 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2007/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 07 B     | Pytorch Quantization         | `Lecutre 07 B <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2007%20B/>`_ |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 08       | Detect and Track Objects     | `Lecutre 08 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2008/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 09       | Data Bias and Privacy        | `Lecutre 09 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2009/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 10       | Data Generation              | `Lecutre 10 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2010/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 11       | Neural Architecture Search   | `Lecutre 11 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2011/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 12       | Transformer A                | `Lecutre 12 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2012/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 13       | Transformer B                | `Lecutre 13 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2013/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 14       | Real-Time Scheduling         | `Lecutre 14 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2014/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
+| 15       | Research Topics              | `Lecutre 15 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2015/>`_       |
++----------+------------------------------+----------------------------------------------------------------------------------------------+
 
 Undergraduate
 -------------
