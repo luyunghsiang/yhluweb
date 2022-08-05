@@ -53,7 +53,7 @@ Graduate
 +----------+------------------------------+----------------------------------------------------------------------------------------------+
 | 14       | Real-Time Scheduling         | `Lecutre 14 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2014/>`_       |
 +----------+------------------------------+----------------------------------------------------------------------------------------------+
-| 15       | Research Topics              | `Lecutre 15 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture%2015/>`_       |
+| 15       | Research Topics              | `Lecutre 15 <https://engineering.purdue.edu/HELPS/Courses/ECE595CV4ES/Lecture15/>`_          |
 +----------+------------------------------+----------------------------------------------------------------------------------------------+
 
 Undergraduate
