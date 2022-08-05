@@ -12,17 +12,9 @@ Current Topics
 +=================================+=============================+=============================================================+
 | Computer Vision at Edge         | National Science Foundation | Create efficient computer vision for edge device s          |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Drone Video                     | National Science Foundation | Create video datasets captured by drone                     |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Observe Crowd Size in COVID-19  | National Science Foundation | Estimate crowd sizes worldwide during COVID-19              |
+| Analyze Drone Video             | National Science Foundation | Create video datasets captured by drone                     |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Computer Vision at Edge Devices | National Science Foundation | Create Cyber Infrastructure for Edge Computing              |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Low-Power Computer Vision       | Google, Facebook, Xilinx    | Improve efficiency of computer vision on embedded sysems    |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Active Vision + Drone           | Facebook                    | Use real-time computer vision to control drones             |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Open-Source TensorFlow Garden   | Google                      | Create open-source implementation of computer vision        |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 
 Research Funding
@@ -112,7 +104,6 @@ Google
 - 2020, Open-Source TensorFlow Model Garden
 
 - 2018, Low-Power Computer Vision Challenge
-
 
 
 Xilinx
