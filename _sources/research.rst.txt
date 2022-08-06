@@ -16,12 +16,16 @@ Current Topics
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Computer Vision at Edge Devices | National Science Foundation | Create Cyber Infrastructure for Edge Computing              |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
+| Trust of Machine Learning Code  | Cisco                       | Evaluate Trustworthiness of Pre-Trained Neural Networks     |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
 
 Research Funding
 ----------------
 
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 2022, Co-PI, Cisco, "Trustworthy Re-use of Pre-Trained Neural Networks". PI: James Davis
 
 - 2021, PI, 2120430, "`CNS Collaborative Research: CCRI:NEW: Research
   Infrastructure for Real-Time Computer Vision and Decision Making via
