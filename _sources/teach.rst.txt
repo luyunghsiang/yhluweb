@@ -15,8 +15,8 @@ Graduate
   Lecturer (Sabbatical Visit) in "Special Topics in Machine
   Intelligence, Seoul National University"
 
-  The course is available for anyone worldwide to audit without charge
-  (through EdX, please check the link above).
+  The course is available to anyone worldwide for auditing (through
+  EdX, please check the link above).
 
 +----------+------------------------------+----------------------------------------------------------------------------------------------+
 | Lecture  | Topic                        | Slides                                                                                       | 

@@ -126,17 +126,22 @@ HP
 Current Graduate Students
 -------------------------
 
-- Abhinav Goel. Topic: Efficient Computer Vision using Hierarchical Neural Network
-  
+
 - Caleb Tung. Topic: Efficient Computer Vision using Contextual Information
 
-- Xiao Hu. Topic: Efficient Object Tracking on Embedded Systems
+- Nick Eliopoulos. Topic: Efficient Computer Vision 
+
 
 
 Past Graduate Students
 ----------------------
 
 - Ph.D.
+
+  * 2022 `Abhinav Goel <https://abhinav-goel.com/>`_,
+    Ph.D., Thesis: "`Tree-Based Unidirectional Neural Networks for Low-Power Computer Vision on Embedded Devices
+    <https://hammer.purdue.edu/articles/thesis/TREE-BASED_UNIDIRECTIONAL_NEURAL_NETWORKS_FOR_LOW-POWER_COMPUTER_VISION_ON_EMBEDDED_DEVICES/19666107>`_"
+
 
   * 2017 `Anup Mohan <https://www.linkedin.com/in/anupmohan560/>`_,
     Ph.D., Thesis: "`Cloud Resource Management for Big Visual Data
@@ -188,6 +193,11 @@ Past Graduate Students
     <https://docs.lib.purdue.edu/dissertations/AAI3260005/>`_"
 
 - MS
+
+  * 2022 `Xiao Hu <https://www.linkedin.com/in/xiao-hu-purdue/>`_.
+    M.S., Thesis: "`Efficient Multi-Object Tracking on Unmanned Aerial
+    Vehicle
+    <https://hammer.purdue.edu/articles/thesis/Efficient_Multi-Object_Tracking_On_Unmanned_Aerial_Vehicle/19668915>`_"
   
   * 2020 `Sara Aghajanzadeh
     <https://www.linkedin.com/in/sara-aghajanzadeh-524317107/>`_,
