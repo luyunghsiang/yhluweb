@@ -15,7 +15,7 @@ Journal Papers
   Chakraborty, Vishnu Banna, Akhil Chinnakotla, Abhinav Goel, Caleb
   Tung, Gore Kao, Wei Zakharov, David Shoham, George K.
   Thiruvathukal, Yung-Hsiang Lu, "Observing Human Mobility
-  Internationally during COVID-19", Computer.
+  Internationally during COVID-19", Computer (accepted).
 
 - George K. Thiruvathukal and Yung-Hsiang Lu, "`Efficient Computer
   Vision for Embedded Systems
@@ -308,15 +308,18 @@ Conference Papers
 ^^^^
 
 - Abhinav Goel, Caleb Tung, Nick Eliopoulos, Xiao Hu, George
-  Thiruvathukal, James Davis, Yung-Hsiang Lu, "Directed Acyclic
-  Graph-based Neural Networks for Tunable Low-Power Computer Vision",
-  ACM/IEEE International Symposium on Low Power Electronics and Design
-  2022
+  Thiruvathukal, James Davis, Yung-Hsiang Lu, "`Directed Acyclic
+  Graph-based Neural Networks for Tunable Low-Power Computer Vision
+  <https://dl.acm.org/doi/10.1145/3531437.3539723>`_", ACM/IEEE
+  International Symposium on Low Power Electronics and Design
+  2022. DOI: https://doi.org/10.1145/3531437.3539723
 
 - Caleb Tung, Abhinav Goel, Xiao Hu, Emmanuel Amobi, George
-  Thiruvathukal, Vipin Chaudhary, Yung-Hsiang Lu, "Irrelevant Pixels
+  Thiruvathukal, Vipin Chaudhary, Yung-Hsiang Lu, "`Irrelevant Pixels
   are Everywhere: Find and Exclude Them for More Efficient Computer
-  Vision", Artificial Intelligence Circuits and Systems 2022
+  Vision <https://ieeexplore.ieee.org/document/9870012>`_", Artificial
+  Intelligence Circuits and Systems 2022.
+  DOI: https://doi.org/10.1109/AICAS54282.2022.9870012
 
 - Abhinav Goel, Caleb Tung, Xiao Hu, George Thiruvathukal, James
   Davis, Yung-Hsiang Lu, "`Efficient Computer Vision on Edge Devices
