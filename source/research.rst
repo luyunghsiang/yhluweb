@@ -25,8 +25,6 @@ Research Funding
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- 2022, Co-PI, Cisco, "Trustworthy Re-use of Pre-Trained Neural Networks". PI: James Davis
-
 - 2021, PI, 2120430, "`CNS Collaborative Research: CCRI:NEW: Research
   Infrastructure for Real-Time Computer Vision and Decision Making via
   Mobile Robots <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2120430>`_"
@@ -89,6 +87,12 @@ National Science Foundation
 
 - 2003, Co-PI, IIS: Distributed Energy-Efficient Mobile Robots
 
+Cisco
+^^^^^
+
+- 2022, PI: James Davis, Co-PI: Yung-Hsiang Lu, "Trustworthy Re-use of
+  Pre-Trained Neural Networks".
+
 Sandia National Laboratory
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -129,7 +133,13 @@ Current Graduate Students
 
 - Caleb Tung. Topic: Efficient Computer Vision using Contextual Information
 
-- Nick Eliopoulos. Topic: Efficient Computer Vision 
+- Nick Eliopoulos. Topic: Efficient Computer Vision using Transformers
+
+- Cheng-Yun Yang. Topic: Active and Real-Time Computer Vision
+
+- Purvish Jatin Jajal. Topic: Evaluate Pre-Trained Machine Models
+
+- Gowri Ramshankar. Topic: Trust of Machine Learning Software
 
 
 

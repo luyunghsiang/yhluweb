@@ -67,6 +67,11 @@ Undergraduate
 .. |201803Team| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
    :width: 49%
 
+- Fall 2022 "`ECE 270 Introduction to Digital System Design
+  <https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/CourseInfo/courseInfo?courseid=607&show=true&type=undergrad>`_",
+  Topics: CMOS logic circuits, Switching Algebra, Verilog, state
+  machine.
+
 - Fall 2021  "`ECE 264 Advanced C Programming
   <https://github.com/PurdueECE264>`_". Topics covered: stack memory,
   recursion, memory management, structures, file (text and binary),
