@@ -4,6 +4,12 @@ Publications
 Journal Papers
 --------------
 
+- Abhinav Goel, Caleb Tung, Nick Eliopoulos, Amy Wang, James C. Davis,
+  George K. Thiruvathukal, and Yung-Hsiang Lu, "`Tree-based
+  Unidirectional Neural Networks for Low-Power Computer Vision
+  <https://ieeexplore.ieee.org/document/9935301>`_", accepted by IEEE
+  Design and Test. DOI: https://doi.org/10.1109/MDAT.2022.3217016
+
 - Caleb Tung, Abhinav Goel, Fischer Bordwell, Nick Eliopoulos, Xiao
   Hu, Yung-Hsiang Lu, "`Why Accuracy Is Not Enough: The Need for
   Consistency in Object Detection
