@@ -1,8 +1,5 @@
-Research 
-========
-
 Prospective Students
---------------------
+====================
 
 For Graduate Students
 ^^^^^^^^^^^^^^^^^^^^^
@@ -54,28 +51,36 @@ For Undergraduate Students
   knowledge is not easy. One semester is too short and nothing can be
   accomplished.  Writing a research paper usually takes two years.
 
+- Teamwork is absolutely critical. If you want to work alone, this
+  research team is not for you.
+
+- You must explain your work to the other team members in speaking and
+  writing.  If you absolutely hate to speak and write, this research
+  team is not for you.
+
 - If you want to get Dr. Lu recommendation letters, think about what
   you want to accomplish before he writes the letters. Dr. Lu's
   letters state observable facts, such as (1) whether you have
   published a paper? (2) is your software used by anyone else? (3)
-  have you create research data used by anyone else? Dr. Lu does not
-  write letters that say "This student works very hard" or "This
-  student learns a lot".
+  have you create research data used by anyone else?
 
-- Teamwork is absolutely critical. If you want to work alone, this
-  research team does not work for you. You must explain your work to
-  the other team members in speaking and writing.
+- Dr. Lu does not write letters that say anything like "This student
+  works very hard" or "This student learns a lot" or "This student
+  enjoys my class".
 
 - Before Dr. Lu writes letters for you, he will ask you for your
   project reports and presentations. Make sure you keep these
   materials.
 
-- About recommendation letters, different universities as different
-  questions. Here are some examples: "intellectual independence",
+- Universities ask questions like "intellectual independence",
   "written English", "oral English", "maturity", "research ability",
   "teaching ability", "interpersonal skills", "reliability and sense
-  of responsibility", "organization". Do you think Dr. Lu knows you
-  enough to answer these questions? 
+  of responsibility", "organization". If Dr. Lu does not know enough
+  about you, he will answer "No information".
+
+
+Research 
+========
 
 
 Current Topics
