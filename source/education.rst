@@ -51,6 +51,10 @@ Awards and Recognition
 .. |IEEEfellow| image:: https://engineering.purdue.edu/HELPS/Images/IEEEFellowCertificate.jpg
    :width: 45%
 
+- 2022, `Leadership in Open Access Award
+  <https://blogs.lib.purdue.edu/news/2022/11/01/dr-harry-denny-and-dr-yung-hsiang-lu-receive-the-2022-leadership-in-open-access-award/>`_
+  from  Purdue Libraries and School of Information Studies
+      
 - 2021, University Faculty Scholar, Purdue University	   
 
 - 2021, Fellow of the IEEE for contributions to energy efficiency of  computer systems
