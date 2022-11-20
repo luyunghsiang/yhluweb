@@ -11,7 +11,7 @@ If you consider to join Dr. Yung-Hsiang Lu's research team, please
 read this before you send an email. Doing so can save your time.
 
 - Dr. Lu's research is about computer vision and embedded systems (how
-  to make computer vision efficient so that it can run on embedeed
+  to make computer vision efficient so that it can run on embedded
   systems). Dr. Lu does not conduct research in topics related to
   Blockchain, Cryptocurrency, or Quantum Computing.
 
@@ -31,8 +31,9 @@ read this before you send an email. Doing so can save your time.
 - Dr. Lu has no authorization to admit any student. Do not ask him,
   "Can I get admission from Purdue?"
 
-- If your purpose is to get money, please go to a bank. Dr. Lu does
-  not own a bank.  
+- Financial support for graduate students is based on available
+  funding and research ability. Financial support will be discussed
+  after there is mutual interest doing research together.
 
 
 For Undergraduate Students
@@ -109,7 +110,7 @@ Research Funding
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- 2021, PI, 2120430, "`CNS Collaborative Research: CCRI:NEW: Research
+- 2021, PI, 2120430, "`CNS Collaborative Research: CAR:NEW: Research
   Infrastructure for Real-Time Computer Vision and Decision Making via
   Mobile Robots <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2120430>`_"
 
