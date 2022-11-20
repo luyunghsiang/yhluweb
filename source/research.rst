@@ -1,51 +1,49 @@
 Prospective Students
 ====================
 
+The purpose of this section is to help prospective students understand
+whether Dr. Lu's research team can meet your expectation.
+
 For Graduate Students
 ^^^^^^^^^^^^^^^^^^^^^
 
 If you consider to join Dr. Yung-Hsiang Lu's research team, please
 read this before you send an email. Doing so can save your time.
 
+- Dr. Lu's research is about computer vision and embedded systems (how
+  to make computer vision efficient so that it can run on embedeed
+  systems). Dr. Lu does not conduct research in topics related to
+  Blockchain, Cryptocurrency, or Quantum Computing.
+
 - Do you know Dr. Lu's research topics? Have you read his recent papers?
 
 - Do you want to do research? Research means creating new
   knowledge. Research is not about learning existing knowledge.  If
-  your goal is to learn things, please take courses.  Do not join
-  Dr. Lu's research team.
+  your goal is to learn things, please take courses.  A research
+  team does not meet your expectation.
 
-- Dr. Lu advises graduate students only if they write MS or PhD theses
-  with Dr. Lu. If your purpose is to "look around and find something
-  interesting" and you do not want to write a thesis, do not waste
-  your time.
+- Dr. Lu advises graduate students only if they want to write MS or
+  PhD theses with Dr. Lu.
 
-- Dr. Lu can advise only Purdue students, or students whose advisors
-  are collaborating with Dr. Lu. Dr. Lu cannot advise any student
-  outside Purdue. If you want Dr. Lu's advice, you have two options:
-  (1) You become a Purdue student, or (2) You join a research team and
-  the professor collaborates with Dr. Lu.
+- Dr. Lu can advise only (1) Purdue students, or (2) non-Purdue
+  students whose advisors are collaborating with Dr. Lu.
 
 - Dr. Lu has no authorization to admit any student. Do not ask him,
   "Can I get admission from Purdue?"
 
 - If your purpose is to get money, please go to a bank. Dr. Lu does
-  not own a bank.  Dr. Lu is a professor and he advises a research
-  team.
+  not own a bank.  
 
-- Dr. Lu will not change research topics because of your interest. If
-  you join his research team, he will assign a research topic to you.
-
-- Dr. Lu does not conduct research in topics related to Blockchain,
-  Cryptocurrency, or Quantum Computing.
 
 For Undergraduate Students
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - This is a research team. A research team's purpose is to discover
   new knowledge. Dr. Lu's research is about how to improve efficiency
-  of computers. If your purpose is to learn, not to create new
-  knowledge, please take courses. His research team will not meet your
-  purpose.
+  of computers.
+
+- If your purpose is to learn and you do not want to create new
+  knowledge, please take courses.
   
 - Will you stay in his team for at least two semesters? Creating new
   knowledge is not easy. One semester is too short and nothing can be
@@ -61,12 +59,12 @@ For Undergraduate Students
 - If you want to get Dr. Lu recommendation letters, think about what
   you want to accomplish before he writes the letters. Dr. Lu's
   letters state observable facts, such as (1) whether you have
-  published a paper? (2) is your software used by anyone else? (3)
-  have you create research data used by anyone else?
+  published a research paper? (2) is your software used by anyone
+  else? (3) have you create research data used by anyone else?
 
 - Dr. Lu does not write letters that say anything like "This student
   works very hard" or "This student learns a lot" or "This student
-  enjoys my class".
+  enjoys my class" or "This student smiles to everyone"
 
 - Before Dr. Lu writes letters for you, he will ask you for your
   project reports and presentations. Make sure you keep these
@@ -77,6 +75,9 @@ For Undergraduate Students
   "teaching ability", "interpersonal skills", "reliability and sense
   of responsibility", "organization". If Dr. Lu does not know enough
   about you, he will answer "No information".
+
+- If you have never talked to Dr. Lu, he knows nothing about you and
+  cannot write recommendation letters for you.
 
 
 Research 
