@@ -1,11 +1,89 @@
 Research 
 ========
 
-Dr. Lu's research focuses on improving efficiency of computer systems
-and analyze large amounts of data from distributed sources.
+Prospective Students
+--------------------
+
+For Graduate Students
+^^^^^^^^^^^^^^^^^^^^^
+
+If you consider to join Dr. Yung-Hsiang Lu's research team, please
+read this before you send an email. Doing so can save your time.
+
+- Do you know Dr. Lu's research topics? Have you read his recent papers?
+
+- Do you want to do research? Research means creating new
+  knowledge. Research is not about learning existing knowledge.  If
+  your goal is to learn things, please take courses.  Do not join
+  Dr. Lu's research team.
+
+- Dr. Lu advises graduate students only if they write MS or PhD theses
+  with Dr. Lu. If your purpose is to "look around and find something
+  interesting" and you do not want to write a thesis, do not waste
+  your time.
+
+- Dr. Lu can advise only Purdue students, or students whose advisors
+  are collaborating with Dr. Lu. Dr. Lu cannot advise any student
+  outside Purdue. If you want Dr. Lu's advice, you have two options:
+  (1) You become a Purdue student, or (2) You join a research team and
+  the professor collaborates with Dr. Lu.
+
+- Dr. Lu has no authorization to admit any student. Do not ask him,
+  "Can I get admission from Purdue?"
+
+- If your purpose is to get money, please go to a bank. Dr. Lu does
+  not own a bank.  Dr. Lu is a professor and he advises a research
+  team.
+
+- Dr. Lu will not change research topics because of your interest. If
+  you join his research team, he will assign a research topic to you.
+
+- Dr. Lu does not conduct research in topics related to Blockchain,
+  Cryptocurrency, or Quantum Computing.
+
+For Undergraduate Students
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- This is a research team. A research team's purpose is to discover
+  new knowledge. Dr. Lu's research is about how to improve efficiency
+  of computers. If your purpose is to learn, not to create new
+  knowledge, please take courses. His research team will not meet your
+  purpose.
+  
+- Will you stay in his team for at least two semesters? Creating new
+  knowledge is not easy. One semester is too short and nothing can be
+  accomplished.  Writing a research paper usually takes two years.
+
+- If you want to get Dr. Lu recommendation letters, think about what
+  you want to accomplish before he writes the letters. Dr. Lu's
+  letters state observable facts, such as (1) whether you have
+  published a paper? (2) is your software used by anyone else? (3)
+  have you create research data used by anyone else? Dr. Lu does not
+  write letters that say "This student works very hard" or "This
+  student learns a lot".
+
+- Teamwork is absolutely critical. If you want to work alone, this
+  research team does not work for you. You must explain your work to
+  the other team members in speaking and writing.
+
+- Before Dr. Lu writes letters for you, he will ask you for your
+  project reports and presentations. Make sure you keep these
+  materials.
+
+- About recommendation letters, different universities as different
+  questions. Here are some examples: "intellectual independence",
+  "written English", "oral English", "maturity", "research ability",
+  "teaching ability", "interpersonal skills", "reliability and sense
+  of responsibility", "organization". Do you think Dr. Lu knows you
+  enough to answer these questions? 
+
 
 Current Topics
 --------------
+
+Dr. Lu's research focuses on improving efficiency of computer systems
+and analyze large amounts of data from distributed sources.
+
 
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Topic                           | Sponsor                     | Summary                                                     | 
@@ -125,7 +203,7 @@ HP
 ^^
 
 - 2013, Adaptive Power Management for Laser Printers
-
+  
 
 Current Graduate Students
 -------------------------

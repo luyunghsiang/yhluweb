@@ -24,6 +24,8 @@ students in classrooms.  He has advised multiple student teams winning
 business plan competitions; two teams of students started technology
 companies and raised more than $1.5M.
 
+
+
 Contact Information
 -------------------
 

@@ -455,6 +455,13 @@ Conference Papers
   Multimedia Information Processing and Retrieval 2018.
   DOI: https://doi.org/10.1109/MIPR.2018.00027
 
+- Kent Gauen, Ryan Dailey, Yung-Hsiang Lu, Eunbyung Park, Wei Liu,
+  Alexander C. Berg, Yiran Chen, "`Three years of low-power image
+  recognition challenge: Introduction to special session
+  <https://ieeexplore.ieee.org/document/8342099>`_", Design,
+  Automation & Test in Europe Conference & Exhibition (DATE) 2018.
+  DOI: https://doi.org/10.23919/DATE.2018.8342099
+
 2017
 ^^^^
 
