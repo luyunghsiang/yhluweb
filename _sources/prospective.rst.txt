@@ -25,6 +25,9 @@ read this before you send an email. Doing so can save your time.
 - Dr. Lu advises graduate students only if they want to write MS or
   PhD theses with Dr. Lu.
 
+- Dr. Lu sets a research direction and expects each student to develop
+  a plan. He does not micro-manage students on daily basis.
+
 - Dr. Lu can advise only (1) Purdue students, or (2) non-Purdue
   students whose advisors are collaborating with Dr. Lu.
 
@@ -46,11 +49,21 @@ For Undergraduate Students
 - If your purpose is to learn and you do not want to create new
   knowledge, please take courses.
   
-- Will you stay in his team for at least two semesters? Creating new
+- Will you stay in this team for at least two semesters? Creating new
   knowledge is not easy. One semester is too short and nothing can be
   accomplished.
 
 - Writing a research paper usually takes two years.
+
+- This team has a strong record and high expectations. Many past
+  members published research papers in peer-reviewed journals or
+  conferences. Many members became graduate students in top
+  universities. Multiple members received "Honorable Mentions" as
+  Outstanding Undergraduate Researchers by the Computing Research
+  Association.  Some members won business competitions.  Some members
+  started companies and successfully raised fund before they
+  graduated. One member received the Graduate Research Fellowship from
+  the National Science Foundation.
 
 - Teamwork is absolutely critical. If you want to work alone, this
   research team is not for you.
@@ -63,11 +76,11 @@ For Undergraduate Students
   you want to accomplish before he writes the letters. Dr. Lu's
   letters state observable facts, such as (1) whether you have
   published a research paper? (2) is your software used by anyone
-  else? (3) have you create research data used by anyone else?
+  else? (3) have you created research data used by anyone else?
 
 - Dr. Lu does not write letters that say anything like "This student
   works very hard" or "This student learns a lot" or "This student
-  enjoys my class" or "This student smiles to everyone"
+  enjoys my class" or "This student smiles to everyone".
 
 - Before Dr. Lu writes letters for you, he will ask you for your
   project reports and presentations. Make sure you keep these
