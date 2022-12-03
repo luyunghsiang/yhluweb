@@ -2,28 +2,26 @@ Prospective Students
 ====================
 
 The purpose of this section is to help prospective students understand
-whether Dr. Lu's research team can meet your expectation.
+whether Dr. Yung-Hsiang Lu's research team can meet your expectation.
+Dr. Lu advises both graduate and undergraduate students.
 
 For Graduate Students
 ^^^^^^^^^^^^^^^^^^^^^
 
-If you consider to join Dr. Yung-Hsiang Lu's research team, please
-read this before you send an email. Doing so can save your time.
+If you consider to join Dr. Lu's research team, please read this
+before you send an email. Doing so can save your time.
 
 - Dr. Lu's research is about computer vision and embedded systems (how
   to make computer vision efficient so that it can run on embedded
   systems). Dr. Lu does not conduct research in topics related to
   Blockchain, Cryptocurrency, or Quantum Computing.
 
-- Do you know Dr. Lu's research topics? Have you read his recent papers?
-
-- Do you want to do research? Research means creating new
-  knowledge. Research is not about learning existing knowledge.  If
-  your goal is to learn things, please take courses.  A research
-  team does not meet your expectation.
+- Research means creating new knowledge. Research is not about
+  learning existing knowledge. Research is not about reading books or
+  papers. If your goal is to learn things, please take courses.  
 
 - Dr. Lu advises graduate students only if they want to write MS or
-  PhD theses with Dr. Lu.
+  PhD theses with Dr. Lu. 
 
 - Dr. Lu sets a research direction and expects each student to develop
   a plan. He does not micro-manage students on daily basis.
@@ -34,9 +32,14 @@ read this before you send an email. Doing so can save your time.
 - Dr. Lu has no authorization to admit any student. Do not ask him,
   "Can I get admission from Purdue?"
 
+- Before you send email to Dr. Lu, read his recent papers. He will not
+  answer your email if the email does not mention any of his papers.
+
 - Financial support for graduate students is based on available
   funding and research ability. Financial support will be discussed
   after there is mutual interest doing research together.
+
+- Please fill `this form<https://docs.google.com/forms/d/e/1FAIpQLSdXLsPz1JUVo8_b2Jb2WuVCBbpWhUcgLjXC_bEW3CPOhHj-4w/viewform?usp=sf_link>`_. Thank you.
 
 
 For Undergraduate Students
@@ -64,6 +67,9 @@ For Undergraduate Students
   started companies and successfully raised fund before they
   graduated. One member received the Graduate Research Fellowship from
   the National Science Foundation.
+
+- If you join this team, you will work with exceptional students. You
+  must expect yourself to be exceptional as well.
 
 - Teamwork is absolutely critical. If you want to work alone, this
   research team is not for you.
@@ -94,5 +100,4 @@ For Undergraduate Students
 
 - If you have never talked to Dr. Lu, he knows nothing about you and
   cannot write recommendation letters for you.
-
 
