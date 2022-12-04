@@ -18,13 +18,20 @@ before you send an email. Doing so can save your time.
 
 - Research means creating new knowledge. Research is not about
   learning existing knowledge. Research is not about reading books or
-  papers. If your goal is to learn things, please take courses.  
+  papers. If your goal is to learn things, please take courses.
 
-- Dr. Lu advises graduate students only if they want to write MS or
-  PhD theses with Dr. Lu. 
+- Creating new knowledge is difficult. It is necessary to focus on one
+  topic only. If you investigate multiple topics, you cannot make any
+  progress.
+
+- Honesty is the foundation of science. Quality is always more
+  important than quantity.
 
 - Dr. Lu sets a research direction and expects each student to develop
   a plan. He does not micro-manage students on daily basis.
+
+- Dr. Lu advises graduate students only if they want to write MS or
+  PhD theses with Dr. Lu. 
 
 - Dr. Lu can advise only (1) Purdue students, or (2) non-Purdue
   students whose advisors are collaborating with Dr. Lu.
