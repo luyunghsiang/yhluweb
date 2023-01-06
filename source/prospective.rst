@@ -52,10 +52,6 @@ before you send an email. Doing so can save your time.
 For Undergraduate Students
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you are an undergraduate student, `Vertically Integrated Projects
-(VIP) <https://engineering.purdue.edu/VIP>`_ is the best way to start
-research. If you have any question about VIP, please visit `this
-website <https://engineering.purdue.edu/Engr/AboutUs/contact_us>`_.
 
 - This is a research team. A research team's purpose is to discover
   new knowledge. Dr. Lu's research is about how to improve efficiency
