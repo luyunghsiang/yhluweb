@@ -52,7 +52,6 @@ before you send an email. Doing so can save your time.
 For Undergraduate Students
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
 - This is a research team. A research team's purpose is to discover
   new knowledge. Dr. Lu's research is about how to improve efficiency
   of computers.
