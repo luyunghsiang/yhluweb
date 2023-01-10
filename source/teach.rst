@@ -4,7 +4,7 @@ Courses
 Graduate
 ~~~~~~~~
 
-- ECE 595 "`Computer Vision for Embedded Systems
+- ECE 595 "`Online Course: Computer Vision for Embedded Systems
   <https://www.edx.org/course/computer-vision-for-embedded-systems>`_".
   Fall 2021 and 2022. This is an experimental course. This course
   provides an overview of running computer vision (OpenCV and PyTorch)
@@ -84,7 +84,7 @@ Undergraduate
   mix students from cohorts (first-year undergraduate to doctoral) and
   conduct research. Dr. Lu advises the following teams:
 
-  * Fall 2022 "`Computer Vision for Embedded Systems
+  * Fall 2022 "`VIP Team: Computer Vision for Embedded Systems
     <https://engineering.purdue.edu/VIP/teams/computer-vision-for-embedded-systems>`_":
     improve efficiency (inference time, training time, storage space,
     energy consumption) of computer vision (both image and multimedia)
