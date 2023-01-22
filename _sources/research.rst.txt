@@ -20,6 +20,8 @@ and analyze large amounts of data from distributed sources.
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Trust of Machine Learning Code  | Cisco                       | Evaluate Trustworthiness of Pre-Trained Neural Networks     |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
+| Trusted Machine Learning        | Wistron                     | Execute Machine Learning Software on Trusted Environment    |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
 
 Research Funding
 ----------------
