@@ -6,7 +6,7 @@ Yung-Hsiang Lu
 
 .. image:: https://engineering.purdue.edu/HELPS/Images/20201129LuPurdue.jpg
    :width: 35%
-   :alt: alternate text
+   :alt: Yung-Hsiang Lu
    :align: right
 
 Yung-Hsiang Lu is a professor of Electrical and Computer Engineering
@@ -25,6 +25,16 @@ business plan competitions; two teams of students started technology
 companies and raised more than $1.5M.
 
 
+.. image:: https://images.routledge.com/common/jackets/amazon/978036774/9780367744700.jpg
+   :width: 35%
+   :alt: Low-Power Computer Vision
+   :align: left
+	   
+Book
+----
+
+(Editors) George K. Thiruvathukal, Yung-Hsiang Lu, Jaeyoun Kim, Yiran Chen, Bo Chen, "`Low-Power Computer Vision Improve the  Efficiency of Artificial Intelligence   <https://www.routledge.com/Low-Power-Computer-Vision-Improve-the-Efficiency-of-Artificial-Intelligence/Thiruvathukal-Lu-Kim-Chen-Chen/p/book/9780367744700>`_",  Chapman and Hall/CRC, ISBN 978-0-3677-4470-0, 438 Pages 62 Color and  39 B/W Illustrations, Published February 23, 2022.
+  
 
 Contact Information
 -------------------
