@@ -20,7 +20,7 @@ and analyze large amounts of data from distributed sources.
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Trust of Machine Learning Code  | Cisco                       | Evaluate Trustworthiness of Pre-Trained Neural Networks     |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Trusted Machine Learning        | Wistron                     | Execute Machine Learning Software on Trusted Environment    |
+| Trusted Machine Learning        | Wistron                     | Execute Machine Learning Software in Trusted Environment    |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 
 Research Funding
@@ -90,6 +90,11 @@ National Science Foundation
   Operating Systems
 
 - 2003, Co-PI, IIS: Distributed Energy-Efficient Mobile Robots
+
+Wistron
+^^^^^^^
+- 2023, PI: Dongyan Xu, Co-PI: Yung-Hsiang Lu, "Execute Machine
+  Learning Software in Trusted Environment"
 
 Cisco
 ^^^^^
