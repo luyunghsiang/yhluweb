@@ -12,7 +12,8 @@ Yung-Hsiang Lu
 Yung-Hsiang Lu is a professor of Electrical and Computer Engineering
 at Purdue University.  He is a University Faculty Scholar of Purdue
 University.  He is a fellow of the IEEE (Institute of Electrical and
-Electronics Engineers), distinguished scientist and distinguished
+Electronics Engineers), distinguished visitor of the Computer Society,
+distinguished scientist and distinguished
 speaker of the ACM (Association for Computing Machinery).  Dr. Lu is
 the inaugural director of Purdue's John Martinson Engineering
 Entrepreneurial Center (2020-2022). In 2019, he received Outstanding

@@ -4,10 +4,20 @@ Publications
 Journal Papers
 --------------
 
+- Shane Allcroft, Mohammed Metwaly, Zachery Berg, Isha Ghodgaonkar,
+  Fischer Bordwell, Xinxin Zhao, Xinglei Liu, Jiahao Xu, Subhankar
+  Chakraborty, Vishnu Banna, Akhil Chinnakotla, Abhinav Goel, Caleb
+  Tung, Gore Kao, Wei Zakharov, David A. Shoham,
+  George K. Thiruvathukal, Yung-Hsiang Lu, "`Observing Human Mobility
+  Internationally During COVID-19
+  <https://ieeexplore.ieee.org/document/10058769>`_", Computer 2023,
+  Volume: 56, Issue: 3, pages 59-69, DOI:
+  https://doi.org/10.1109/MC.2022.3175751
+
 - Abhinav Goel, Caleb Tung, Nick Eliopoulos, Amy Wang, James C. Davis,
   George K. Thiruvathukal, and Yung-Hsiang Lu, "`Tree-based
   Unidirectional Neural Networks for Low-Power Computer Vision
-  <https://ieeexplore.ieee.org/document/9935301>`_", accepted by IEEE
+  <https://ieeexplore.ieee.org/document/9935301>`_", IEEE
   Design and Test. DOI: https://doi.org/10.1109/MDAT.2022.3217016
 
 - Caleb Tung, Abhinav Goel, Fischer Bordwell, Nick Eliopoulos, Xiao
@@ -15,13 +25,6 @@ Journal Papers
   Consistency in Object Detection
   <https://ieeexplore.ieee.org/document/9778276>`_", IEEE Multimedia.
   DOI: https://doi.org/10.1109/MMUL.2022.3175239
-
-- Shane Allcroft, Mohammed Metwaly, Zachery Berg, Isha Ghodgaonkar,
-  Fischer Bordwell, XinXin Zhao, Xinglei Liu, Jiahao Xu, Subhankar
-  Chakraborty, Vishnu Banna, Akhil Chinnakotla, Abhinav Goel, Caleb
-  Tung, Gore Kao, Wei Zakharov, David Shoham, George K.
-  Thiruvathukal, Yung-Hsiang Lu, "Observing Human Mobility
-  Internationally during COVID-19", Computer (accepted).
 
 - George K. Thiruvathukal and Yung-Hsiang Lu, "`Efficient Computer
   Vision for Embedded Systems
