@@ -18,10 +18,15 @@ and analyze large amounts of data from distributed sources.
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Computer Vision at Edge Devices | National Science Foundation | Create Cyber Infrastructure for Edge Computing              |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
+| AI Institute: Cybersecurity     | National Science Foundation | Agent-Based Cyber Threat Intelligence and Operation         |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Trust of Machine Learning Code  | Cisco                       | Evaluate Trustworthiness of Pre-Trained Neural Networks     |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
+| Efficient Computer Vision       | Cisco                       | Detect and Eliminate Redundant Data on Edge Devices         |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Trusted Machine Learning        | Wistron                     | Execute Machine Learning Software in Trusted Environment    |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
+
 
 Research Funding
 ----------------
