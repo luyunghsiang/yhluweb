@@ -1,5 +1,5 @@
-Research 
-========
+Research and Sponsors
+=====================
 
 
 Current Topics
@@ -33,6 +33,10 @@ Research Funding
 
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 2023, Senior Personnel, "`AI Institute for Agent-Based Cyber Threat
+  Intelligence and Operation (ACTION) <https://action.ucsb.edu>`_"
+  
 
 - 2021, PI, 2120430, "`CNS Collaborative Research: CAR:NEW: Research
   Infrastructure for Real-Time Computer Vision and Decision Making via
@@ -103,6 +107,8 @@ Wistron
 
 Cisco
 ^^^^^
+
+- 2023, PI: Yung-Hsiang Lu, Co-PI: James Davis, "Efficient Computer Vision for Edge Devices".
 
 - 2022, PI: James Davis, Co-PI: Yung-Hsiang Lu, "Trustworthy Re-use of
   Pre-Trained Neural Networks".
