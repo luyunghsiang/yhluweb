@@ -5,6 +5,45 @@ The purpose of this section is to help prospective students understand
 whether Dr. Yung-Hsiang Lu's research team can meet your expectation.
 Dr. Lu advises both graduate and undergraduate students.
 
+Differences between Research and Classroom Learning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Research is fundamentally different from classroom learning. Please refer to the
+following table about the differences.
+
++----------------------------------------------+-------------------------------------+
+| Classroom Learning                           | Research                            |
++==============================================+=====================================+
+| Acquire Existing Knowledge                   | Create new knowledge                |
++----------------------------------------------+-------------------------------------+
+| Read textbooks                               | Read papers                         |
++----------------------------------------------+-------------------------------------+
+| Submit homeworks                             | Conduct experiments                 |
++----------------------------------------------+-------------------------------------+
+| Answer exam questions                        | No exams                            |
++----------------------------------------------+-------------------------------------+
+| Submi homework once                          | Keep improving                      |
++----------------------------------------------+-------------------------------------+
+| Finish in one semester                       | Last for many years                 |
++----------------------------------------------+-------------------------------------+
+| Ask questions                                | Explain discoveries                 |
++----------------------------------------------+-------------------------------------+
+| One assignment takes several weeks           | One research paper takes many month |
++----------------------------------------------+-------------------------------------+
+| Throw away everything after a semester ends  | Keep research data forever          |
++----------------------------------------------+-------------------------------------+
+| Study alone or in small teams                | Research teams can be very large    |
++----------------------------------------------+-------------------------------------+
+| A grade is the only visible result           | Publish papers, data, software ...  |
++----------------------------------------------+-------------------------------------+
+| Already know answers (in textbooks)          | Do not know answers (nobody knows)  |
++----------------------------------------------+-------------------------------------+
+| Every student does the same assignments      | Each researcher is unique           |
++----------------------------------------------+-------------------------------------+
+| Take several courses simutaneously           | Focus on one research problem       |
++----------------------------------------------+-------------------------------------+
+
+
 For Graduate Students
 ^^^^^^^^^^^^^^^^^^^^^
 
