@@ -59,32 +59,41 @@ Graduate
 Undergraduate
 -------------
 
-|201809Team| |201803Team|
+Vertically Integrated Projects
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. |201809Team| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
-   :width: 42%
-	   
-.. |201803Team| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
-   :width: 49%
-
-- Fall 2022 "`ECE 270 Introduction to Digital System Design
-  <https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/CourseInfo/courseInfo?courseid=607&show=true&type=undergrad>`_",
-  Topics: CMOS logic circuits, Switching Algebra, Verilog, state
-  machine.
-
-- Fall 2021  "`ECE 264 Advanced C Programming
-  <https://github.com/PurdueECE264>`_". Topics covered: stack memory,
-  recursion, memory management, structures, file (text and binary),
-  dynamic structures (linked list and binary tree). Tools: gcc, gcov,
-  Makefile, gdb, valgrind. Lecture videos are available `here
-  <https://engineering.purdue.edu/OOSD/F2020>`_.
-
-- VIP ("`Vertically Integrated Projects
+VIP ("`Vertically Integrated Projects
   <https://engineering.purdue.edu/VIP/teams/index_html>`_"). VIP teams
   mix students from cohorts (first-year undergraduate to doctoral) and
   conduct research. Dr. Lu advises the following teams:
 
-  * Fall 2022 "`VIP Team: Computer Vision for Embedded Systems
+- Fall 2023 "`Artificial Intelligence in
+  Music<https://engineering.purdue.edu/VIP/teams/aim>`_": AI-enabled
+  tools to support string music performers. The first tool, the
+  Evaluator, aims to improve individual practice and performance. It
+  analyzes a musician’s sound and compares it to digitized music
+  scores to detect deviations in intonation, rhythm, and dynamics and
+  suggest better posture based on sample performers’ recording with
+  correct posture. The second tool, the Companion, plays the part of
+  one or several instruments to replace absent musicians with matching
+  tempo, and style of the human musicians through audio analysis of
+  their performance while also responding in real-time to verbal
+  instructions.
+
+- Fall 2023 "`Computer Vision for Embedded
+  Systems<https://engineering.purdue.edu/VIP/teams/computer-vision-for-embedded-systems>`_":
+  Investigate methods to improve efficiency (inference time, training
+  time, storage space, energy consumption) of computer vision (both
+  image and multimedia) so that computer vision can run on embedded
+  systems. The team will evaluate how existing methods (such as
+  quantization and pruning) can be applied to new neural architectures
+  (such as transformers). The team will also investigate new
+  architectures of neural networks and compare their efficiency with
+  different levels of accuracy.
+
+
+- Spring 2023 and Fall 2022 "`VIP Team: Computer Vision for Embedded
+    Systems
     <https://engineering.purdue.edu/VIP/teams/computer-vision-for-embedded-systems>`_":
     improve efficiency (inference time, training time, storage space,
     energy consumption) of computer vision (both image and multimedia)
@@ -96,7 +105,7 @@ Undergraduate
     of accuracy. Advisor: Yung-Hsiang Lu.
     
   
-  * Fall 2021 "`Analyze Drone Video
+- Fall 2021 "`Analyze Drone Video
     <https://engineering.purdue.edu/VIP/teams/dronevideo>`_": creates
     a dataset captured by drone (also called UAV, unmanned aerial
     vehicle) and a referee system that can evaluate the accuracy and
@@ -105,7 +114,7 @@ Undergraduate
     Zakharov.
 
 
-  * Fall 2021 "`Open-Source TensorFlow Software
+- Fall 2021 "`Open-Source TensorFlow Software
     <https://engineering.purdue.edu/VIP/teams/tensorflow>`_": Creates
     software to be used in the `TensorFlow 2 Model Garden
     <https://blog.tensorflow.org/2020/03/introducing-model-garden-for-tensorflow-2.html>`_
@@ -123,6 +132,46 @@ Undergraduate
     Creates an online service that analyzes computer programs to help
     students learn programming.  Advisors: Aravind Machiry and
     Yung-Hsiang Lu.
+
+
+
+ECE 264 Advanced C Programming
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Fall 2023  "ECE 264 Advanced C Programming"
+
+- Spring 2023  "`ECE 264 Advanced C Programming
+  <https://purs3lab.github.io/ece264/>`_". Topics covered: stack memory,
+  recursion, memory management, structures, file (text and binary),
+  dynamic structures (linked list and binary tree). Tools: gcc, gcov,
+  Makefile, gdb, valgrind. Lecture videos are available `here
+  <https://engineering.purdue.edu/OOSD/F2020>`_.
+
+- Fall 2021  "`ECE 264 Advanced C Programming
+  <https://github.com/PurdueECE264>`_". Tools: gcc, gcov,
+  Makefile, gdb, valgrind.
+
+- Fall 2020 (first full semester after COVID started).
+  "`Video, slides, and script<https://engineering.purdue.edu/OOSD/F2020>`_"
+
+
+ECE 270 Introduction to Digital System Design
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Fall 2022 "`ECE 270 Introduction to Digital System Design
+  <https://engineering.purdue.edu/ECE/Academics/Undergraduates/UGO/CourseInfo/CourseInfo/courseInfo?courseid=607&show=true&type=undergrad>`_",
+  Topics: CMOS logic circuits, Switching Algebra, Verilog, state
+  machine.
+
+
+|201809Team| |201803Team|
+
+.. |201809Team| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
+   :width: 42%
+	   
+.. |201803Team| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
+   :width: 49%
+
 
   
 
