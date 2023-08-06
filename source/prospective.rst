@@ -104,6 +104,15 @@ some common mistakes:
   people do not do research.  Why do you care whether people think you
   are smart?
 
+- "I do not care about the research project after I leave the team."
+  Research teams can last many years and the people you work with can
+  be your life-long friends as well as references for career
+  opportunities.
+
+- "I do not need to document my work because I remember everything."
+  You cannot remember everything. Even if you could remember
+  everything, your work does not exist without documentation.
+
 - "Expect professors to know everything." Some beginning researchers
   believe that professors should know everything.  The truth is that
   professors usually do not know the details of every project.  If
