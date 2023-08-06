@@ -1,5 +1,5 @@
-Research and Sponsors
-=====================
+Research Topics and Sponsors
+============================
 
 
 Current Topics

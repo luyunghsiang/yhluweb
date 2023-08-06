@@ -18,17 +18,23 @@ following table about the differences.
 +----------------------------------------------+-------------------------------------+
 | Read textbooks                               | Read papers                         |
 +----------------------------------------------+-------------------------------------+
+| Textbooks have answers                       | No textbook                         |
++----------------------------------------------+-------------------------------------+
+| Professors know answers                      | Nobody knows                        |
++----------------------------------------------+-------------------------------------+
+| Small problems                               | Large problems                      |
++----------------------------------------------+-------------------------------------+
 | Submit homeworks                             | Conduct experiments                 |
 +----------------------------------------------+-------------------------------------+
-| Answer exam questions                        | No exams                            |
+| Answer exam questions                        | Design research questions           |
 +----------------------------------------------+-------------------------------------+
-| Submi homework once                          | Keep improving                      |
+| Submit homework once                          | Keep improving                      |
 +----------------------------------------------+-------------------------------------+
 | Finish in one semester                       | Last for many years                 |
 +----------------------------------------------+-------------------------------------+
-| Ask questions                                | Explain discoveries                 |
+| Ask professors questions                     | Explain discoveries                 |
 +----------------------------------------------+-------------------------------------+
-| One assignment takes several weeks           | One research paper takes many month |
+| One assignment takes at most several weeks   | One research paper takes months     |
 +----------------------------------------------+-------------------------------------+
 | Throw away everything after a semester ends  | Keep research data forever          |
 +----------------------------------------------+-------------------------------------+
@@ -36,13 +42,98 @@ following table about the differences.
 +----------------------------------------------+-------------------------------------+
 | A grade is the only visible result           | Publish papers, data, software ...  |
 +----------------------------------------------+-------------------------------------+
-| Already know answers (in textbooks)          | Do not know answers (nobody knows)  |
-+----------------------------------------------+-------------------------------------+
 | Every student does the same assignments      | Each researcher is unique           |
 +----------------------------------------------+-------------------------------------+
-| Take several courses simutaneously           | Focus on one research problem       |
+| Take several courses simultaneously           | Focus on one research problem       |
++----------------------------------------------+-------------------------------------+
+| Expect to successfully solve most problems   | Expect 90% failures                 |
++----------------------------------------------+-------------------------------------+
+| Writing not important (for some courses)     | Writing skills are essential        |
++----------------------------------------------+-------------------------------------+
+| Speaking not important (for some courses)    | Speaking skills are essential       |
 +----------------------------------------------+-------------------------------------+
 
+Common Mistakes of Beginning Researchers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Many beginning researchers make similar mistakes. Here is a list of
+some common mistakes:
+
+- "It has been done before." "I must be the first."  Many beginning
+  researchers immediately reject a research topic because someone has
+  done something related. These beginning researchers do not
+  have yet have the ability to think deeply.  If a problem is
+  important, some people must have done some things related.  If
+  nobody has ever done anything about a research topic, this topic is
+  not worth doing.
+
+- "I want to learn. I do not want to create anything."  Learning is
+  not the purpose of doing research. The purpose research is to
+  discover new knowledge for other researchers. Many beginning
+  researchers learn some new things and then stop. They have not
+  created new knowledge and thus they have not accomplished anything
+  yet.
+
+- "If I understand, my research is done."  Researchers need to explain
+  their discoveries in writing and speaking. If the new knowledge is
+  not disseminated, research is incomplete.
+
+- "If I fail, I will change topics." Failures are common in
+  research. The only way to succeed in research is to continue
+  improving (through discussing with other researchers, reading
+  literature, experimenting new methods, etc.). Many beginning
+  researchers stop when they encounter difficulties.
+
+- "I don't know what I want. I am going to try many things."  Research
+  has many stages, including (1) identify problems, (2) study existing
+  work, (3) determine the needed improvements, (4) improve existing
+  methods, (5) evaluate the new methods, (6) explain the discoveries.
+
+- "I don't want to become a professor. I don't need to do research."
+  or "I do not want to go to a graduate program. I do not need to do
+  research."  Research is a style of thinking. Researchers want to
+  create new knowledge to fulfill their curiosity.  Many people do
+  research even though they do not attend graduate programs.
+
+- "If I use many acronyms and technical terms, nobody can understand
+  and people think I am very smart."  The truth is the
+  opposite. People respect you better if you can explain things
+  clearly.
+
+- "I need to do research so that people think I am smart." Many smart
+  people do not do research.  Why do you care whether people think you
+  are smart?
+
+- "Expect professors to know everything." Some beginning researchers
+  believe that professors should know everything.  The truth is that
+  professors usually do not know the details of every project.  If
+  professors know the details, the professors will likely move to
+  different topics. Thus, professors usually select research topics
+  that require further investigation by beginning researchers (usually
+  students).
+
+- "Their topics are easier than mine." Many beginning researchers want
+  to change topics often because they always feel others' topics are
+  easier. After they change topics, they find their topics too
+  difficult and want to change.
+
+- "I need to do everything myself, from the very beginning."  Some
+  beginning researchers think they must do everything from the very
+  beginning. They want to rebuild things; they want to rewrite
+  software; they want to "start from scratch".
+
+- "A professor teaches for three hours a week and does nothing else."
+  Some beginning researchers do not understand what professors
+  do. They do understand professors' responsibilities.  This is what
+  Dr. Yung-Hsiang Lu's activities in a typical week: (a) meet other
+  professors about research projects, collaborations, papers; (b) meet
+  students on research projects about papers, presentations, oral
+  exams, plans of studies; (c) teach in lectures, meet teaching
+  assistants, meet students in office hours, give career advice,
+  design future course; (d) write research proposals; (e) meet project
+  sponsors; (f) review research papers and proposals.  Dr. Lu also
+  attends conferences to present research discoveries and to learn the
+  discoveries by other researchers.
 
 For Graduate Students
 ^^^^^^^^^^^^^^^^^^^^^
