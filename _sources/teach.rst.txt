@@ -62,11 +62,11 @@ Undergraduate
 Vertically Integrated Projects
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-VIP ("`Vertically Integrated Projects<https://engineering.purdue.edu/VIP/teams/index_html>`_"). VIP teams
+VIP ("`Vertically Integrated Projects <https://engineering.purdue.edu/VIP/teams/index_html>`_"). VIP teams
   mix students from cohorts (first-year undergraduate to doctoral) and
   conduct research. Dr. Lu advises the following teams:
 
-- Fall 2023 "`Artificial Intelligence in  Music<https://engineering.purdue.edu/VIP/teams/aim>`_": AI-enabled
+- Fall 2023 "`Artificial Intelligence in  Music <https://engineering.purdue.edu/VIP/teams/aim>`_": AI-enabled
   tools to support string music performers. The first tool, the
   Evaluator, aims to improve individual practice and performance. It
   analyzes a musician’s sound and compares it to digitized music
@@ -78,7 +78,7 @@ VIP ("`Vertically Integrated Projects<https://engineering.purdue.edu/VIP/teams/i
   their performance while also responding in real-time to verbal
   instructions.
 
-- Fall 2023 "`Computer Vision for Embedded  Systems<https://engineering.purdue.edu/VIP/teams/computer-vision-for-embedded-systems>`_":
+- Fall 2023 "`Computer Vision for Embedded  Systems <https://engineering.purdue.edu/VIP/teams/computer-vision-for-embedded-systems>`_":
   Investigate methods to improve efficiency (inference time, training
   time, storage space, energy consumption) of computer vision (both
   image and multimedia) so that computer vision can run on embedded
@@ -116,12 +116,12 @@ VIP ("`Vertically Integrated Projects<https://engineering.purdue.edu/VIP/teams/i
     as examples.  Sponsor: Google. Advisors: James Davis and
     Yung-Hsiang Lu
 
-  * Spring 2021 "`Image Processing for Solar Sail   <https://engineering.purdue.edu/VIP/teams/sail>`_": 
+- Spring 2021 "`Image Processing for Solar Sail   <https://engineering.purdue.edu/VIP/teams/sail>`_": 
     Creates the software to analyze the images taken by the camera on
     a spacecraft using solar sail. Sponsor: NASA. Advisors: Alina
     Alexeenko, Anthony Cofer, Yung Hsiang Lu.
 
-  * Spring 2021 "`Program Analysis as a Service  <https://engineering.purdue.edu/VIP/teams/program-analysis-as-a-service>`_":
+- Spring 2021 "`Program Analysis as a Service  <https://engineering.purdue.edu/VIP/teams/program-analysis-as-a-service>`_":
     Creates an online service that analyzes computer programs to help
     students learn programming.  Advisors: Aravind Machiry and
     Yung-Hsiang Lu.
@@ -133,7 +133,7 @@ ECE 264 Advanced C Programming
 
 - Fall 2023  "ECE 264 Advanced C Programming"
 
-- Spring 2023  "`ECE 264 Advanced C Programming<https://purs3lab.github.io/ece264/>`_". Topics covered: stack memory,
+- Spring 2023  "`ECE 264 Advanced C Programming <https://purs3lab.github.io/ece264/>`_". Topics covered: stack memory,
   recursion, memory management, structures, file (text and binary),
   dynamic structures (linked list and binary tree). Tools: gcc, gcov,
   Makefile, gdb, valgrind. Lecture videos are available `here
@@ -144,7 +144,7 @@ ECE 264 Advanced C Programming
   Makefile, gdb, valgrind.
 
 - Fall 2020:
-  "`Video, slides, and script<https://engineering.purdue.edu/OOSD/F2020>`_"
+  `Video, slides, and script <https://engineering.purdue.edu/OOSD/F2020>`_
 
 
 ECE 270 Introduction to Digital System Design
