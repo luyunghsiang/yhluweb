@@ -44,7 +44,7 @@ following table about the differences.
 +----------------------------------------------+-------------------------------------+
 | Every student does the same assignments      | Each researcher is unique           |
 +----------------------------------------------+-------------------------------------+
-| Take several courses simultaneously           | Focus on one research problem       |
+| Take several courses simultaneously          | Focus on one research problem       |
 +----------------------------------------------+-------------------------------------+
 | Expect to successfully solve most problems   | Expect 90% failures                 |
 +----------------------------------------------+-------------------------------------+
