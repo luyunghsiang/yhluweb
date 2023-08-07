@@ -28,7 +28,7 @@ following table about the differences.
 +----------------------------------------------+-------------------------------------+
 | Answer exam questions                        | Design research questions           |
 +----------------------------------------------+-------------------------------------+
-| Submit homework once                          | Keep improving                      |
+| Submit homework once                         | Keep improving                      |
 +----------------------------------------------+-------------------------------------+
 | Finish in one semester                       | Last for many years                 |
 +----------------------------------------------+-------------------------------------+
