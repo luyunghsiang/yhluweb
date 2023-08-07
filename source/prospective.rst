@@ -88,6 +88,9 @@ some common mistakes:
   has many stages, including (1) identify problems, (2) study existing
   work, (3) determine the needed improvements, (4) improve existing
   methods, (5) evaluate the new methods, (6) explain the discoveries.
+  If a beginning researcher changes topics too often, this researcher
+  does not have opportunities going through these stages and does not
+  really have true experience being a researcher.
 
 - "I don't want to become a professor. I don't need to do research."
   or "I do not want to go to a graduate program. I do not need to do
@@ -113,7 +116,20 @@ some common mistakes:
   You cannot remember everything. Even if you could remember
   everything, your work does not exist without documentation.
 
-- "Expect professors to know everything." Some beginning researchers
+- "I do not need to document or explain because nobody cares what I
+  do." If nobody cares, this topic is not worth doing.
+
+- "I want to work alone."  If a beginning researchers works alone, it
+  is very difficult to make progress. It is better to work in a team
+  and help each other.
+  
+- "I will choose a topic that interests me. I do not care what other
+  researchers in the same team are doing."  A research team usually
+  has specific directions, strength, as well as accumulated expertise
+  and resources. A beginning researcher should take advantage of the
+  team.
+
+- "Professors should know everything." Some beginning researchers
   believe that professors should know everything.  The truth is that
   professors usually do not know the details of every project.  If
   professors know the details, the professors will likely move to
