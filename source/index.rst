@@ -58,11 +58,6 @@ Contact Information
 
 - Linkedin Group for ECE 264 C Programming: https://www.linkedin.com/groups/8672695/
 
-  <!---
-- Linkedin Group for Purdue's `John Martinson Entrepreneurial Center
-  <https://engineering.purdue.edu/JMEC>`_ (JMEC):
-  https://www.linkedin.com/groups/8923495/
-  --->
 
 .. toctree::
    :maxdepth: 2
