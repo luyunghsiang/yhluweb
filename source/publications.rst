@@ -5,9 +5,11 @@ Journal Papers
 --------------
 
 - Xiao Hu, Ziteng Jiao, Ayden Kocher, Zhenyu Wu, Junjie Liu, James C
-  Davis, George K Thiruvathukal, Yung-Hsiang Lu, "Evolution of Winning
-  Solutions in the 2021 Low-Power Computer Vision Challenge", accepted
-  by Computer.
+  Davis, George K Thiruvathukal, Yung-Hsiang Lu, "`Evolution of
+  Winning Solutions in the 2021 Low-Power Computer Vision Challenge
+  <https://www.computer.org/csdl/magazine/co/2023/08/10206066/1PlcMZdnR72>`_",
+  Computer. August 2023, pp. 28-37, vol. 56. DOI:
+  https://doi.org/10.1109/MC.2023.3250246
 
 - Shane Allcroft, Mohammed Metwaly, Zachery Berg, Isha Ghodgaonkar,
   Fischer Bordwell, Xinxin Zhao, Xinglei Liu, Jiahao Xu, Subhankar
