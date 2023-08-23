@@ -29,11 +29,13 @@ companies and raised more than $1.5M.
 |2022LPCVbook| |2015ICPbook|
 
 
-.. |2022LPCVbook| image:: https://images.routledge.com/common/jackets/amazon/978036774/9780367744700.jpg
+.. |2022LPCVbook| image:: https://images.routledge.com/common/jackets/amazon/978036774/9780367744700.jpg 
    :width: 42%
+   :class: with-border
 
 .. |2015ICPbook| image:: https://images.routledge.com/common/jackets/amazon/978149871/9781498711630.jpg
    :width: 42%
+   :class: with-border
 	   
 Books
 -----
@@ -56,9 +58,11 @@ Contact Information
 
 - Linkedin Group for ECE 264 C Programming: https://www.linkedin.com/groups/8672695/
 
+  <!---
 - Linkedin Group for Purdue's `John Martinson Entrepreneurial Center
   <https://engineering.purdue.edu/JMEC>`_ (JMEC):
   https://www.linkedin.com/groups/8923495/
+  --->
 
 .. toctree::
    :maxdepth: 2

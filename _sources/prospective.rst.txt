@@ -36,7 +36,7 @@ following table about the differences.
 +----------------------------------------------+-------------------------------------+
 | One assignment takes at most several weeks   | One research paper takes months     |
 +----------------------------------------------+-------------------------------------+
-| Throw away everything after a semester ends  | Keep research data forever          |
+| Throw away everything after a semester ends  | Keep research data for long time    |
 +----------------------------------------------+-------------------------------------+
 | Study alone or in small teams                | Research teams can be very large    |
 +----------------------------------------------+-------------------------------------+
@@ -77,6 +77,14 @@ some common mistakes:
 - "If I understand, my research is done."  Researchers need to explain
   their discoveries in writing and speaking. If the new knowledge is
   not disseminated, research is incomplete.
+
+- "I need to have an idea (solution) before I start." This sentence is
+  self-contradictory. Research is a process to find solutions (more
+  specifically, better solutions).
+
+- "If I have a solution, my work is done." Researchers have
+  responsibilities explaining their discoveries. After finding
+  solutions, researchers need to write papers and present their work.
 
 - "If I fail, I will change topics." Failures are common in
   research. The only way to succeed in research is to continue
@@ -146,6 +154,20 @@ some common mistakes:
   beginning researchers think they must do everything from the very
   beginning. They want to rebuild things; they want to rewrite
   software; they want to "start from scratch".
+
+- "People should know why my project is important and feel equally
+  excited." Some beginning researchers do not understand how to
+  explain the importance of their topics.  These researchers jump
+  directly to technical details.
+
+- "My work is not important." Some beginning researchers think their
+  projects are unimportant. The questions is why these beginning
+  researchers spend time on these rpojects.
+
+- "Give me money first. Then, I will consider to talk to you." Some
+  beginning researchers consider to discuss research only after
+  receiving financial support.  This is not a good strategy to
+  succeed.
 
 - "A professor teaches for three hours a week and does nothing else."
   Some beginning researchers do not understand what professors
