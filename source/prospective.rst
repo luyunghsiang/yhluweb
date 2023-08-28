@@ -82,6 +82,11 @@ some common mistakes:
   self-contradictory. Research is a process to find solutions (more
   specifically, better solutions).
 
+- "If it does not work perfectly, it is not worth doing." Research
+  often improves existing solutions by a little amount each time. Some
+  beginning researchers are eager to say, "This will not work."
+  Instead, they should say, "I will make some improvements."
+
 - "If I have a solution, my work is done." Researchers have
   responsibilities explaining their discoveries. After finding
   solutions, researchers need to write papers and present their work.
@@ -162,7 +167,7 @@ some common mistakes:
 
 - "My work is not important." Some beginning researchers think their
   projects are unimportant. The questions is why these beginning
-  researchers spend time on these rpojects.
+  researchers spend time on these projects.
 
 - "Give me money first. Then, I will consider to talk to you." Some
   beginning researchers consider to discuss research only after
