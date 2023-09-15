@@ -62,7 +62,7 @@ some common mistakes:
 - "It has been done before." "I must be the first."  Many beginning
   researchers immediately reject a research topic because someone has
   done something related. These beginning researchers do not
-  have yet have the ability to think deeply.  If a problem is
+  yet have the ability to think deeply.  If a problem is
   important, some people must have done some things related.  If
   nobody has ever done anything about a research topic, this topic is
   not worth doing.
@@ -81,6 +81,16 @@ some common mistakes:
 - "I need to have an idea (solution) before I start." This sentence is
   self-contradictory. Research is a process to find solutions (more
   specifically, better solutions).
+
+- "I must build everything myself." The problem is that it is not
+  possible to do research if a researcher wants to build everything
+  from nothing.
+
+- "I have to read every paper before I start."  This is not
+  possiel. Instead, a beginning researcher should identify and read
+  important papers. After reading these papers, the researcher should
+  follow a few papers closely. Reproduce the results in these papers
+  will be a better way than reading many more papers.
 
 - "If it does not work perfectly, it is not worth doing." Research
   often improves existing solutions by a little amount each time. Some
