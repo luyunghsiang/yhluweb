@@ -320,6 +320,13 @@ Journal Papers
 Conference Papers
 -----------------
 
+2023
+^^^^
+
+- Nick John Eliopoulos, Yung-Hsiang Lu, "`Lightning Talk 6: Bringing Together Foundation Models and Edge Devices <https://ieeexplore.ieee.org/document/10247694>`_",  
+  ACM/IEEE Design Automation Conference 2023. DOI: https://doi.org/10.1109/DAC56929.2023.10247694
+
+
 2022
 ^^^^
 
