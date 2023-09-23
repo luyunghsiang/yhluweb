@@ -36,7 +36,7 @@ Research Funding
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- 2023, Co-PI, 2326198, "`Agent-Based Cyber Threat Intelligence and Operation <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326198>`_"
+- 2023, Co-PI, 2326198, "`Artificial Intelligence Technology for Future Music Performers <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326198>`_"
 
 - 2023, Senior Personnel, "`AI Institute for Agent-Based Cyber Threat
   Intelligence and Operation (ACTION) <https://action.ucsb.edu>`_"
