@@ -82,14 +82,13 @@ some common mistakes:
   self-contradictory. Research is a process to find solutions (more
   specifically, better solutions).
 
-- "I must build everything myself." The problem is that it is not
-  possible to do research if a researcher wants to build everything
-  from nothing.
+- "I must build everything myself." It is not possible to do research
+  if a researcher wants to build everything from nothing.
 
 - "I have to read every paper before I start."  This is not
-  possiel. Instead, a beginning researcher should identify and read
+  possible. Instead, a beginning researcher should identify and read
   important papers. After reading these papers, the researcher should
-  follow a few papers closely. Reproduce the results in these papers
+  follow a few papers closely. Reproducing the results in these papers
   will be a better way than reading many more papers.
 
 - "If it does not work perfectly, it is not worth doing." Research

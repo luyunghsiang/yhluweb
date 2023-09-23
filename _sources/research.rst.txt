@@ -20,6 +20,8 @@ and analyze large amounts of data from distributed sources.
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | AI Institute: Cybersecurity     | National Science Foundation | Agent-Based Cyber Threat Intelligence and Operation         |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
+| AI for Future Musicians         | National Science Foundation | AI-Based Software to help music performers                  |
++---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Trust of Machine Learning Code  | Cisco                       | Evaluate Trustworthiness of Pre-Trained Neural Networks     |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Efficient Computer Vision       | Cisco                       | Detect and Eliminate Redundant Data on Edge Devices         |
@@ -34,10 +36,11 @@ Research Funding
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- 2023, Co-PI, 2326198, "`Agent-Based Cyber Threat Intelligence and Operation <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326198>`_"
+
 - 2023, Senior Personnel, "`AI Institute for Agent-Based Cyber Threat
   Intelligence and Operation (ACTION) <https://action.ucsb.edu>`_"
   
-
 - 2021, PI, 2120430, "`CNS Collaborative Research: CAR:NEW: Research
   Infrastructure for Real-Time Computer Vision and Decision Making via
   Mobile Robots <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2120430>`_"
