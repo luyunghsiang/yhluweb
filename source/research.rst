@@ -153,8 +153,7 @@ HP
 Current Graduate Students
 -------------------------
 
-
-- Caleb Tung. Topic: Efficient Computer Vision using Contextual Information
+- Jiwoo Kim. Topic: Autonomous UAV Navigation
 
 - Nick Eliopoulos. Topic: Efficient Computer Vision using Transformers
 
@@ -165,12 +164,16 @@ Current Graduate Students
 - Gowri Ramshankar. Topic: Trust of Machine Learning Software
 
 
-
 Past Graduate Students
 ----------------------
 
 - Ph.D.
 
+  * 2023 `Caleb Tung <https://calebtung.com/>`_, Ph.D. Thesis:
+    "`Efficient and Consistent Convolutional Neural Networks for
+    Computer Vision
+    <https://hammer.purdue.edu/articles/thesis/Efficient_and_Consistent_Convolutional_Neural_Networks_for_Computer_Vision/23750592>`_"
+  
   * 2022 `Abhinav Goel <https://abhinav-goel.com/>`_,
     Ph.D., Thesis: "`Tree-Based Unidirectional Neural Networks for Low-Power Computer Vision on Embedded Devices
     <https://hammer.purdue.edu/articles/thesis/TREE-BASED_UNIDIRECTIONAL_NEURAL_NETWORKS_FOR_LOW-POWER_COMPUTER_VISION_ON_EMBEDDED_DEVICES/19666107>`_"
