@@ -26,19 +26,25 @@ business plan competitions; two teams of students started technology
 companies and raised more than $1.5M.
 
 
-|2022LPCVbook| |2015ICPbook|
+|2024ICP2book| |2022LPCVbook| |2015ICPbook|
 
+
+.. |2024PCP2book| image:: https://images.routledge.com/common/jackets/crclarge/978103218/9781032189819.jpg
+   :width: 28%
+   :class: with-border	    
 
 .. |2022LPCVbook| image:: https://images.routledge.com/common/jackets/amazon/978036774/9780367744700.jpg 
-   :width: 42%
+   :width: 28%
    :class: with-border
 
 .. |2015ICPbook| image:: https://images.routledge.com/common/jackets/amazon/978149871/9781498711630.jpg
-   :width: 42%
+   :width: 28%
    :class: with-border
 	   
 Books
 -----
+
+- Yung-Hsiang Lu and George K. Thiruvathukal "`Intermediate C Programming (2nd Edition) <https://www.routledge.com/Intermediate-C-Programming/Lu-Thiruvathukal/p/book/9781032189819>`_", CRC Press, ISBN 9781032189819, 480 Pages 14 Color & 40 B/W Illustrations, To be published February 8, 2024 
 
 - (Editors) George K. Thiruvathukal, Yung-Hsiang Lu, Jaeyoun Kim, Yiran Chen, Bo Chen, "`Low-Power Computer Vision Improve the  Efficiency of Artificial Intelligence   <https://www.routledge.com/Low-Power-Computer-Vision-Improve-the-Efficiency-of-Artificial-Intelligence/Thiruvathukal-Lu-Kim-Chen-Chen/p/book/9780367744700>`_",  Chapman and Hall/CRC, ISBN 978-0-3677-4470-0, 438 Pages 62 Color and  39 B/W Illustrations, Published February 23, 2022.
 
