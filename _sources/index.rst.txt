@@ -29,7 +29,7 @@ companies and raised more than $1.5M.
 |2024ICP2book| |2022LPCVbook| |2015ICPbook|
 
 
-.. |2024PCP2book| image:: https://images.routledge.com/common/jackets/crclarge/978103218/9781032189819.jpg
+.. |2024ICP2book| image:: https://images.routledge.com/common/jackets/crclarge/978103218/9781032189819.jpg
    :width: 28%
    :class: with-border	    
 
