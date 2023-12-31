@@ -320,6 +320,16 @@ Journal Papers
 Conference Papers
 -----------------
 
+2024
+^^^^
+
+- Caleb Tung, Nicholas Eliopoulos, Purvish Jajal, Gowri Ramshankar,
+  Chen-Yun Yang, Nicholas Synovic, Xuecen Zhang, Vipin Chaudhary,
+  George K. Thiruvathukal, Yung-Hsiang Lu, "An automated approach for
+  improving the inference latency and energy efficiency of pretrained
+  CNNs by removing irrelevant pixels with focused convolutions", Asia
+  and South Pacific Design Automation Conference 2024.
+
 2023
 ^^^^
 

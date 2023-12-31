@@ -139,7 +139,8 @@ some common mistakes:
   everything, your work does not exist without documentation.
 
 - "I do not need to document or explain because nobody cares what I
-  do." If nobody cares, this topic is not worth doing.
+  do." If nobody cares, this topic is not worth doing. Why do you
+  waste your time?
 
 - "I want to work alone."  If a beginning researchers works alone, it
   is very difficult to make progress. It is better to work in a team
@@ -162,11 +163,11 @@ some common mistakes:
 - "Their topics are easier than mine." Many beginning researchers want
   to change topics often because they always feel others' topics are
   easier. After they change topics, they find their topics too
-  difficult and want to change.
+  difficult and want to change again.
 
 - "I need to do everything myself, from the very beginning."  Some
   beginning researchers think they must do everything from the very
-  beginning. They want to rebuild things; they want to rewrite
+  beginning. They want to rebuild everything; they want to rewrite
   software; they want to "start from scratch".
 
 - "People should know why my project is important and feel equally
@@ -174,14 +175,11 @@ some common mistakes:
   explain the importance of their topics.  These researchers jump
   directly to technical details.
 
-- "My work is not important." Some beginning researchers think their
-  projects are unimportant. The questions is why these beginning
-  researchers spend time on these projects.
-
 - "Give me money first. Then, I will consider to talk to you." Some
-  beginning researchers consider to discuss research only after
-  receiving financial support.  This is not a good strategy to
-  succeed.
+  beginning researchers consider research only after receiving
+  financial support. The problem is that professors do not know what
+  these students want to do and cannot provide financial support
+  immediately.
 
 - "A professor teaches for three hours a week and does nothing else."
   Some beginning researchers do not understand what professors
@@ -191,10 +189,10 @@ some common mistakes:
   students on research projects about papers, presentations, oral
   exams, plans of studies; (c) teach in lectures, meet teaching
   assistants, meet students in office hours, give career advice,
-  design future course; (d) write research proposals; (e) meet project
-  sponsors; (f) review research papers and proposals.  Dr. Lu also
-  attends conferences to present research discoveries and to learn the
-  discoveries by other researchers.
+  design future courses; (d) write research proposals; (e) meet
+  project sponsors; (f) review research papers and proposals.  Dr. Lu
+  also attends conferences to present research discoveries and to
+  learn the discoveries by other researchers.
 
 For Graduate Students
 ^^^^^^^^^^^^^^^^^^^^^
