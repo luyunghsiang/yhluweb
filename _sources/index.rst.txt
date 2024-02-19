@@ -44,7 +44,13 @@ companies and raised more than $1.5M.
 Books
 -----
 
-- Yung-Hsiang Lu and George K. Thiruvathukal "`Intermediate C Programming (2nd Edition) <https://www.routledge.com/Intermediate-C-Programming/Lu-Thiruvathukal/p/book/9781032189819>`_", CRC Press, ISBN 978-1-0321-8981-9, 480 Pages 14 Color & 40 B/W Illustrations, To be published February 8, 2024. 
+- Yung-Hsiang Lu and George K. Thiruvathukal "`Intermediate C
+Programming (2nd Edition)
+<https://www.routledge.com/Intermediate-C-Programming/Lu-Thiruvathukal/p/book/9781032189819>`_",
+CRC Press, ISBN 978-1-0321-8981-9, 480 Pages 14 Color & 40 B/W
+Illustrations, To be published February 8, 2024.  "`Slides for the
+chapters <https://figshare.com/articles/presentation/slides/25202462>`_".
+"`Figures in the book <
 
 - (Editors) George K. Thiruvathukal, Yung-Hsiang Lu, Jaeyoun Kim, Yiran Chen, Bo Chen, "`Low-Power Computer Vision Improve the  Efficiency of Artificial Intelligence   <https://www.routledge.com/Low-Power-Computer-Vision-Improve-the-Efficiency-of-Artificial-Intelligence/Thiruvathukal-Lu-Kim-Chen-Chen/p/book/9780367744700>`_",  Chapman and Hall/CRC, ISBN 978-0-3677-4470-0, 438 Pages 62 Color and  39 B/W Illustrations, Published February 23, 2022.
 
