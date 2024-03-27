@@ -323,6 +323,11 @@ Conference Papers
 2024
 ^^^^
 
+- Brian Ng, Samantha Sudhoff, Haichang Li, Josh Kamphuis, Tim
+  Nadolsky, Yingjie Chen, Kristen Yun, Yung-Hsiang Lu, "Visualize
+  Music Using Generative Arts", IEEE Conference on Artificial
+  Intelligence 2024.
+
 - Caleb Tung, Nicholas Eliopoulos, Purvish Jajal, Gowri Ramshankar,
   Chen-Yun Yang, Nicholas Synovic, Xuecen Zhang, Vipin Chaudhary,
   George K. Thiruvathukal, Yung-Hsiang Lu, "An automated approach for
