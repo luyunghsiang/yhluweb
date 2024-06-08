@@ -322,6 +322,12 @@ Conference Papers
 
 2024
 ^^^^
+- Cheng-Yun Yang, Gowri Ramshankar, Sudarshan Nambiar, Evan Miller,Xun
+  Zhang, Nicholas Eliopoulos, Purvish Jajal, Dave Jing Tian, Shuo-Han
+  Chen, Chiy-Ferng Perng, Yung-Hsiang Lu, "Securing Deep Neural
+  Networks on Edge from Membership Inference Attacks Using Trusted
+  Execution Environments" , IEEE/ACM International Symposium on Low
+  Power Electronics and Design 2024.
 
 - Brian Ng, Samantha Sudhoff, Haichang Li, Josh Kamphuis, Tim
   Nadolsky, Yingjie Chen, Kristen Yun, Yung-Hsiang Lu, "Visualize
