@@ -79,6 +79,7 @@ Contact Information
    education
    prospective
    research
+   alumni
    publications
    patents
    teach
