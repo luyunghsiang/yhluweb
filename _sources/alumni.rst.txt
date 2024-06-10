@@ -78,7 +78,14 @@ Past Graduate Students
 
 - MS
 
-  * 2024 - Gowri Ramshankar. Topic: Trust of Machine Learning Software
+  * 2024 `Nikita Ravi
+    <https://www.linkedin.com/in/nikitaravi0519/>`_. M.S., Thesis:
+    Reproducible Deep Learning Software for Efficient Computer Vision
+  
+  * 2024 `Gowri Ramshankar
+    <https://www.linkedin.com/in/gowri-ramshankar-6ba14b169/>`_. M.S.,
+    Thesis: Enhancing privacy of training data of Deep Neural Networks on
+    edge using Trusted Execution Environments
 
   * 2022 `Xiao Hu <https://www.linkedin.com/in/xiao-hu-purdue/>`_.
     M.S., Thesis: "`Efficient Multi-Object Tracking on Unmanned Aerial
