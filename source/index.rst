@@ -4,7 +4,7 @@ Yung-Hsiang Lu
 ==============
 
 
-.. image:: https://engineering.purdue.edu/HELPS/Images/20201129LuPurdue.jpg
+.. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image277153
    :width: 35%
    :alt: Yung-Hsiang Lu
    :align: right
@@ -25,6 +25,14 @@ students in classrooms.  He has advised multiple student teams winning
 business plan competitions; two teams of students started technology
 companies and raised more than $1.5M.
 
+News
+----
+
+- "`Annual Review of AI Institute for Agent-Based Cyber Threat Intelligence and Operation <https://action.ucsb.edu/2024-action-annual-review-and-knowledge-expo>`_", June 20-21, 2024, UC Santa Barbara.
+
+- "`Visualize Music Using Generative Arts <https://ieeecai.org/2024/day-two-poster-session/>`_", 2024 IEEE Conference on Artificial Intelligence.
+
+- "`Defending Membership Inference Attack on Edge using Trusted Execution Environments <https://61dac.conference-program.com/presentation/?id=RESEARCH1873&sess=sess237>`_", 2024 Design Automation Conference.
 
 |2024ICP2book| |2022LPCVbook| |2015ICPbook|
 
