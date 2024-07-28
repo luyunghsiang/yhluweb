@@ -74,6 +74,9 @@ some common mistakes:
   created new knowledge and thus they have not accomplished anything
   yet.
 
+- "I want to look around." Research needs real participation. Looking
+  around cannot accomplish anything.
+
 - "If I understand, my research is done."  Researchers need to explain
   their discoveries in writing and speaking. If the new knowledge is
   not disseminated, research is incomplete.
@@ -183,7 +186,7 @@ some common mistakes:
 
 - "A professor teaches for three hours a week and does nothing else."
   Some beginning researchers do not understand what professors
-  do. They do understand professors' responsibilities.  This is what
+  do. They do not understand professors' responsibilities.  This is what
   Dr. Yung-Hsiang Lu's activities in a typical week: (a) meet other
   professors about research projects, collaborations, papers; (b) meet
   students on research projects about papers, presentations, oral
