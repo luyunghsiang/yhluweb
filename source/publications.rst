@@ -330,16 +330,20 @@ Conference Papers
   Power Electronics and Design 2024.
 
 - Brian Ng, Samantha Sudhoff, Haichang Li, Josh Kamphuis, Tim
-  Nadolsky, Yingjie Chen, Kristen Yun, Yung-Hsiang Lu, "Visualize
-  Music Using Generative Arts", IEEE Conference on Artificial
-  Intelligence 2024.
+  Nadolsky, Yingjie Chen, Kristen Yun, Yung-Hsiang Lu, "`Visualize
+  Music Using Generative Arts
+  <https://ieeexplore.ieee.org/document/10605337>`_", IEEE Conference
+  on Artificial Intelligence 2024. DOI:
+  https://10.1109/CAI59869.2024.00273
 
 - Caleb Tung, Nicholas Eliopoulos, Purvish Jajal, Gowri Ramshankar,
   Chen-Yun Yang, Nicholas Synovic, Xuecen Zhang, Vipin Chaudhary,
-  George K. Thiruvathukal, Yung-Hsiang Lu, "An automated approach for
+  George K. Thiruvathukal, Yung-Hsiang Lu, "`An automated approach for
   improving the inference latency and energy efficiency of pretrained
-  CNNs by removing irrelevant pixels with focused convolutions", Asia
-  and South Pacific Design Automation Conference 2024.
+  CNNs by removing irrelevant pixels with focused convolutions
+  <https://ieeexplore.ieee.org/document/10473884>`_", Asia and South
+  Pacific Design Automation Conference 2024. DOI:
+  http://10.1109/ASP-DAC58780.2024.10473884
 
 2023
 ^^^^
