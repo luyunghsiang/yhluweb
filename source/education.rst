@@ -44,7 +44,7 @@ Awards and Recognition
 
 |IEEEfellow| |ACMDistinguished|
 
-|DistinguishedVisitor| 
+|DistinguishedVisitor| | |
 
 
 .. |ACMDistinguished| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/acmdistinguishedscientist.png
