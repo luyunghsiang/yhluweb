@@ -48,7 +48,7 @@ Awards and Recognition
 .. |ACMDistinguished| image:: https://engineering.purdue.edu/HELPS/Images/acmdistinguishedscientist.png
    :width: 45%
 
-.. |IEEEfellow| image:: https://engineering.purdue.edu/HELPS/Images/IEEEFellowCertificate.jpg
+.. |IEEEfellow| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/IEEEFellowCertificate.jpg
    :width: 45%
 
 - 2022, `Leadership in Open Access Award
