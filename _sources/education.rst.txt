@@ -44,6 +44,8 @@ Awards and Recognition
 
 |IEEEfellow| |ACMDistinguished|
 
+|DistinguishedVisitor| 
+
 
 .. |ACMDistinguished| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/acmdistinguishedscientist.png
    :width: 45%
@@ -51,7 +53,7 @@ Awards and Recognition
 .. |IEEEfellow| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/IEEEFellowCertificate.jpg
    :width: 45%
 
-.. |IEEEfellow| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/distinguishedvisitor.png
+.. |DistinguishedVisitor| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/distinguishedvisitor.png
    :width: 45%
 
       
