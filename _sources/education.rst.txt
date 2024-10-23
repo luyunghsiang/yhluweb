@@ -51,6 +51,12 @@ Awards and Recognition
 .. |IEEEfellow| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/IEEEFellowCertificate.jpg
    :width: 45%
 
+.. |IEEEfellow| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/distinguishedvisitor.png
+   :width: 45%
+
+      
+- 2023, `Distinguished Visitor <https://www.computer.org/distinguished-visitors-program>`_  of the Computer Society
+	   
 - 2022, `Leadership in Open Access Award
   <https://blogs.lib.purdue.edu/news/2022/11/01/dr-harry-denny-and-dr-yung-hsiang-lu-receive-the-2022-leadership-in-open-access-award/>`_
   from  Purdue Libraries and School of Information Studies
