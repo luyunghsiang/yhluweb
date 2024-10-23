@@ -24,10 +24,10 @@ Education
 
 |StanfordPhD| |ThesisSignature|
 
-.. |StanfordPhD| image:: https://engineering.purdue.edu/HELPS/Images/StanfordPhD.jpg
+.. |StanfordPhD| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/StanfordPhD.jpg
    :width: 45%
 
-.. |ThesisSignature| image:: https://engineering.purdue.edu/HELPS/Images/ThesisSignatures.jpg
+.. |ThesisSignature| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/ThesisSignatures.jpg
    :width: 45%
 
 - 2002, Ph.D.,  Electrical Engineering, Stanford University, California, USA
@@ -45,7 +45,7 @@ Awards and Recognition
 |IEEEfellow| |ACMDistinguished|
 
 
-.. |ACMDistinguished| image:: https://engineering.purdue.edu/HELPS/Images/acmdistinguishedscientist.png
+.. |ACMDistinguished| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/acmdistinguishedscientist.png
    :width: 45%
 
 .. |IEEEfellow| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/IEEEFellowCertificate.jpg
