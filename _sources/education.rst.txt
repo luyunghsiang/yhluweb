@@ -44,7 +44,7 @@ Awards and Recognition
 
 |IEEEfellow| |ACMDistinguished|
 
-|DistinguishedVisitor| | universityscholar|
+|DistinguishedVisitor| |universityscholar|
 
 
 .. |ACMDistinguished| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/acmdistinguishedscientist.png
@@ -58,7 +58,7 @@ Awards and Recognition
 
 .. |universityscholar| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/universityscholar.jpg
    :width: 45%
-      
+	         
 - 2023, `Distinguished Visitor <https://www.computer.org/distinguished-visitors-program>`_  of the Computer Society
 	   
 - 2022, `Leadership in Open Access Award
