@@ -44,7 +44,7 @@ Awards and Recognition
 
 |IEEEfellow| |ACMDistinguished|
 
-|DistinguishedVisitor| | |
+|DistinguishedVisitor| | universityscholar|
 
 
 .. |ACMDistinguished| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/acmdistinguishedscientist.png
@@ -56,6 +56,8 @@ Awards and Recognition
 .. |DistinguishedVisitor| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/distinguishedvisitor.png
    :width: 45%
 
+.. | universityscholar|  image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/universityscholar.jpg
+   :width: 45%
       
 - 2023, `Distinguished Visitor <https://www.computer.org/distinguished-visitors-program>`_  of the Computer Society
 	   
