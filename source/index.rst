@@ -28,6 +28,13 @@ companies and raised more than $1.5M.
 News
 ----
 
+- "Pruning One More Token is Enough: Leveraging Latency-Workload
+  Non-Linearities for Vision Transformers on the Edge", IEEE/CVF
+  Winter Conference on Applications of Computer Vision 2025.
+
+- "Token Turing Machines are Efficient Vision Models", IEEE/CVF Winter
+  Conference on Applications of Computer Vision 2025
+
 - "`Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343596">`_", NSF EAGER 2343596.
 
 - "`Annual Review of AI Institute for Agent-Based Cyber Threat Intelligence and Operation <https://action.ucsb.edu/2024-action-annual-review-and-knowledge-expo>`_", June 20-21, 2024, UC Santa Barbara.

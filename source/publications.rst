@@ -322,6 +322,18 @@ Conference Papers
 
 2024
 ^^^^
+
+- Nicholas Eliopoulos, Purvish Jajal, James Davis, Gaowen Liu, George
+  Thiruvathukal, Yung-Hsiang Lu, "Pruning One More Token is Enough:
+  Leveraging Latency-Workload Non-Linearities for Vision Transformers on
+  the Edge", IEEE/CVF Winter Conference on Applications of Computer
+  Vision 2025
+
+- Purvish Jajal, Nicholas Eliopoulos, Benjamin Chou, George
+  Thiruvathukal, James Davis, Yung-Hsiang Lu, "Token Turing Machines are
+  Efficient Vision Models", IEEE/CVF Winter Conference on Applications
+  of Computer Vision 2025
+
 - Cheng-Yun Yang, Gowri Ramshankar, Sudarshan Nambiar, Evan Miller,Xun
   Zhang, Nicholas Eliopoulos, Purvish Jajal, Dave Jing Tian, Shuo-Han
   Chen, Chiy-Ferng Perng, Yung-Hsiang Lu, "Securing Deep Neural
