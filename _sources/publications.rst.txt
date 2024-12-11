@@ -320,8 +320,14 @@ Journal Papers
 Conference Papers
 -----------------
 
-2024
+2025
 ^^^^
+
+- Benjamin Shiue-Hal Chou, Purvish Jajal, Nicholas John Eliopoulos,
+  Tim Nadolsky, Cheng-Yun Yang, Nikita Ravi, James C. Davis, Kristen
+  Yeon-Ji Yun, Yung-Hsiang Lu, "Detecting Music Performance Errors
+  with Transformers", Annual Conference on Artificial Intelligence
+  2025
 
 - Nicholas Eliopoulos, Purvish Jajal, James Davis, Gaowen Liu, George
   Thiruvathukal, Yung-Hsiang Lu, "Pruning One More Token is Enough:
@@ -334,6 +340,10 @@ Conference Papers
   Efficient Vision Models", IEEE/CVF Winter Conference on Applications
   of Computer Vision 2025
 
+2024
+^^^^
+
+  
 - Cheng-Yun Yang, Gowri Ramshankar, Sudarshan Nambiar, Evan Miller,Xun
   Zhang, Nicholas Eliopoulos, Purvish Jajal, Dave Jing Tian, Shuo-Han
   Chen, Chiy-Ferng Perng, Yung-Hsiang Lu, "Securing Deep Neural
@@ -342,7 +352,7 @@ Conference Papers
   Power Electronics and Design 2024.
 
 - Brian Ng, Samantha Sudhoff, Haichang Li, Josh Kamphuis, Tim
-  Nadolsky, Yingjie Chen, Kristen Yun, Yung-Hsiang Lu, "`Visualize
+  Nadolsky, Yingjie Chen, Kristen Yeon-Ji Yun, Yung-Hsiang Lu, "`Visualize
   Music Using Generative Arts
   <https://ieeexplore.ieee.org/document/10605337>`_", IEEE Conference
   on Artificial Intelligence 2024. DOI:
