@@ -28,6 +28,9 @@ companies and raised more than $1.5M.
 News
 ----
 
+- "Detecting Music Performance Errors with Transformers", Annual
+  Conference on Artificial Intelligence 2025
+
 - "Pruning One More Token is Enough: Leveraging Latency-Workload
   Non-Linearities for Vision Transformers on the Edge", IEEE/CVF
   Winter Conference on Applications of Computer Vision 2025.
