@@ -28,7 +28,7 @@ companies and raised more than $1.5M.
 News
 ----
 
-- "Detecting Music Performance Errors with Transformers", Annual
+- "`Detecting Music Performance Errors with Transformers <https://arxiv.org/abs/2501.02030>`_", Annual
   Conference on Artificial Intelligence 2025
 
 - "Pruning One More Token is Enough: Leveraging Latency-Workload

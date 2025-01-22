@@ -238,7 +238,7 @@ before you send an email. Doing so can save your time.
   funding and research ability. Financial support will be discussed
   after there is mutual interest doing research together.
 
-- Please fill `this form <https://docs.google.com/forms/d/e/1FAIpQLSdXLsPz1JUVo8_b2Jb2WuVCBbpWhUcgLjXC_bEW3CPOhHj-4w/viewform?usp=sf_link>`_. Thank you.
+- Please fill `this form <https://docs.google.com/forms/d/e/1FAIpQLSdXLsPz1JUVo8_b2Jb2WuVCBbpWhUcgLjXC_bEW3CPOhHj-4w/viewform?usp=sf_link>`_. Thank you. 
 
 
 For Undergraduate Students
