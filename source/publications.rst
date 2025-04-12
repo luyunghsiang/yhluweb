@@ -343,6 +343,11 @@ Conference Papers
 2024
 ^^^^
 
+- Cheng-Yun Yang, Gowri Ramshankar, Sudarshan Nambiar, Evan Miller,
+  Xun Zhang, Nicholas Eliopoulos, Purvish Jajal, Xiaolong Wu, Dave
+  Tian, Shuo-Han Chen, Chiy-Ferng Perng, Yung-Hsiang Lu, ``Defending
+  Membership Inference Attack on Edge using Trusted Execution
+  Environments'', Design Automation Conference 2024.
   
 - Cheng-Yun Yang, Gowri Ramshankar, Sudarshan Nambiar, Evan Miller,Xun
   Zhang, Nicholas Eliopoulos, Purvish Jajal, Dave Jing Tian, Shuo-Han
