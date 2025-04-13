@@ -28,12 +28,14 @@ companies and raised more than $1.5M.
 News
 ----
 
-- "`Detecting Music Performance Errors with Transformers <https://arxiv.org/abs/2501.02030>`_", Annual
-  Conference on Artificial Intelligence 2025
+- "`2025 Low-Power Computer Vision Challenge <https://lpcv.ai/>`_" and  "`Workshop on Efficient Deep Learning for Computer Vision Workshop at  CVPR 2025 <https://lpcv.ai/2025LPCVC/cvpr-workshop>`_".
 
-- "Pruning One More Token is Enough: Leveraging Latency-Workload
-  Non-Linearities for Vision Transformers on the Edge", IEEE/CVF
-  Winter Conference on Applications of Computer Vision 2025.
+
+- "NSF PI Meeting  <https://circ-mri2025.oit.ncsu.edu/day-1-highlighted-circ-ccri-projects/>`_",  March 10-11, 2025 at NC State University.
+
+- "`Detecting Music Performance Errors with Transformers  <https://arxiv.org/abs/2501.02030>`_", Annual Conference on  Artificial Intelligence 2025
+
+- "`Pruning One More Token is Enough: Leveraging Latency-Workload  Non-Linearities for Vision Transformers on the Edge  <https://arxiv.org/abs/2407.05941>`_", IEEE/CVF Winter Conference on  Applications of Computer Vision 2025.
 
 - "Token Turing Machines are Efficient Vision Models", IEEE/CVF Winter
   Conference on Applications of Computer Vision 2025
