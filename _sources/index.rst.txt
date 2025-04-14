@@ -19,11 +19,13 @@ the inaugural director of Purdue's John Martinson Engineering
 Entrepreneurial Center (2020-2022). In 2019, he received Outstanding
 VIP-Based Entrepreneur Award from the VIP (Vertically Integrated
 Projects) Consortium.  His research areas include computer vision,
-embedded systems, cloud and mobile computing.  Dr. Lu has advised 400
-undergraduate students in research projects and taught more than 5,000
-students in classrooms.  He has advised multiple student teams winning
-business plan competitions; two teams of students started technology
-companies and raised more than $1.5M.
+embedded systems, cloud and mobile computing.
+
+<!-- Dr. Lu has advised 400 undergraduate students in research
+projects and taught more than 5,000 students in classrooms.  He has
+advised multiple student teams winning business plan competitions; two
+teams of students started technology companies and raised more than
+$1.5M. -->
 
 News
 ----
