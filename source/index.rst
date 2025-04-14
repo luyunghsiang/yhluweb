@@ -21,14 +21,12 @@ VIP-Based Entrepreneur Award from the VIP (Vertically Integrated
 Projects) Consortium.  His research areas include computer vision,
 embedded systems, cloud and mobile computing.
 
-<!-- Dr. Lu has advised 400 undergraduate students in research
-projects and taught more than 5,000 students in classrooms.  He has
-advised multiple student teams winning business plan competitions; two
-teams of students started technology companies and raised more than
-$1.5M. -->
-
 News
 ----
+
+- "`2025/06/30 Artificial Intelligence for Music
+  <https://ai4musicians.org/2025icme.html>`_", Workshop at 2025 IEEE
+  International Conference on Multimedia & Expo (ICME)
 
 - "`2025 Low-Power Computer Vision Challenge <https://lpcv.ai/>`_" and  "`Workshop on Efficient Deep Learning for Computer Vision Workshop at  CVPR 2025 <https://lpcv.ai/2025LPCVC/cvpr-workshop>`_".
 
@@ -42,12 +40,6 @@ News
   Conference on Applications of Computer Vision 2025
 
 - "`Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343596">`_", NSF EAGER 2343596.
-
-- "`Annual Review of AI Institute for Agent-Based Cyber Threat Intelligence and Operation <https://action.ucsb.edu/2024-action-annual-review-and-knowledge-expo>`_", June 20-21, 2024, UC Santa Barbara.
-
-- "`Visualize Music Using Generative Arts <https://ieeecai.org/2024/day-two-poster-session/>`_", 2024 IEEE Conference on Artificial Intelligence.
-
-- "`Defending Membership Inference Attack on Edge using Trusted Execution Environments <https://61dac.conference-program.com/presentation/?id=RESEARCH1873&sess=sess237>`_", 2024 Design Automation Conference.
 
 |2024ICP2book| |2022LPCVbook| |2015ICPbook|
 
