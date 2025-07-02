@@ -24,6 +24,8 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
+- "`Cyberinfrastructure for Multi-Stream Architectures Applied to Computer Vision: Efficiency via Co-Design of Network Architectures and Framework Operators <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2504445>`_", NSF OAC 2504445.
+
 - "`2025/06/30 Artificial Intelligence for Music
   <https://ai4musicians.org/2025icme.html>`_", Workshop at 2025 IEEE
   International Conference on Multimedia & Expo (ICME)
