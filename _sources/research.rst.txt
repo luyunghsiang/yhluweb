@@ -30,9 +30,9 @@ Research Funding
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- 2025, PI,  2504445  "`Cyberinfrastructure for Multi-Stream Architectures Applied to Computer Vision: Efficiency via Co-Design of Network Architectures and Framework Operators <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2504445>`_",
+- 2025, PI,  2504445  "`Cyberinfrastructure for Multi-Stream Architectures Applied to Computer Vision: Efficiency via Co-Design of Network Architectures and Framework Operators <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2504445>`_"
 
-- 2024, Co-PI, 2343596, "`Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343596">`_",
+- 2024, Co-PI, 2343596, "`Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343596>`_"
 
 - 2023, Co-PI, 2326198, "`Artificial Intelligence Technology for Future Music Performers <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326198>`_"
 
