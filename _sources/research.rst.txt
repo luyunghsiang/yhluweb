@@ -14,17 +14,11 @@ and analyze large amounts of data from distributed sources.
 +=================================+=============================+=============================================================+
 | Computer Vision at Edge         | National Science Foundation | Create efficient computer vision for edge device s          |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Analyze Drone Video             | National Science Foundation | Create video datasets captured by drone                     |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Computer Vision at Edge Devices | National Science Foundation | Create Cyber Infrastructure for Edge Computing              |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | AI Institute: Cybersecurity     | National Science Foundation | Agent-Based Cyber Threat Intelligence and Operation         |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | AI for Future Musicians         | National Science Foundation | AI-Based Software to help music performers                  |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Trust of Machine Learning Code  | Cisco                       | Evaluate Trustworthiness of Pre-Trained Neural Networks     |
-+---------------------------------+-----------------------------+-------------------------------------------------------------+
-| Efficient Computer Vision       | Cisco                       | Detect and Eliminate Redundant Data on Edge Devices         |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
 | Trusted Machine Learning        | Wistron                     | Execute Machine Learning Software in Trusted Environment    |
 +---------------------------------+-----------------------------+-------------------------------------------------------------+
@@ -35,6 +29,10 @@ Research Funding
 
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 2025, PI,  2504445  "`Cyberinfrastructure for Multi-Stream Architectures Applied to Computer Vision: Efficiency via Co-Design of Network Architectures and Framework Operators <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2504445>`_",
+
+- 2024, Co-PI, 2343596, "`Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343596">`_",
 
 - 2023, Co-PI, 2326198, "`Artificial Intelligence Technology for Future Music Performers <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326198>`_"
 
@@ -102,6 +100,11 @@ National Science Foundation
   Operating Systems
 
 - 2003, Co-PI, IIS: Distributed Energy-Efficient Mobile Robots
+
+Qualcomm
+^^^^^^^
+
+- 2024, Qualcomm Faculty Research Award, ``Efficient Computer Vision"
 
 Wistron
 ^^^^^^^
