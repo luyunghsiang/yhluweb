@@ -32,7 +32,7 @@ News
 
 - "`2025 Low-Power Computer Vision Challenge <https://lpcv.ai/>`_" and  "`Workshop on Efficient Deep Learning for Computer Vision Workshop at  CVPR 2025 <https://lpcv.ai/2025LPCVC/cvpr-workshop>`_".
 
-<!--- - "`NSF PI Meeting  <https://circ-mri2025.oit.ncsu.edu/day-1-highlighted-circ-ccri-projects/>`_",  March 10-11, 2025 at NC State University. -->
+<!-- - "`NSF PI Meeting  <https://circ-mri2025.oit.ncsu.edu/day-1-highlighted-circ-ccri-projects/>`_",  March 10-11, 2025 at NC State University. -->
 
 - "`Detecting Music Performance Errors with Transformers  <https://arxiv.org/abs/2501.02030>`_", Annual Conference on  Artificial Intelligence 2025
 
@@ -41,7 +41,7 @@ News
 - "Token Turing Machines are Efficient Vision Models", IEEE/CVF Winter
   Conference on Applications of Computer Vision 2025
 
-<!--- - "`Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343596">`_", NSF EAGER 2343596. --->
+<!-- - "`Exploring The Risks and Rewards of Large Language Models in Enabling Energy-Efficient Data Center Software Infrastructure <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2343596">`_", NSF EAGER 2343596. -->
 
 |2024ICP2book| |2022LPCVbook| |2015ICPbook|
 
