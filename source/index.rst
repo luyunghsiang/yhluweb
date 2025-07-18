@@ -36,7 +36,7 @@ News
 
 - "`Pruning One More Token is Enough: Leveraging Latency-Workload  Non-Linearities for Vision Transformers on the Edge  <https://arxiv.org/abs/2407.05941>`_", IEEE/CVF Winter Conference on  Applications of Computer Vision 2025.
 
-- "Token Turing Machines are Efficient Vision Models", IEEE/CVF Winter
+- "`Token Turing Machines are Efficient Vision Models <https://openaccess.thecvf.com/content/WACV2025/html/Jajal_Token_Turing_Machines_are_Efficient_Vision_Models_WACV_2025_paper.html>`_", IEEE/CVF Winter
   Conference on Applications of Computer Vision 2025
 
 
