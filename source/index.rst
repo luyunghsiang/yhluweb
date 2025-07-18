@@ -34,7 +34,7 @@ News
 
 - "`Detecting Music Performance Errors with Transformers  <https://arxiv.org/abs/2501.02030>`_", Annual Conference on  Artificial Intelligence 2025
 
-- "`Pruning One More Token is Enough: Leveraging Latency-Workload  Non-Linearities for Vision Transformers on the Edge  <https://arxiv.org/abs/2407.05941>`_", IEEE/CVF Winter Conference on  Applications of Computer Vision 2025.
+- "`Pruning One More Token is Enough: Leveraging Latency-Workload  Non-Linearities for Vision Transformers on the Edge  <https://openaccess.thecvf.com/content/WACV2025/papers/Eliopoulos_Pruning_One_More_Token_is_Enough_Leveraging_Latency-Workload_Non-Linearities_for_WACV_2025_paper.pdf>`_", IEEE/CVF Winter Conference on  Applications of Computer Vision 2025.
 
 - "`Token Turing Machines are Efficient Vision Models <https://openaccess.thecvf.com/content/WACV2025/html/Jajal_Token_Turing_Machines_are_Efficient_Vision_Models_WACV_2025_paper.html>`_", IEEE/CVF Winter
   Conference on Applications of Computer Vision 2025
