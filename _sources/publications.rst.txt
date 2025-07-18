@@ -325,20 +325,23 @@ Conference Papers
 
 - Benjamin Shiue-Hal Chou, Purvish Jajal, Nicholas John Eliopoulos,
   Tim Nadolsky, Cheng-Yun Yang, Nikita Ravi, James C. Davis, Kristen
-  Yeon-Ji Yun, Yung-Hsiang Lu, "Detecting Music Performance Errors
-  with Transformers", Annual Conference on Artificial Intelligence
-  2025
+  Yeon-Ji Yun, Yung-Hsiang Lu, "`Detecting Music Performance Errors
+  with Transformers
+  <https://ojs.aaai.org/index.php/AAAI/article/view/34539/36694>`_"
+  Annual Conference on Artificial Intelligence 2025
 
 - Nicholas Eliopoulos, Purvish Jajal, James Davis, Gaowen Liu, George
-  Thiruvathukal, Yung-Hsiang Lu, "Pruning One More Token is Enough:
-  Leveraging Latency-Workload Non-Linearities for Vision Transformers on
-  the Edge", IEEE/CVF Winter Conference on Applications of Computer
-  Vision 2025
+  Thiruvathukal, Yung-Hsiang Lu, "`Pruning One More Token is Enough:
+  Leveraging Latency-Workload Non-Linearities for Vision Transformers
+  on the Edge
+  <https://openaccess.thecvf.com/content/WACV2025/papers/Eliopoulos_Pruning_One_More_Token_is_Enough_Leveraging_Latency-Workload_Non-Linearities_for_WACV_2025_paper.pdf>`_",
+  IEEE/CVF Winter Conference on Applications of Computer Vision 2025
 
 - Purvish Jajal, Nicholas Eliopoulos, Benjamin Chou, George
-  Thiruvathukal, James Davis, Yung-Hsiang Lu, "Token Turing Machines are
-  Efficient Vision Models", IEEE/CVF Winter Conference on Applications
-  of Computer Vision 2025
+  Thiruvathukal, James Davis, Yung-Hsiang Lu, "`Token Turing Machines
+  are Efficient Vision Models
+  <https://openaccess.thecvf.com/content/WACV2025/html/Jajal_Token_Turing_Machines_are_Efficient_Vision_Models_WACV_2025_paper.html>`_",
+  IEEE/CVF Winter Conference on Applications of Computer Vision 2025
 
 2024
 ^^^^
