@@ -24,6 +24,9 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
+- "`Lu named director of College of Engineering Honors Program
+  <https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2025/2025-0717-lu-engineering-honors-program-director>`_", Purdue College of Engineering.
+
 - "`Cyberinfrastructure for Multi-Stream Architectures Applied to Computer Vision: Efficiency via Co-Design of Network Architectures and Framework Operators <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2504445>`_", NSF OAC 2504445.
 
 - "`2025/06/30 Artificial Intelligence for Music
