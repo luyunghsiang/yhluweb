@@ -348,16 +348,19 @@ Conference Papers
 
 - Cheng-Yun Yang, Gowri Ramshankar, Sudarshan Nambiar, Evan Miller,
   Xun Zhang, Nicholas Eliopoulos, Purvish Jajal, Xiaolong Wu, Dave
-  Tian, Shuo-Han Chen, Chiy-Ferng Perng, Yung-Hsiang Lu, ``Defending
+  Tian, Shuo-Han Chen, Chiy-Ferng Perng, Yung-Hsiang Lu, "`Defending
   Membership Inference Attack on Edge using Trusted Execution
-  Environments'', Design Automation Conference 2024.
+  Environments
+  <https://61dac.conference-program.com/presentation/?id=RESEARCH1873&sess=sess237>`_'',
+  Design Automation Conference 2024.
   
 - Cheng-Yun Yang, Gowri Ramshankar, Sudarshan Nambiar, Evan Miller,Xun
   Zhang, Nicholas Eliopoulos, Purvish Jajal, Dave Jing Tian, Shuo-Han
-  Chen, Chiy-Ferng Perng, Yung-Hsiang Lu, "Securing Deep Neural
+  Chen, Chiy-Ferng Perng, Yung-Hsiang Lu, "`Securing Deep Neural
   Networks on Edge from Membership Inference Attacks Using Trusted
-  Execution Environments" , IEEE/ACM International Symposium on Low
-  Power Electronics and Design 2024.
+  Execution Environments
+  <https://dl.acm.org/doi/10.1145/3665314.3670821>`_" , IEEE/ACM
+  International Symposium on Low Power Electronics and Design 2024.
 
 - Brian Ng, Samantha Sudhoff, Haichang Li, Josh Kamphuis, Tim
   Nadolsky, Yingjie Chen, Kristen Yeon-Ji Yun, Yung-Hsiang Lu, "`Visualize
