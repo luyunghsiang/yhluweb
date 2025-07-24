@@ -24,6 +24,8 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
+- "`The 2025 Low-Power Computer Vision Challenge: Spurring Innovation for Edge and Mobile Devices <https://www.computer.org/publications/tech-news/insider-membership-news/2025-low-power-computer-vision-challenge>`_", Computer.org, 2025/07/14.
+
 - "`Lu named director of College of Engineering Honors Program
   <https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2025/2025-0717-lu-engineering-honors-program-director>`_", Purdue College of Engineering.
 
