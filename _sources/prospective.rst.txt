@@ -178,7 +178,16 @@ some common mistakes:
   explain the importance of their topics.  These researchers jump
   directly to technical details.
 
-- "Give me money first. Then, I will consider to talk to you." Some
+- "I work very hard."  Some people are confused and think activities
+  are accomplishments.  A person is successful because of
+  accomplishments, not because of long hours.
+
+- "I will try many things." Research is about depth, not breadth. When
+  a person aims for breadth, this person is always catching up with
+  what has already been done.  As a result, this person cannot
+  discover new knowledge.
+
+- "Give me money first. Then, I will consider  talking to you." Some
   beginning researchers consider research only after receiving
   financial support. The problem is that professors do not know what
   these students want to do and cannot provide financial support
