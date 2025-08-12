@@ -102,7 +102,7 @@ Contact Information
    publications
    patents
    teach
-   service
+   .. service
    
    
 
