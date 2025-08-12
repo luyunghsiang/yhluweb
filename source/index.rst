@@ -100,7 +100,7 @@ Contact Information
    research
    alumni
    publications
-   patents
+   .. patents
    teach
    .. service
    
