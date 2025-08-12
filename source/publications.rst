@@ -1,8 +1,9 @@
-Publications
-============
+Patents and Publications
+===============
 
 Journal Papers
---------------
+--------------------
+
 
 - Xiao Hu, Ziteng Jiao, Ayden Kocher, Zhenyu Wu, Junjie Liu, James C
   Davis, George K Thiruvathukal, Yung-Hsiang Lu, "`Evolution of
