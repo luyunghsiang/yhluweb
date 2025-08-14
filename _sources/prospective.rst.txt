@@ -5,6 +5,27 @@ The purpose of this section is to help prospective students understand
 whether Dr. Yung-Hsiang Lu's research team can meet your expectation.
 Dr. Lu advises both graduate and undergraduate students.
 
+A research project needs to answer the following questions:
+
+- What is the problem?  
+
+- Why is the problem worth solving? 
+  
+- Who cares about the problem?
+
+- What are existing solutions?
+
+- What are the deficiencies of existing solutions?
+
+- What is you solution?
+
+-  Why is your solution better?
+   
+- How do you evaluate? How do you validate that your solution is better?
+
+  
+
+
 Differences between Research and Classroom Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
