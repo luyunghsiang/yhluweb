@@ -60,7 +60,7 @@ National Science Foundation
 - 2017, PI, 1747694, "`Summit of Software Infrastructure for Managing and
   Processing Big Multimedia Data at the Internet Scale <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1747694>`_"
 
-  - 2016, Co-PI, 1702722, "`Software Infrastructure for Sustained
+- 2016, Co-PI, 1702722, "`Software Infrastructure for Sustained
     Innovation (SI2) Principal Investigator Workshop
     <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1702722>`_"
 
