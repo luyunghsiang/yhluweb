@@ -50,56 +50,71 @@ National Science Foundation
   Enable Computer Vision Applications at the Edge Using Automated
   Contextual Analysis <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104709>`_"
 
-- 2020, PI, Collaborative:RAPID:Leveraging New Data Sources to Analyze
-  the Risk of COVID-19 in Crowded Locations
+- 2020, PI, 2027524, "`Collaborative:RAPID:Leveraging New Data Sources to Analyze
+  the Risk of COVID-19 in Crowded Locations <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2027524>`_"
 
-- 2019, PI, CCRI: Planning: Collaborative Research: Planning to
+- 2019, PI, 1925713, "`CCRI: Planning: Collaborative Research: Planning to
   Develop a Low-Power Computer Vision Platform to Enhance Research
-  in Computing Systems
+  in Computing Systems <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`_"
 
-- 2017, PI, Summit of Software Infrastructure for Managing and
-  Processing Big Multimedia Data at the Internet Scale
+- 2017, PI, 1747694, "`Summit of Software Infrastructure for Managing and
+  Processing Big Multimedia Data at the Internet Scale <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1747694>`_"
 
-- 2015, PI, SI2-SSE: Analyze Visual Data from Worldwide Network
-  Cameras
+  - 2016, Co-PI, 1702722, "`Software Infrastructure for Sustained
+    Innovation (SI2) Principal Investigator Workshop
+    <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1702722>`_"
 
-- 2015, PI, I-Corps: Business Analytics for Large Scale Intelligence
+- 2015, PI, 1535108, "`SI2-SSE: Analyze Visual Data from Worldwide
+  Network Cameras
+  <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1535108>`_"
 
-- 2014, PI, US-Singapore Workshop: Collaborative Research: Understand
-  the World by Analyzing Many Video Streams
+- 2015, PI, 1530914, "`I-Corps: Business Analytics for Large Scale
+  Intelligence
+  <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1530914>`_"
 
-- 2013, Co-PI, Planning Grant: I/UCRC for Net-Centric Software and
-  Systems Center Research Center
+- 2014, PI, 1427808, "`US-Singapore Workshop: Collaborative Research:
+  Understand the World by Analyzing Many Video Streams
+  <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1427808>`_"
 
-- 2010, Co-PI, CI-ADDO-NEW: Collaborative Research: Development of
-  DARwIn Humanoid Robots for Research, Education and Outreach
+- 2013, Co-PI, 1266318, "`Planning Grant: I/UCRC for Net-Centric Software and
+  Systems Center Research Center <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1266318>`_"
 
-- 2009, Co-PI, CRI: II-NEW: Adaptive Robotic Testbed for Wireless
-  Sensor Networks and Autonomous Systems
+- 2010, Co-PI, 0958487, "`CI-ADDO-NEW: Collaborative Research: Development of
+  DARwIn Humanoid Robots for Research, Education and Outreach <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0958487>`_"
 
-- 2008, Co-PI, CRI: Planning - A Testbed for Compiler-supported
-  Scalable Error Monitoring and Diagnosis for Reliable and Secure
-  Sensor Networks
+- 2009, Co-PI, 0855098, "`CRI: II-NEW: Adaptive Robotic Testbed for
+  Wireless Sensor Networks and Autonomous Systems
+  <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0855098>`_"
 
-- 2007, Co-PI, NeTS-NOSS: AIDA: Autonomous Information Dissemination
-  in RAndomly Deployed Sensor Networks
+- 2008, Co-PI, 0751101, "`CRI: Planning - A Testbed for
+  Compiler-supported Scalable Error Monitoring and Diagnosis for
+  Reliable and Secure Sensor Networks
+  <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0751101>`_"
 
-- 2007, Co-PI, CPATH EAE: Extending a Bottom-Up Education Model to
-  Support Concurrency from the First Year
+- 2007, Co-PI, 0721873, "`NeTS-NOSS: AIDA: Autonomous Information
+  Dissemination in RAndomly Deployed Sensor Networks
+  <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0721873>`_"
 
-- 2007, Co-PI, CT-ISG: Compiler-Enabled Adaptive Security Monitoring
-  on Networked Embedded Systems
+- 2007, Co-PI, 0722212, "`CPATH EAE: Extending a Bottom-Up Education Model to
+  Support Concurrency from the First Year <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0722212>`_"
 
-- 2006, PI, CPA: Cross-Layer Energy Management by Architectures,
-  Operating Systems, and Application Programs
+- 2007, Co-PI, 0716271, "`CT-ISG: Compiler-Enabled Adaptive Security Monitoring
+  on Networked Embedded Systems <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0716271>`_"
 
-- 2005, Co-PI, CSR-EHS: Resource-Efficient Monitoring, Diagnosis, and
-  Programming Support for Reliable Networked Embedded Systems
+- 2006, PI, 0541267, "`CPA: Cross-Layer Energy Management by Architectures,
+  Operating Systems, and Application Programs <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0541267>`_"
 
-- 2004, PI, CAREER: A Unified Approach for Energy Management by
-  Operating Systems
+- 2005, Co-PI, 0509394, "`CSR-EHS: Resource-Efficient Monitoring,
+  Diagnosis, and Programming Support for Reliable Networked Embedded
+  Systems
+  <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0509394>`_"
 
-- 2003, Co-PI, IIS: Distributed Energy-Efficient Mobile Robots
+- 2004, PI, 0347466, "`CAREER: A Unified Approach for Energy
+  Management by Operating Systems
+  <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0347466>`_"
+
+- 2003, Co-PI, 0329061, "`IIS: Distributed Energy-Efficient Mobile
+  Robots <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0329061>`_"
 
 Qualcomm
 ^^^^^^^
