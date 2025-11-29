@@ -24,6 +24,15 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
+- "`Advancing Multi-Instrument Music Transcription: Results from the 2025 AMT Challenge <https://openreview.net/pdf?id=NG187AZ71W>`_", NeurIPS 2025 Workshop on AI for Music:
+Where Creativity Meets Computation.
+
+- "`Inference-Time Alignment of Diffusion Models via Evolutionary Algorithms <https://arxiv.org/abs/2506.00299>`_",  Preprint.
+
+- "`AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens <https://arxiv.org/abs/2511.18105>`_", Preprint.
+
+- "`LadderSym: A Multimodal Interleaved Transformer for Music Practice Error Detection <https://arxiv.org/abs/2510.08580>`_", Preprint.
+
 - "`The 2025 Low-Power Computer Vision Challenge: Spurring Innovation for Edge and Mobile Devices <https://www.computer.org/publications/tech-news/insider-membership-news/2025-low-power-computer-vision-challenge>`_", Computer.org, 2025/07/14.
 
 - "`Lu named director of College of Engineering Honors Program
