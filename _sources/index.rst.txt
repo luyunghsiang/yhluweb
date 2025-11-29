@@ -39,6 +39,8 @@ News
 
 - "`Cyberinfrastructure for Multi-Stream Architectures Applied to Computer Vision: Efficiency via Co-Design of Network Architectures and Framework Operators <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2504445>`_", NSF OAC 2504445.
 
+<!---
+  
 - "`2025/06/30 Artificial Intelligence for Music
   <https://ai4musicians.org/2025icme.html>`_", Workshop at 2025 IEEE
   International Conference on Multimedia & Expo (ICME)
@@ -52,6 +54,7 @@ News
 - "`Token Turing Machines are Efficient Vision Models <https://openaccess.thecvf.com/content/WACV2025/html/Jajal_Token_Turing_Machines_are_Efficient_Vision_Models_WACV_2025_paper.html>`_", IEEE/CVF Winter
   Conference on Applications of Computer Vision 2025
 
+  --->
 
 |2024ICP2book| |2022LPCVbook| |2015ICPbook|
 
