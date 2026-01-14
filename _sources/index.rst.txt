@@ -24,6 +24,8 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
+- "`From Score to Sound: An End-to-End MIDI-to-Motion Pipeline for Robotic Cello Performance <https://arxiv.org/abs/2601.03562>`_",  
+
 - "`Advancing Multi-Instrument Music Transcription: Results from the 2025 AMT Challenge <https://openreview.net/pdf?id=NG187AZ71W>`_",  NeurIPS 2025 "`Workshop on AI for Music: Where Creativity Meets Computation <https://aiformusicworkshop.github.io/>`_"
 
 - "`Inference-Time Alignment of Diffusion Models via Evolutionary Algorithms <https://arxiv.org/abs/2506.00299>`_",  Preprint.
@@ -58,7 +60,7 @@ News
 Books
 -----
 
-- Yung-Hsiang Lu and George K. Thiruvathukal "`Intermediate C Programming (2nd Edition) <https://www.routledge.com/Intermediate-C-Programming/Lu-Thiruvathukal/p/book/9781032189819>`_", CRC Press, ISBN 978-1-0321-8981-9, 480 Pages 14 Color & 40 B/W Illustrations, To be published February 8, 2024. Resources for instructors and students:
+- Yung-Hsiang Lu and George K. Thiruvathukal "`Intermediate C Programming (2nd Edition) <https://www.routledge.com/Intermediate-C-Programming/Lu-Thiruvathukal/p/book/9781032189819>`_", CRC Press, ISBN 978-1-0321-8981-9, 480 Pages 14 Color & 40 B/W Illustrations, February 8, 2024. Resources for instructors and students:
 
   *  `Slides for the chapters <https://figshare.com/articles/presentation/slides/25202462>`_.
 
