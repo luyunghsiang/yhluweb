@@ -24,6 +24,21 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
+- Benjamin Shiue-Hal Chou, Purvish Jajal, Nicholas John Eliopoulos,
+  James C. Davis, George K Thiruvathukal, Kristen Yeon-Ji Yun,
+  Yung-Hsiang Lu, "LadderSym: A Multimodal Interleaved Transformer for
+  Music Practice Error Detection", International Conference on
+  Learning Representations 2026.
+
+- Paolo Wang, Michael Zhang, Shrinand Perumal, Ekaterina Tszyao, Luke
+  Choi, Kexin Sha, Felix Lu, Paige Lorenz, Jackson P. Shields,
+  Sivamurugan Velmurugan, Joshua Kemplin, William P. Jiang, Gurtej
+  Bagga, Trevor Ju, Raymond Otis Kwon, Kristen Yeon-Ji Yun,
+  Yung-Hsiang Lu, "Real-Time Cellist Postural Evaluation With
+  On-Device Computer Vision", International Conference on
+  Human-Computer Interaction 2026.
+
+
 - "`From Score to Sound: An End-to-End MIDI-to-Motion Pipeline for Robotic Cello Performance <https://arxiv.org/abs/2601.03562>`_",  
 
 - "`Advancing Multi-Instrument Music Transcription: Results from the 2025 AMT Challenge <https://openreview.net/pdf?id=NG187AZ71W>`_",  NeurIPS 2025 "`Workshop on AI for Music: Where Creativity Meets Computation <https://aiformusicworkshop.github.io/>`_"
