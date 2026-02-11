@@ -24,6 +24,8 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
+- "`2026 IEEE Low-Power Computer Vision Challenge <https://www.youtube.com/watch?v=a36rTiqND4w>`_"
+
 - Benjamin Shiue-Hal Chou, Purvish Jajal, Nicholas John Eliopoulos,
   James C. Davis, George K Thiruvathukal, Kristen Yeon-Ji Yun,
   Yung-Hsiang Lu, "LadderSym: A Multimodal Interleaved Transformer for
