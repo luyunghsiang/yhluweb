@@ -39,7 +39,7 @@ National Science Foundation
 - 2023, Senior Personnel, "`AI Institute for Agent-Based Cyber Threat
   Intelligence and Operation (ACTION) <https://action.ucsb.edu>`_"
   
-- 2021, PI, 2120430, "`CNS Collaborative Research: CAR:NEW: Research
+- 2021, PI, 2120430, "`CNS Collaborative Research: CCRI:NEW: Research
   Infrastructure for Real-Time Computer Vision and Decision Making via
   Mobile Robots <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2120430>`_"
 
@@ -116,6 +116,8 @@ National Science Foundation
 
 Qualcomm
 ^^^^^^^
+
+- 2026, Qualcomm Faculty Research Award, ``Efficient Computer Vision and Low-Power Computer Vision Challenge"
 
 - 2024, Qualcomm Faculty Research Award, ``Efficient Computer Vision"
 
