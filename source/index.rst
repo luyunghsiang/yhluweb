@@ -115,7 +115,7 @@ Contact Information
    alumni
    publications
    .. patents
-   teach
+   .. teach
    .. service
    
    
