@@ -10,9 +10,13 @@ Positions
 
 - 2017 to Present, Professor, Electrical and Computer Engineering, Purdue University, Indiana, USA
 
+- 2025 to Present, Director, Engineering Honors Program, Purdue University, Indiana, USA
+
+- 2022/01 - 2022/05, Visiting Professor (Sabbatical), Computer Science and Engineering, Seoul National University, S. Korea  
+
 - 2020/01 - 2022/06, Director, John Martinson Engineering  Entrepreneurial Center, Purdue University, Indiana, USA
 
-- 2011/08 - 2011/12, Visiting Associate Professor, School of Computing, National  University of Singapore, Singapore
+- 2011/08 - 2011/12, Visiting Associate Professor (Sabbatical), School of Computing, National  University of Singapore, Singapore
 
 - 2008 - 2017, Associate  Professor, Electrical and Computer Engineering, Purdue University, Indiana, USA
 
