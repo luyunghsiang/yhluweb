@@ -3,12 +3,12 @@
 Yung-Hsiang Lu
 ==============
 
-<---
+<!---
 .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image277153
    :width: 35%
    :alt: Yung-Hsiang Lu
    :align: right
-	   --->
+--->	   
 
 Yung-Hsiang Lu is a professor of Electrical and Computer Engineering
 at Purdue University.  He is a University Faculty Scholar of Purdue
