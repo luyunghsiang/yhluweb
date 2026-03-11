@@ -4,7 +4,7 @@ Yung-Hsiang Lu
 ==============
 
 
-.. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image277153
+.. image::![Yung-Hsiang Lu's photo] https://engineering.purdue.edu/ResourceDB/ResourceFiles/image277153
    :width: 35%
    :alt: Yung-Hsiang Lu
    :align: right
