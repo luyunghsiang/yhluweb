@@ -22,13 +22,6 @@ Positions
 Education
 ---------
 
-|StanfordPhD| |ThesisSignature|
-
-.. |StanfordPhD| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/StanfordPhD.jpg
-   :width: 45%
-
-.. |ThesisSignature| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/ThesisSignatures.jpg
-   :width: 45%
 
 - 2002, Ph.D.,  Electrical Engineering, Stanford University, California, USA
 
@@ -42,22 +35,6 @@ Education
 Awards and Recognition
 -----------------------------------
 
-|IEEEfellow| |ACMDistinguished|
-
-|DistinguishedVisitor| |universityscholar|
-
-
-.. |ACMDistinguished| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/acmdistinguishedscientist.png
-   :width: 45%
-
-.. |IEEEfellow| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/IEEEFellowCertificate.jpg
-   :width: 45%
-
-.. |DistinguishedVisitor| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/distinguishedvisitor.png
-   :width: 45%
-
-.. |universityscholar| image:: https://raw.githubusercontent.com/luyunghsiang/yhluweb/refs/heads/master/images/universityscholar.jpg
-   :width: 45%
 	         
 - 2023, `Distinguished Visitor <https://www.computer.org/distinguished-visitors-program>`_  of the Computer Society
 	   
