@@ -3,11 +3,6 @@
 Yung-Hsiang Lu
 ==============
 
-[ .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image277153 ]
-[   :width: 35% ]
-[   :alt: Yung-Hsiang Lu ]
-[   :align: right ]
-
 Yung-Hsiang Lu is a professor of Electrical and Computer Engineering
 at Purdue University.  He is a University Faculty Scholar of Purdue
 University.  He is a fellow of the IEEE (Institute of Electrical and
@@ -58,20 +53,6 @@ News
 - "`Cyberinfrastructure for Multi-Stream Architectures Applied to Computer Vision: Efficiency via Co-Design of Network Architectures and Framework Operators <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2504445>`_", NSF OAC 2504445.
 
 
-|2024ICP2book| |2022LPCVbook| |2015ICPbook|
-
-
-.. |2024ICP2book| image:: https://images.routledge.com/common/jackets/crclarge/978103218/9781032189819.jpg
-   :width: 28%
-   :class: with-border	    
-
-.. |2022LPCVbook| image:: https://images.routledge.com/common/jackets/amazon/978036774/9780367744700.jpg 
-   :width: 28%
-   :class: with-border
-
-.. |2015ICPbook| image:: https://images.routledge.com/common/jackets/amazon/978149871/9781498711630.jpg
-   :width: 28%
-   :class: with-border
 	   
 Books
 -----
