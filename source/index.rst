@@ -57,10 +57,7 @@ News
 Books
 -----
 
-- (Editors) J Senthilnath, Xiaoli Li, and Yung-Hsiang Lu "`Sustainable
-AI Methods and Scientific Applications
-<https://www.worldscientific.com/worldscibooks/10.1142/14816>`_",
-World Scientific, ISBN 978-981-98-3104-3, 294 pages, September 2026.
+- (Editors) J Senthilnath, Xiaoli Li, and Yung-Hsiang Lu "`Sustainable AI Methods and Scientific Applications <https://www.worldscientific.com/worldscibooks/10.1142/14816>`_", World Scientific, ISBN 978-981-98-3104-3, 294 pages, September 2026.
 
 
 - Yung-Hsiang Lu and George K. Thiruvathukal "`Intermediate C Programming (2nd Edition) <https://www.routledge.com/Intermediate-C-Programming/Lu-Thiruvathukal/p/book/9781032189819>`_", CRC Press, ISBN 978-1-0321-8981-9, 480 Pages 14 Color & 40 B/W Illustrations, February 8, 2024. Resources for instructors and students:
