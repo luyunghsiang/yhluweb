@@ -70,7 +70,7 @@ Books
 
 - (Editors) George K. Thiruvathukal, Yung-Hsiang Lu, Jaeyoun Kim, Yiran Chen, Bo Chen, "`Low-Power Computer Vision Improve the  Efficiency of Artificial Intelligence   <https://www.routledge.com/Low-Power-Computer-Vision-Improve-the-Efficiency-of-Artificial-Intelligence/Thiruvathukal-Lu-Kim-Chen-Chen/p/book/9780367744700>`_",  Chapman and Hall/CRC, ISBN 978-0-3677-4470-0, 438 Pages 62 Color and  39 B/W Illustrations, Published February 23, 2022.
 
-- Yung-Hsiang Lu, "`Intermediate C Programming  <https://www.routledge.com/Intermediate-C-Programming/Lu/p/book/9781498711630>`_",  CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,  Published June 16, 2015. `Chinese Version  <https://developer.aliyun.com/article/214499>`_.
+- Yung-Hsiang Lu, "`Intermediate C Programming  <https://www.amazon.com/Intermediate-C-Programming-Yung-Hsiang-Lu/dp/1498711634/?_encoding=UTF8&pd_rd_w=A2SLc&content-id=amzn1.sym.f8e88413-4697-42ea-9bf7-b28eb886330d&pf_rd_p=f8e88413-4697-42ea-9bf7-b28eb886330d&pf_rd_r=136-1036913-8540247&pd_rd_wg=9jwol&pd_rd_r=528610a6-002e-4b7f-85b6-d63a85d0ce3e>`_",  CRC Press, ISBN 978-1-4987-1163-0, 500 Pages, 123 B/W Illustrations,  Published June 16, 2015. `Chinese Version  <https://developer.aliyun.com/article/214499>`_.
 
 
 Contact Information
