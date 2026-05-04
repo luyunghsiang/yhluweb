@@ -18,6 +18,8 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
+- "`2026 T. Michael Elliott Distinguished Service Certificate <https://www.computer.org/volunteering/awards/distinguished-service>`_"
+
 - "`2026 IEEE Low-Power Computer Vision Challenge <https://www.youtube.com/watch?v=a36rTiqND4w>`_"
 
 - Benjamin Shiue-Hal Chou, Purvish Jajal, Nicholas John Eliopoulos,
