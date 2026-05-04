@@ -39,6 +39,8 @@ Education
 Awards and Recognition
 -----------------------------------
 
+-2026, `T. Michael Elliott Distinguished Service Certificate <https://www.computer.org/volunteering/awards/distinguished-service>`_ of the Computer Society
+
 	         
 - 2023, `Distinguished Visitor <https://www.computer.org/distinguished-visitors-program>`_  of the Computer Society
 	   
