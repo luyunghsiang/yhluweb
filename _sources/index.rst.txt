@@ -22,44 +22,15 @@ News
 
 - "`2026 T. Michael Elliott Distinguished Service Certificate <https://www.computer.org/volunteering/awards/distinguished-service>`_"
 
-- "`2026 IEEE Low-Power Computer Vision Challenge <https://www.youtube.com/watch?v=a36rTiqND4w>`_"
+- "A Multimodal Interleaved Transformer for  Music Practice Error Detection", International Conference on Learning Representations (ICLR) 2026.
 
-- Benjamin Shiue-Hal Chou, Purvish Jajal, Nicholas John Eliopoulos,
-  James C. Davis, George K Thiruvathukal, Kristen Yeon-Ji Yun,
-  Yung-Hsiang Lu, "LadderSym: A Multimodal Interleaved Transformer for
-  Music Practice Error Detection", International Conference on
-  Learning Representations 2026.
-
-- Paolo Wang, Michael Zhang, Shrinand Perumal, Ekaterina Tszyao, Luke
-  Choi, Kexin Sha, Felix Lu, Paige Lorenz, Jackson P. Shields,
-  Sivamurugan Velmurugan, Joshua Kemplin, William P. Jiang, Gurtej
-  Bagga, Trevor Ju, Raymond Otis Kwon, Kristen Yeon-Ji Yun,
-  Yung-Hsiang Lu, "Real-Time Cellist Postural Evaluation With
-  On-Device Computer Vision", International Conference on
-  Human-Computer Interaction 2026.
-
-
-- "`From Score to Sound: An End-to-End MIDI-to-Motion Pipeline for Robotic Cello Performance <https://arxiv.org/abs/2601.03562>`_",  
-
-- "`Advancing Multi-Instrument Music Transcription: Results from the 2025 AMT Challenge <https://openreview.net/pdf?id=NG187AZ71W>`_",  NeurIPS 2025 "`Workshop on AI for Music: Where Creativity Meets Computation <https://aiformusicworkshop.github.io/>`_"
-
-- "`Inference-Time Alignment of Diffusion Models via Evolutionary Algorithms <https://arxiv.org/abs/2506.00299>`_",  Preprint.
-
-- "`AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens <https://arxiv.org/abs/2511.18105>`_", Preprint.
-
-- "`LadderSym: A Multimodal Interleaved Transformer for Music Practice Error Detection <https://arxiv.org/abs/2510.08580>`_", Preprint.
-
-- "`The 2025 Low-Power Computer Vision Challenge: Spurring Innovation for Edge and Mobile Devices <https://www.computer.org/publications/tech-news/insider-membership-news/2025-low-power-computer-vision-challenge>`_", Computer.org, 2025/07/14.
-
-- "`Lu named director of College of Engineering Honors Program
-  <https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2025/2025-0717-lu-engineering-honors-program-director>`_", Purdue College of Engineering.
-
-- "`Cyberinfrastructure for Multi-Stream Architectures Applied to Computer Vision: Efficiency via Co-Design of Network Architectures and Framework Operators <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2504445>`_", NSF OAC 2504445.
-
+- "Real-Time Cellist Postural Evaluation With On-Device Computer Vision", International Conference on Human-Computer Interaction (HCII) 2026.
 
 	   
 Books
 -----
+
+-  Yung-Hsiang Lu and George K. Thiruvathukal "`Recursion: Mathematics and Python <https://www.amazon.com/dp/1041149530>`_", CRC Press, ISBN 978-100-367-6997, 236 pages, August 2026.
 
 - (Editors) J Senthilnath, Xiaoli Li, and Yung-Hsiang Lu "`Sustainable AI Methods and Scientific Applications <https://www.worldscientific.com/worldscibooks/10.1142/14816>`_", World Scientific, ISBN 978-981-98-3104-3, 294 pages, September 2026.
 
