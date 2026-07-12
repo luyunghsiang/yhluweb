@@ -375,7 +375,7 @@ Conference Papers
 
 - Purvish Jajal, Nicholas John Eliopoulos, Benjamin Shiue-Hal Chou, George K Thiruvathukal, Yung-Hsiang Lu, James C. Davis, "`AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens <https://cvpr.thecvf.com/virtual/2026/poster/40768>`_", IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. 
 
-- Purvish Jajal, Nicholas John Eliopoulos, Benjamin Shiue-Hal Chou, George K Thiruvathukal, James C. Davis, Yung-Hsiang Lu, "`Inference-Time Alignment of Diffusion Models with Evolutionary Algorithms https://cvpr.thecvf.com/virtual/2026/poster/40913`_", IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. 
+- Purvish Jajal, Nicholas John Eliopoulos, Benjamin Shiue-Hal Chou, George K Thiruvathukal, James C. Davis, Yung-Hsiang Lu, "`Inference-Time Alignment of Diffusion Models with Evolutionary Algorithms <https://cvpr.thecvf.com/virtual/2026/poster/40913>`_", IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. 
 
 
 2025
