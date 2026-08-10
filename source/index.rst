@@ -18,7 +18,9 @@ embedded systems, cloud and mobile computing.
 News
 ----
 
-- "Correcting in the Moment: Evaluating Real-Time AI Postural Feedback for Cellists"  ACM International Conference on Multimodal Interaction (ICMI) 2026 
+- "Music as a Frontier for Embodied AI: The Case for Robotic Musicianship" accepted by ACM AI Leadership Summit (2026)
+
+- "Correcting in the Moment: Evaluating Real-Time AI Postural Feedback for Cellists" accepted by ACM International Conference on Multimodal Interaction (ICMI) 2026 
 
 - "`2026 T. Michael Elliott Distinguished Service Certificate <https://www.computer.org/volunteering/awards/distinguished-service>`_"
 
