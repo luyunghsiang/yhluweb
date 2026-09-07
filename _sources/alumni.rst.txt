@@ -4,13 +4,21 @@ Students and Alumni
 Current Graduate Students
 -------------------------
 
-- Nick Eliopoulos. Topic: Efficient Computer Vision using Transformers
+- Zihao Ye. Topic: Detect Fake Media
 
-- Cheng-Yun Yang. Topic: Active and Real-Time Computer Vision
+- Kevin Su: Topic: Efficient Computer Vision
 
-- Purvish Jatin Jajal. Topic: Evaluate Pre-Trained Machine Models
+- Samantha R Sudhoff: Detect Fake Media
 
-- Benjamin Shiue-Hal Chou. Topic: Artificial Intelligence for Music
+- Jeongmin Oh: Robotic Musician (co-advise with Yeon-Ji Yun)
+
+- Benjamin Shiue-Hal Chou. Topic: Artificial Intelligence for Music (co-advise with Yeon-Ji Yun)
+
+- Nick Eliopoulos. Topic: Efficient Computer Vision using Transformers (co-advise with James Davis)
+
+- Purvish Jatin Jajal. Topic: Evaluate Pre-Trained Machine Models (co-advise with James Davis)
+
+- Cheng-Yun Yang. Topic: Cybersecurity (co-advise with Dongyan Xu)
 
 Past Graduate Students
 ----------------------
